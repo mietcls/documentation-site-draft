@@ -47,8 +47,10 @@
   * [Front-end](tooling/front-end/README.md)
     * [CSS](tooling/front-end/css.md)
     * [Ember](tooling/front-end/ember.md)
+  * [Back-end](tooling/back-end/README.md)
+    * [Semantic works](tooling/back-end/semantic-works.md)
+    * [Mu-semtech](tooling/back-end/mu-semtech.md)
   * [Design](tooling/design.md)
-  * [Back-end](tooling/back-end.md)
   * [Analysis](tooling/analysis.md)
   * [Communication](tooling/communication.md)
 
