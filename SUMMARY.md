@@ -10,6 +10,7 @@
     * [Plugins](products-services/gelinkt-notuleren/plugins.md)
     * [Handleiding – manual](products-services/gelinkt-notuleren/handleiding-manual.md)
     * [\[partially private information\] Team](products-services/gelinkt-notuleren/partially-private-information-team.md)
+    * [\[private information\] Klanten Advies Raad \(KAR 🚃\) - Customer Advisory Board \(CAB 🚕\)](products-services/gelinkt-notuleren/private-information-klanten-advies-raad-kar-customer-advisory-board-cab.md)
   * [Loket voor Lokale Besturen](products-services/loket-voor-lokale-besturen/README.md)
     * [Berichtencentrum](products-services/loket-voor-lokale-besturen/berichtencentrum.md)
     * [Mandatenbeheer](products-services/loket-voor-lokale-besturen/mandatendatabank.md)
