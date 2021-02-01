@@ -28,7 +28,7 @@
     * [\[partially private information\] Team](products-services/erediensten/partially-private-information-team.md)
   * [ContactHUB](products-services/contacthub/README.md)
     * [\[partially private information\] Team](products-services/contacthub/partially-private-information-team.md)
-  * [Handleidingen – Manuals](products-services/handleidingen-manuals.md)
+  * ["How To" Handleidingen – Manuals](products-services/handleidingen-manuals.md)
   * [Publieke databanken - Public databases](products-services/wikis-and-publieke-databanken-public-databases/README.md)
     * [Mandatendatabank](products-services/wikis-and-publieke-databanken-public-databases/mandatendatabank.md)
     * [Leidinggevendendatabank](products-services/wikis-and-publieke-databanken-public-databases/leidinggevendendatabank.md)
