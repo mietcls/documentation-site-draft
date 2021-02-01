@@ -14,7 +14,19 @@ De bedoeling van Gelinkt Notuleren is niet om rechtstreeks te concurreren met be
 
 Externe notuleringpakketten die lokale besturen helpen met het opstellen van notulen, kunnen deze embeddable ook hergebruiken in hun software pakket om de data te extraheren.
 
-Het datamodel
+#### Het datamodel
+
+#### Publieke informatie sites
+
+[Mandatendatabank](../wikis-and-publieke-databanken-public-databases/mandatendatabank.md)
+
+[Leidinggevendendatabank](../wikis-and-publieke-databanken-public-databases/leidinggevendendatabank.md)
+
+[Publicatiewebsite](../wikis-and-publieke-databanken-public-databases/publicatiepagina-gelinkt-notuleren.md)
+
+[Centrale vindplaats](../wikis-and-publieke-databanken-public-databases/centrale-vindplaats.md)
+
+[Metis](../wikis-and-publieke-databanken-public-databases/metis.md)
 
 ### \[EN\] Gelinkt Notuleren \(Linked Notetaking\)
 
@@ -33,40 +45,4 @@ The aim of **Gelinkt Notuleren** is not to compete directly with existing noteta
 Production site: [https://gelinkt-notuleren.vlaanderen.be/](https://gelinkt-notuleren.vlaanderen.be/)
 
 Dev site: 
-
-## Contact
-
-### Development
-
-
-
-{% hint style="info" %}
-**Bart Stichelmans**  
-_Product Manager_  
-  
-Decides what is a priority, brings people together, guards quality.
-{% endhint %}
-
-{% hint style="info" %}
-**Niels Vandekeybus**  
-_Developer_  
-  
-Knows a lot about how the embeddable editor works within gelinkt notuleren, and how plugins behave.
-{% endhint %}
-
-{% hint style="info" %}
-**Dieter Peirs**  
-_Designer_  
-  
-Makes Gelinkt Notuleren and the embeddable editor user friendly, has built up the css architecture in Appuniversum. Does user testing.
-{% endhint %}
-
-{% hint style="info" %}
-**Alexander Boterberg**  
-_Analyst_  
-  
-Brings feature passports to life together with Bart, to make sure the whole team understands where we are going. 
-{% endhint %}
-
-
 

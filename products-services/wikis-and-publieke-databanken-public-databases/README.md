@@ -1,2 +1,2 @@
-# Wikis & Publieke databanken - Public databases
+# Publieke databanken - Public databases
 
