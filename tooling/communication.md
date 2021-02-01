@@ -10,6 +10,12 @@ Central Planning Day, Innovation and Planning Iteration, Workshops, ...
 
 Visualisation collaboration 
 
+{% hint style="info" %}
+Need access? Ask Miet Claes
+{% endhint %}
+
+
+
 ## Surveys
 
 ### Mentimeter
@@ -23,6 +29,12 @@ Conducting workshops with clients
 ## Email
 
 ### Mailchimp
+
+{% hint style="info" %}
+Need access? Ask Anne Van Looveren
+{% endhint %}
+
+
 
 ## Powerpoint
 
