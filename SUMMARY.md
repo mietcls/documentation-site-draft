@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Bouw mee aan het LBLOD Ecosysteem – Help Build the LBLOD Ecosystem](README.md)
+* [Bouw mee aan het Semantische Ecosysteem van ABB  – Help Build the Semantische Ecosystem of AHA](README.md)
 * [\[open information\] Producten & Diensten – Products & Services](products-services/README.md)
   * [Linked Open Data](products-services/linked-open-data.md)
   * [Gelinkt Notuleren, Embeddable en Plug-ins](products-services/gelinkt-notuleren/README.md)

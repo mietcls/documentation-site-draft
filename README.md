@@ -4,7 +4,25 @@ description: >-
   пожаловать!
 ---
 
-# Bouw mee aan het LBLOD Ecosysteem – Help Build the LBLOD Ecosystem
+# Bouw mee aan het Semantische Ecosysteem van ABB  – Help Build the Semantische Ecosystem of AHA
+
+## **Agentschap Binnenland Bestuur /** Agency for Home Affairs
+
+{% hint style="success" %}
+\[NL\] Het Agentschap Binnenlands Bestuur bouwt mee aan duurzaam en democratisch samenleven in diversiteit. Dat doen we door burgers en bestuur te verbinden en te versterken.
+
+\[EN\] ABB contributes to sustainable and democratic living together in diversity by connecting and strengthening citizens and authorities
+{% endhint %}
+
+| 6 Domeinen | 6 Policy fields |
+| :--- | :--- |
+| Lokale besturen | Local governance |
+| Steden | Urban Policy |
+| Brussel | Brussels |
+| Gelijke Kansen, Integratie- en inburgering | Equal Opportunities |
+| Vlaamse Rand | Flemish Periphery |
+
+\[NL\] Meer informatie over de beleidsvelden: [https://www.vlaanderen.be/agentschap-binnenlands-bestuur/opdrachten](https://www.vlaanderen.be/agentschap-binnenlands-bestuur/opdrachten)
 
 ## **Het doel van LBLOD – The Goal of LBLOD** 
 
