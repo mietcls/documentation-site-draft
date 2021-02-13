@@ -18,7 +18,7 @@ Om die reden bouwen we onze webcomponenten in Ember. Deze kunnen niet gemakkelij
 
 **\[EN\]** Our applications use Ember.js as their Javascript framework. Only Kalliope uses a different platform, offered as a software package from a vendor.
 
-For this reason, we build our web components in Ember. These cannot be easily exchanged with other application builders within VO, but they may always reuse our code. Webuniverse uses Vue.js.
+For this reason, we build our web components in Ember. These cannot be easily exchanged with other application builders within VO, but they may always reuse our code. Webuniversum uses Vue.js.
 
 ## Code
 
