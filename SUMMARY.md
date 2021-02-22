@@ -54,6 +54,7 @@
   * [Front-end \(HTML, CSS, JS\)](tooling/front-end/README.md)
     * [Appuniversum](tooling/front-end/css.md)
     * [Ember](tooling/front-end/ember.md)
+    * [Accessibility](tooling/front-end/accessibility.md)
   * [Back-end](tooling/back-end/README.md)
     * [Semantic works](tooling/back-end/semantic-works.md)
     * [Mu-semtech](tooling/back-end/mu-semtech.md)
