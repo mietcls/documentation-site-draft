@@ -4,6 +4,10 @@
 
 {% embed url="https://www.scaledagileframework.com/" %}
 
+{% embed url="https://www.scaledagileframework.com/design-thinking/" %}
+
+
+
 ## Microsoft Teams
 
 Need input from Serge and Dries Beheydt

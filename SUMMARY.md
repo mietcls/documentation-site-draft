@@ -51,7 +51,7 @@
   * [Working Together & Product](tooling/working-together-and-product.md)
   * [Analysis](tooling/analysis.md)
   * [Design](tooling/design/README.md)
-    * [Design systems](tooling/design/design-systems.md)
+    * [Interesting reads](tooling/design/design-systems.md)
   * [Front-end \(HTML, CSS, JS\)](tooling/front-end/README.md)
     * [Appuniversum](tooling/front-end/css.md)
     * [Ember](tooling/front-end/ember.md)

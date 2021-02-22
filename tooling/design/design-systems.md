@@ -1,8 +1,10 @@
-# Design systems
+# Interesting reads
 
+## Design thinking in SAFE
 
+{% embed url="https://www.scaledagileframework.com/design-thinking/" %}
 
-## Inspiring design systems
+## Inspiring Design Systems
 
 {% embed url="https://designsystem.gov.au/community/" %}
 
