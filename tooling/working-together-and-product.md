@@ -38,7 +38,11 @@ Setting milestones, realistic goals, keeping track of goals
 
 Setting milestones, realistic goals, keeping track of goals
 
-### 
+## Inspiring books on working together
+
+{% embed url="https://basecamp.com/shapeup" %}
+
+
 
 
 
