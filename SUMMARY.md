@@ -34,7 +34,7 @@
   * [ContactHUB](products-services/contacthub/README.md)
     * [\[partially private information\] Team](products-services/contacthub/partially-private-information-team.md)
   * ["How To" Handleidingen – Manuals](products-services/handleidingen-manuals/README.md)
-    * [Untitled](products-services/handleidingen-manuals/untitled.md)
+    * [Hoe de handleiding aanpassen mét html editor](products-services/handleidingen-manuals/untitled.md)
   * [Publieke databanken - Public databases](products-services/wikis-and-publieke-databanken-public-databases/README.md)
     * [Mandatendatabank](products-services/wikis-and-publieke-databanken-public-databases/mandatendatabank.md)
     * [Leidinggevendendatabank](products-services/wikis-and-publieke-databanken-public-databases/leidinggevendendatabank.md)

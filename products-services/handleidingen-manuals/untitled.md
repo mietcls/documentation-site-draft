@@ -1,10 +1,8 @@
-# Untitled
+---
+description: In dit voorbeeld maken we gebruik van de open source software ATOM (atom.io).
+---
 
-## Hoe de handleiding aanpassen mét html editor
-
-In dit voorbeeld maken we gebruik van de open source software ATOM \(atom.io\).
-
-### 
+# Hoe de handleiding aanpassen mét html editor
 
 ### 1. Voorbereiding 
 
