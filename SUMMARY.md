@@ -45,6 +45,7 @@
 * [Tooling](tooling/README.md)
   * [Working Together & Product](tooling/working-together-and-product.md)
   * [Analysis](tooling/analysis.md)
+  * [User Interviews & Testing](tooling/user-interviews-and-testing.md)
   * [Design](tooling/design/README.md)
     * [Interesting reads](tooling/design/design-systems.md)
   * [Front-end \(HTML, CSS, JS\)](tooling/front-end/README.md)
@@ -55,6 +56,5 @@
     * [Semantic works](tooling/back-end/semantic-works.md)
     * [Mu-semtech](tooling/back-end/mu-semtech.md)
   * [Communication](tooling/communication.md)
-  * [User Interviews & Testing](tooling/user-interviews-and-testing.md)
 * [Dit is een testpagina](dit-is-een-testpagina.md)
 
