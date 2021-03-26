@@ -6,17 +6,17 @@ Since 2020 we have been user testing online. We have found a pretty flexible way
 
 ### Prepare
 
-#### Define the scope of your meeting
+#### Define the scope and target group of your session
 
 * What do you want to test now, and with which target groups?
   * Which people will you see later?
 * Which assumptions do you know you have, and which ones do you want to test?
 * What answers are you looking for?
 * What do you know you don't know yet?
+* Get an overview of who you need to talk to to get the relevant information for your project – and what steps you can undertake if you cannot find those people right away.
 
 #### Setting up the meeting
 
-* Get an overview of who you need to talk to to get the relevant information for your project – and what steps you can undertake if you cannot find those people right away.
 * Usually the product manager sets up the meetings via personal contacts, or partnerships that are relevant to the product or via the client \(VVSG – Vereniging van Vlaamse Steden en Gemeenten, Inter, Klankbordgroep Gent\).
 * Appoint an interviewer, and someone that takes notes. If it is a very specific area, you can consider having someone on board \(like a jurist\) to answer specific questions. More than 2 people can be overwhelming to the test subject, so find out what's the best for the outcome.
   * Consider turning off camera's for people that are not taking the interview, but do involve everyone in the introduction and when saying goodbye.
