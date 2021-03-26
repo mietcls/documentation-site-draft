@@ -56,5 +56,4 @@
     * [Semantic works](tooling/back-end/semantic-works.md)
     * [Mu-semtech](tooling/back-end/mu-semtech.md)
   * [Communication](tooling/communication.md)
-* [Dit is een testpagina](dit-is-een-testpagina.md)
 
