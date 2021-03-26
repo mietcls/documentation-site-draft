@@ -1,2 +1,2 @@
-# \[open information\] Producten & Diensten – Products & Services
+# Producten & Diensten – Products & Services
 

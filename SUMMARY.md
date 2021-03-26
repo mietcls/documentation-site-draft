@@ -2,7 +2,7 @@
 
 * [Bouw mee aan het Semantische Ecosysteem van ABB  – Help Build the Semantische Ecosystem of AHA](README.md)
 * [LBLOD – Lokale Besturen & Linked Open Data](lblod-lokale-besturen-and-linked-open-data.md)
-* [\[open information\] Producten & Diensten – Products & Services](products-services/README.md)
+* [Producten & Diensten – Products & Services](products-services/README.md)
   * [Linked Open Data](products-services/linked-open-data.md)
   * [Gelinkt Notuleren, Embeddable en Plug-ins](products-services/gelinkt-notuleren/README.md)
     * [Embeddable](products-services/gelinkt-notuleren/embeddable.md)
@@ -55,5 +55,6 @@
     * [Semantic works](tooling/back-end/semantic-works.md)
     * [Mu-semtech](tooling/back-end/mu-semtech.md)
   * [Communication](tooling/communication.md)
+  * [User Interviews & Testing](tooling/user-interviews-and-testing.md)
 * [Dit is een testpagina](dit-is-een-testpagina.md)
 
