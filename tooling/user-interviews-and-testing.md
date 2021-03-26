@@ -4,6 +4,10 @@
 
 Since 2020 we have been user testing online. We have found a pretty flexible way to perform that testing. Make sure you adjust the tools according to your needs!
 
+### Template
+
+{% file src="../.gitbook/assets/user-testing-template.xlsx" caption="User testing template" %}
+
 ### Prepare
 
 #### Define the scope and target group of your session
@@ -31,10 +35,6 @@ Since 2020 we have been user testing online. We have found a pretty flexible way
 #### Screen sharing
 
 When testing on a **demo environment**: make sure people can share their screen. Have a back-up available that allows you to to share your screen and perform the tasks they want to complete, just in case it doesn't work out. Make sure you don't steer or influence especially in this case.
-
-### Template
-
-{% file src="../.gitbook/assets/user-testing-template.xlsx" caption="User testing template" %}
 
 #### Scope & Overview
 

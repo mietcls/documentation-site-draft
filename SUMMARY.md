@@ -45,6 +45,7 @@
 * [Tooling](tooling/README.md)
   * [Working Together & Product](tooling/working-together-and-product.md)
   * [Analysis](tooling/analysis.md)
+  * [Testing](tooling/testing.md)
   * [User Interviews & Testing](tooling/user-interviews-and-testing.md)
   * [Design](tooling/design/README.md)
     * [Interesting reads](tooling/design/design-systems.md)
