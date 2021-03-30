@@ -1,4 +1,0 @@
-# Toegankelijk Vlaanderen
-
-Partners?
-
