@@ -47,7 +47,7 @@
     * [Ember](tooling/front-end/ember.md)
     * [Accessibility](tooling/front-end/accessibility.md)
   * [Back-end](tooling/back-end/README.md)
-    * [Semantic works](tooling/back-end/semantic-works.md)
+    * [Semantic works: Linked Data Microservices](tooling/back-end/semantic-works.md)
     * [Mu-semtech](tooling/back-end/mu-semtech.md)
   * [Communication](tooling/communication.md)
 
