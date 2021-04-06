@@ -1,16 +1,22 @@
 ---
 description: >-
   Deze handleiding zal uitleggen hoe analisten/developers/product managers/...
-  feedback kunnen geven op mockups via Figma.
+  feedback kunnen geven op mockups via comments op Figma.
 ---
 
-# Hoe werkt Figma?
+# Feedback geven op Figma mockups
 
 ## Figma navigeren
 
+Met een muis:   
 Om te **navigeren** tussen de verschillen schermen moet je **spatie en rechter muisknop** tegelijk ingedrukt houden en je muis bewegen. 
 
-Om **in te zoomen** naar een scherm, kan je **+** of **-** op je toetsenbord gebruiken \(dit kan verschillen per toetsenbord\). Je kan ook rechts boven zoom opties vinden met verschillende toetsenbord sneltoetsen terug vinden.
+Met een trackpad:   
+Als je een trackpad hebt, kan je heel makkelijk door de schermen in Figma navigeren, door met je vingers te slepen.
+
+Om **in te zoomen** naar een scherm, kan je **+** of **-** op je toetsenbord gebruiken \(dit kan verschillen per toetsenbord\). Je kan ook rechts boven zoom opties vinden met verschillende toetsenbord sneltoetsen terug vinden. 
+
+Als je een trackpad hebt, kan je ook makkelijk in- en uitzoomen door je twee vingers van of naar elkaar te slepen, 
 
 ## Feedback geven
 
