@@ -42,6 +42,7 @@
   * [User Interviews & Testing](tooling/user-interviews-and-testing.md)
   * [Design](tooling/design/README.md)
     * [Interesting reads](tooling/design/design-systems.md)
+    * [Hoe werkt Figma?](tooling/design/hoe-werkt-figma.md)
   * [Front-end \(HTML, CSS, JS\)](tooling/front-end/README.md)
     * [Appuniversum](tooling/front-end/css.md)
     * [Ember](tooling/front-end/ember.md)

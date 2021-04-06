@@ -70,6 +70,8 @@ _Footer:_ The footer has also been recreated. We only use it on log-in pages, be
 
 In de tussentijd kunnen we ons baseren op de Figma bibliotheek die Mono Company heeft gemaakt voor het maken van apps voor de Vlaamse overheid.
 
+{% page-ref page="hoe-werkt-figma.md" %}
+
 **\[EN\]** We use Figma, but we do not have a license yet. This is a discussion in progress.
 
 In the meantime, we can base ourselves on the Figma library Mono Company created for creating apps for the Flemish Government.
