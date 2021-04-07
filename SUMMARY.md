@@ -39,7 +39,7 @@
   * [Working Together & Product](tooling/working-together-and-product.md)
   * [Analysis](tooling/analysis.md)
   * [Testing](tooling/testing.md)
-  * [User Interviews & Testing](tooling/user-interviews-and-testing.md)
+  * [User Interviews & Testing \[remote\]](tooling/user-interviews-and-testing.md)
   * [Design](tooling/design/README.md)
     * [Interesting reads](tooling/design/design-systems.md)
     * [Feedback geven op Figma mockups](tooling/design/feedback-geven-op-figma-mockups.md)
