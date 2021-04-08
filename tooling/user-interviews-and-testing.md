@@ -10,7 +10,7 @@ Since 2020 we have been conducting remote, online, user tests and interviews. We
 
 ## Template
 
-{% file src="../.gitbook/assets/user-testing-template.xlsx" caption="Remote user interview & testing template \[dutch\]" %}
+{% file src="../.gitbook/assets/user-testing-template \(1\).xlsx" caption="Remote user interview & testing template \[dutch\]" %}
 
 ## Prepare & Execute
 
