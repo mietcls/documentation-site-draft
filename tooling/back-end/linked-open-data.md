@@ -1,4 +1,4 @@
-# Linked Open Data Principles
+# Linked Open Data
 
 ## What is linked open data?
 
