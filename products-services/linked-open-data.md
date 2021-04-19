@@ -4,11 +4,9 @@
 
 De producten en diensten worden binnen ABB gebouwd met Linked [Open Data](https://5stardata.info/en/) als basis. Publieke data, geen privacy-gevoelige data, worden op zo'n manier verzameld en beschikbaar gesteld dat mensen binnen en buiten de overheid die informatie kunnen verwerken, hergebruiken en verrijken.
 
-
-
-
-
 ### Waarom Lokale Besluiten als Linked Open Data
+
+{% embed url="https://www.youtube.com/watch?v=DsMbDIkUwMY" caption="Video voor LBLOD" %}
 
 Lokale besluiten bevatten waardevolle authentieke gegevens voor iedereen. 
 
@@ -20,4 +18,6 @@ Lokale besluiten bevatten waardevolle authentieke gegevens voor iedereen.
 Door de gegevens in lokale besluiten gelinkt te publiceren, kunnen organisaties die gegevens gemakkelijker hergebruiken. Gelinkte gegevens zijn gestandaardiseerd, waardoor machines ze eenvoudig kunnen vinden en verwerken. Iedereen kan met de informatie in de lokale besluiten aan de slag dankzij LBLOD.
 
 Een concreet voorbeeld: agentschappen en departementen van de Vlaamse overheid kunnen zelf de informatie die zij nodig hebben uit de gepubliceerde besluiten halen. Lokale besturen hoeven die niet telkens opnieuw op te sturen of aan te leveren.
+
+{% page-ref page="linked-open-data.md" %}
 
