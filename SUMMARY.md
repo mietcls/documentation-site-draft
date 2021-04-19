@@ -50,6 +50,6 @@
   * [Back-end](tooling/back-end/README.md)
     * [Semantic works: Linked Data Microservices](tooling/back-end/semantic-works.md)
     * [Mu-semtech](tooling/back-end/mu-semtech.md)
-    * [Linked Open Data](tooling/back-end/linked-open-data.md)
+    * [Linked Open Data Principles](tooling/back-end/linked-open-data.md)
   * [Communication](tooling/communication.md)
 
