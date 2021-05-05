@@ -1,25 +1,25 @@
 # Linked Open Data
 
-## \[NL\] De ruggengraat voor de producten en diensten voor ABB
+## \[NL\] Linked Open Data as a spine for the products and services for ABB
 
-De producten en diensten worden binnen ABB gebouwd met Linked [Open Data](https://5stardata.info/en/) als basis. Publieke data, geen privacy-gevoelige data, worden op zo'n manier verzameld en beschikbaar gesteld dat mensen binnen en buiten de overheid die informatie kunnen verwerken, hergebruiken en verrijken.
+The products and services that are based on Linked [Open Data](https://5stardata.info/en/). Public data, not privacy-sensitive data, are collected and shared in such a way that people within and outside of the government can use, reuse and enrich.
 
-### Waarom Lokale Besluiten als Linked Open Data
+### Why Local Decisions as Linked Open Data?
 
-_English Subtitles Available_
+_English Subtitles Available in the media player._
 
 {% embed url="https://www.youtube.com/watch?v=DsMbDIkUwMY" caption="Video voor LBLOD" %}
 
-Lokale besluiten bevatten waardevolle authentieke gegevens voor iedereen. 
+Local decisions contain valuable authentic data for everyone.
 
-* Als burger wil ik weten wanneer mijn straat ontoegankelijk is door werken.
-* Als ondernemer wil ik weten aan welke verplichtingen ik moet voldoen.
-* Als vereniging wil ik weten of en hoeveel subsidies ik kan krijgen.
-* Als middenveld wil ik weten hoe lokale besturen hun cultuurbeleid vormgeven.
+* As a citizen, I want to know when my street is inaccessible because of works.
+* As an entrepreneur, I want to know what obligations I have to fulfil.
+* As an association, I want to know if I can get subsidies, and how much.
+* As a member of civil society, I want to know how local authorities shape their cultural policy.
 
-Door de gegevens in lokale besluiten gelinkt te publiceren, kunnen organisaties die gegevens gemakkelijker hergebruiken. Gelinkte gegevens zijn gestandaardiseerd, waardoor machines ze eenvoudig kunnen vinden en verwerken. Iedereen kan met de informatie in de lokale besluiten aan de slag dankzij LBLOD.
+By publishing the data in local decisions as linked open data, organisations can reuse that data more easily. Linked data is standardised, making it easy for machines to find and process it. Anyone can work with the information in the local acts thanks to LBLOD.
 
-Een concreet voorbeeld: agentschappen en departementen van de Vlaamse overheid kunnen zelf de informatie die zij nodig hebben uit de gepubliceerde besluiten halen. Lokale besturen hoeven die niet telkens opnieuw op te sturen of aan te leveren.
+A concrete example: agencies and departments of the Flemish government can themselves extract the information they need from the published decrees. Local authorities do not have to send or deliver this information every time.
 
 {% page-ref page="../tooling/back-end/linked-open-data.md" %}
 
