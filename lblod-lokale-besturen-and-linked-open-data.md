@@ -1,22 +1,12 @@
-# LBLOD – Lokale Besturen & Linked Open Data
+# LBLOD – Local Governments & Linked Open Data
 
-## **Het doel van LBLOD – The Goal of LBLOD** 
+## **The Goal of LBLOD** 
 
-English subtitles available.
+_English subtitles available in the player!_
 
 {% embed url="https://youtu.be/DsMbDIkUwMY" caption="English subtitles available." %}
 
-## **\[NL\] Wat is LBLOD**
-
-**Lokale Besluiten als geLinkte Open Data** \(LBLOD\) is een _programma_. Het omvat alle ABB-projecten in kader van lokale besluitvoering, en gelinkte data \(linked data\).
-
-{% hint style="success" %}
-Linked data is een digitale methode om **informatie te structureren en te publiceren, zodat mensen en \(zoek\)machines het kunnen raadplegen op internet**.
-{% endhint %}
-
-Om ervoor te zorgen dat deze informatie open en gelinkt beschikbaar gesteld kan worden, hebben de partijen in het ecosysteem verschillende oplossingen bedacht en daar applicaties voor ontwikkeld.
-
-## **\[EN\] What is LBLOD**
+## **What is LBLOD**
 
 **Local Decisions as Linked Open Data** \(LBLOD\) is a program. It includes all ABB projects on linked data and local decision making.
 
