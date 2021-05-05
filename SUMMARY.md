@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Help Build the Semantische Ecosystem of AHA](README.md)
-* [LBLOD – Lokale Besturen & Linked Open Data](lblod-lokale-besturen-and-linked-open-data.md)
-* [Producten & Diensten – Products & Services](products-services/README.md)
+* [LBLOD – Local Governments & Linked Open Data](lblod-lokale-besturen-and-linked-open-data.md)
+* [Products & Services](products-services/README.md)
   * [Linked Open Data](products-services/linked-open-data.md)
   * [Gelinkt Notuleren, Embeddable en Plug-ins](products-services/gelinkt-notuleren/README.md)
     * [Gelinkt Notuleren App](products-services/gelinkt-notuleren/gelinkt-notuleren-app.md)
