@@ -5,6 +5,7 @@
 * [Producten & Diensten – Products & Services](products-services/README.md)
   * [Linked Open Data](products-services/linked-open-data.md)
   * [Gelinkt Notuleren, Embeddable en Plug-ins](products-services/gelinkt-notuleren/README.md)
+    * [Gelinkt Notuleren App](products-services/gelinkt-notuleren/gelinkt-notuleren-app.md)
     * [Embeddable](products-services/gelinkt-notuleren/embeddable.md)
     * [Say editor](products-services/gelinkt-notuleren/say-editor.md)
     * [Sjablonenbouwer](products-services/gelinkt-notuleren/sjablonenbouwer.md)
