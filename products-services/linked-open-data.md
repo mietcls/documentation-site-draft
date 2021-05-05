@@ -1,6 +1,6 @@
 # Linked Open Data
 
-## \[NL\] Linked Open Data as a spine for the products and services for ABB
+## Linked Open Data as a spine for the products and services for ABB
 
 The products and services that are based on Linked [Open Data](https://5stardata.info/en/). Public data, not privacy-sensitive data, are collected and shared in such a way that people within and outside of the government can use, reuse and enrich.
 
