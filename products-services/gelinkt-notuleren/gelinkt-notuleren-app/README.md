@@ -23,7 +23,9 @@ Gelinkt Notuleren wil besluitvorming ondersteunen, maar bestaat niet om de markt
 De functionaliteiten die we aanbieden bestaan om **gelinkte besluitvorming mogelijk te maken**. 
 {% endhint %}
 
-{% page-ref page="gelinkt-notuleren-ondersteunt-gelinkt-publiceren.md" %}
+{% page-ref page="fase-1-voorbereiden-agendapunten.md" %}
+
+
 
 
 
