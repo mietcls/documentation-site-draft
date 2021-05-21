@@ -1,2 +1,2 @@
-# Producten & Diensten – Products & Services
+# Products & Services
 
