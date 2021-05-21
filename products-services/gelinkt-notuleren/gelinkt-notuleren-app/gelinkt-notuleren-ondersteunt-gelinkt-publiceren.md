@@ -1,163 +1,73 @@
-# Gelinkt Notuleren Ondersteunt Gelinkt Publiceren
+---
+description: 'Hoe verloopt een zitting, en hoe ondersteunen wij dat?'
+---
 
-## Fase 1: Voorbereiden agendapunten
+# Een zitting notuleren, publiceren en melden met Gelinkt Notuleren
 
-Een lokaal bestuur bereidt agendapunten – ook dossiers of ontwerpbesluiten genoemd – apart voor. Dat gebeurt door de bevoegde dienst\(en\) binnen dat lokaal bestuur. Het gebeurt ook dat medewerkers van de secretarie agendapunten die geen specifieke kennis vereisten voorbereiden, zoals de goedkeuring van de notulen van de vorige zitting.
+Fase 4: Ondertekenen
 
-![Stap 1: voorbereiden agenda in agendapunten](../../../.gitbook/assets/screenshot-2021-05-20-at-10.23.25.png)
+Zowel de agenda, besluitenlijst, notulen als uittreksels dienen ondertekend te worden.
 
-**\[Hulp nodig: kloppen de mensen die betrokken zijn?\]**
+Men kan digitaal ondertekenen via Gelinkt Notuleren. De ondertekening verloopt op basis van de identiteit van de bevoegde personen. Deze personen loggen in via ACM-IDM, en kunnen dan eenvoudigweg ondertekend worden door op "onderteken" te klikken.
 
-### Bestuursorganen
+## Fase 5: Publiceren & Melden van Besluitenlijst, Notulen en Specifieke besluiten
 
-De agendapunten worden voor verschillende bestuursorganen voorbereid. In de applicatie log je in als medewerker van een Gemeente, OCMW of Provincie**.**
+Bepaalde documenten moeten verplicht gepubliceerd en/of gemeld worden: [https://lokaalbestuur.vlaanderen.be/werking-bestuur/bekendmakingsplicht](https://lokaalbestuur.vlaanderen.be/werking-bestuur/bekendmakingsplicht)
 
-**\[Hulp nodig: district ook? missen er organen of eenheden?\]**
+Per document lopen hier verschillende termijnen:
 
-* Gemeente
-  * Gemeenteraad
-  * College Burgemeester & Schepenen \(CBS\)
-  * Burgemeester
-  * Autonoom Gemeentebedrijf \(AGB\)
-* OCMW
-  * Bijzonder comité
-  * Vast Bureau
-* Provincie
-  * Provincieraad
-  * Deputatie
-  * Autonoom Provinciebedrijf \(APB\)
+* **Agenda**: publicatie 8 dagen voor de zitting
+* **Besluitenlijst**: publicatie en melding 10 dagen na de zitting
+* **Notulen**: publicatie en melding na goedkeuren op de volgende zitting
+* Afhankelijk van het **besluittype** worden er nog andere agendapunten apart gepubliceerd en gemeld. Deze hebben verschillende termijnen.
 
-### **Hoe werkt het in GN?**
+**\[Hulp nodig: termijnen\]**
 
-#### Rollen
+{% hint style="info" %}
+Men kan publiceren en melden zonder ondertekenen. Het is belangrijk dat het bestuur wel een ondertekende versie ter beschikking heeft om juridisch in orde te zijn.
+{% endhint %}
 
-Het is belangrijk dat elke dienst en alle medewerkers van de secretarie hier de rol `Schrijver` hebben. Dit wordt ingesteld op het [Gebruikersbeheer](https://overheid.vlaanderen.be/ict/ict-diensten/gebruikersbeheer) \(ACM-IDM\), meestal door de IT dienst van het lokaal bestuur.
+Bekijk hoe het werkt in Gelinkt Notuleren **\[Hulp nodig: aparte pagina aanmaken?\]**
 
-* `Lezer` kan alle agendapunten bekijken.
-* `Schrijver` kan alle agendapunten bekijken en bewerken.
+{% embed url="https://abb-vlaanderen.gitbook.io/gelinkt-notuleren-handleiding/\#ondertekenen-en-publiceren" %}
 
-**Locatie**
+### Publiceren
 
-In Gelinkt Notuleren kunnen dossiers voorbereid worden in de tab **Agendapunten**. Het is ook mogelijk om rechtstreeks een zitting aan te maken en daar agendapunten toe te voegen – maar dat is minder flexibel.
+De ontwerpagenda, aanvullende agenda en spoedeisende agenda worden gelinkt gepubliceerd via de softwareleverancier \(zoals bijvoorbeeld Gelinkt Notuleren\) en worden op de website gezet **\[Hulp nodig; wordt de spoedeisende altijd op voorhand nog gepubliceerd, of is dat optioneel?\]** . Wanneer er gepubliceerd wordt via GN, komt deze op de [publicatieomgeving](http://publicatie.gelinkt-notuleren.vlaanderen.be) terecht. Besturen kunnen linken naar deze pagina.
 
-![Voorbeeld van overzicht van agendapunten](../../../.gitbook/assets/screenshot-2021-05-10-at-19.37.12.png)
+### Melden
 
-Agendapunten die verdaagd werden kunnen gekopieerd worden, zodat ze niet opnieuw opgebouwd moeten worden.
+Melden kan automatisch gebeuren via een leverancier, semi-automatisch via Gelinkt Notuleren \(met nazicht\) of manueel via het loket:
 
-![Een agendapunt kopi&#xEB;ren](../../../.gitbook/assets/screenshot-2021-05-20-at-11.29.38.png)
+{% embed url="https://www.youtube.com/watch?v=hu8kcXiR5Oo" %}
 
-#### Status
+{% embed url="https://www.youtube.com/watch?v=lIeuofldsJw" %}
 
-Er zijn 3 statussen
+{% embed url="https://www.youtube.com/watch?v=yCkbV8gvqyU" %}
 
-* `Concept`  Het agendapunt is in voorbereiding, maar werd nog niet aan een zitting gekoppeld. Het agendapunt kan ten allen tijde aangepast worden.
-* `Geagendeerd`  Het agendapunt werd in een voorbereiding van een zitting opgenomen. De agenda kan nog veranderen, en het agendapunt kan nog aangepast worden.
-* `Gepubliceerd`  Het agendapunt werd gekoppeld aan een zitting, en deze werd gepubliceerd. Het agendapunt kan niet meer aangepast worden.
+### Goedkeuring notulen
 
-In deze fase is enkel `Concept` van toepassing.
+In de volgende zitting worden de notulen van de vorige zitting goedgekeurd \(of de zitting erna, indien er nog aanpassingen dienen te gebeuren\).
 
-### Sjablonen
+### Uittreksels
 
-![Voorbeelden sjablonen](../../../.gitbook/assets/screenshot-2021-05-18-at-18.51.34-copy-2.png)
+Er zijn bepaalde documenten, zoals omgevingsvergunningen, die nog voor het goedkeuren van de notulen aan bepaalde partijen bezorgd kunnen worden. Het is mogelijk om deze apart te ondertekenen, publiceren en te melden.
 
-Wanneer je start met een nieuw agendapunt, start je met een van de 2 generieke sjablonen aan: **besluiten** \(met een stemming\) en **vrije tekst**. Voorbeelden van agendapunten:
-
-* Besluiten
-  * Goedkeuren van notulen
-  * Reglementen
-  * Verordeningen
-  * Mededelingen **\[Hulp nodig: of vrije tekst?\]**
-* Vrije tekst
-  * Discussiepunten
-  * Varia
-
-#### Stijl
-
-We bieden 2 stijlen aan voor besluiten:
-
-* **Nieuwe stijl**: gebruikt rubrieken om **bevoegdheden**, **juridische context** en **motivering** te scheiden. Sommige besturen gebruiken nog extra rubrieken, maar wij maken hier geen verder onderscheid. 
-* **Klassieke stijl**: gebruiken "_gelet op_" en "_overwegende dat_" om **juridische** **context** en **motivering** te scheiden.
-
-### Inhoud agendapunt
-
-| Onderdeel | Informatie | Gelinkte informatie | Wordt gepubliceerd in |
-| :--- | :--- | :--- | :--- |
-| **Openbare titel** | Deze titel wordt gebruikt bij het publiceren van het agendapunt. | Ja | Agenda, uittreksels, notulen, besluitenlijst |
-| **Korte openbare beschrijving** | Kan meer informatie geven over het besluit. Niet elk bestuur doet dit, sommigen kopiëren de titel. | Ja | Agenda, uittreksels, notulen, besluitenlijst |
-| **Bestuursorgaan** | Over welk bestuursorgaan gaat dit? | Nee | Notulen |
-| **Bevoegdheid** | Via de citatenplugin geeft het bestuur de rechtsgrond in die bepaalt dat het orgaan bevoegd is. | Ja | Notulen, uittreksels |
-| **Juridische context** | Via de citatenplugin geeft het bestuur de juridische contexten in die gerelateerd zijn. | Ja | Notulen, uittreksels |
-| **Motivering** | Het bestuur geeft de motiveringen in. | Neen | Notulen, uittreksels |
-| **Beslissing** | De beslissing bestaat uit een of meerdere artikel\(s\). | Ja | Notulen, uittreksels |
-| **Artikels** | Een artikel bestaat uit een artikelnummer en de inhoud. | Ja | Notulen, uittreksels |
-| **Artikel nummer** | Opeenvolgende cijfers. | Ja | Notulen, uittreksels |
-| **Artikel inhoud** | Inhoud. | Ja | Notulen, uittreksels |
-
-![Visualisering agendapunt](../../../.gitbook/assets/agendapunt.png)
-
-
-
-## Fase 2: Agenda
-
-### Ontwerp agenda
-
-Nadat de agendapunten werden voorbereid worden deze bezorgd aan de secretarie om te agenderen. De agenda wordt over het algemeen voorbereid door een medewerker van de secretarie en/of de algemeen directeur. Daarna wordt deze nagekeken en aangevuld, door de algemeen directeur \(gemeenteraad\), burgemeester of bevoegde schepen \(CBS\) **\[Hulp nodig: wie nog bij welke raad?\]**. 
-
-### Hoe werkt het in GN?
-
-#### Rollen
-
-Via Gelinkt Notuleren kunnen de mensen die geen schrijfrechten nodig hebben, maar wel de agenda nakijken, met de rol `lezer` de geagendeerde agendapunten bekijken.
-
-Voor het agenderen heb je de rol `schrijver` nodig.
-
-#### Locatie
-
-Binnen Gelinkt Notuleren maak je een agenda aan binnen een zitting.
-
-Je vult de informatie in van de zitting die je hebt.
-
-_Openbaarheid_
-
-#### Status
-
-Vanaf het moment dat een agendapunt geagendeerd wordt en gekoppeld aan een zitting, wordt de status `geagendeerd` toegevoegd aan het agendapunt, en kan je het aan geen andere zitting meer toevoegen.
-
-
-
-### \(Definitieve\) agenda
-
-Vervolgens wordt de agenda gecommuniceerd naar de raadsleden, en gelinkt gepubliceerd naar de buitenwereld [https://publicatie.gelinkt-notuleren.vlaanderen.be/](https://publicatie.gelinkt-notuleren.vlaanderen.be/) – en op de website van het lokaal bestuur geplaatst.
-
-#### Communicatie naar raadsleden
-
-De agendapunten gecommuniceerd naar de raadsleden. Dit gebeurt over het algemeen door een medewerker van de secretarie of algemeen directeur, via mail of op papier.
-
-Via Gelinkt Notuleren kunnen raadsleden met de rol `lezer` de geagendeerde agendapunten bekijken. Bijkomende documenten kunnen nog per mail bezorgd worden.
-
-_`Aanvullende agenda`_
-
-De raadsleden kunnen nog agendapunten aanbrengen tot X dagen voor de zitting. Deze wordt dan opnieuw intern en extern gecommuniceerd als "aanvullende agenda".
-
-_`Spoedeisende agenda`_
-
-Tot aan de zitting kunnen de raadsleden nog agendapunten aanbrengen. De spoedeisende agenda wordt ook intern en extern gecommuniceerd.
-
-#### Externe communicatie
-
-De agenda wordt gelinkt gepubliceerd via Gelinkt Notuleren \(of een andere leverancier\) en wordt op de website gezet. Wanneer er gepubliceerd wordt via GN, komt deze op de [publicatieomgeving](http://publicatie.gelinkt-notuleren.vlaanderen.be) terecht. Besturen kunnen linken naar deze pagina.
-
-## Fase 3: Zitting
-
-## Fase 4: Publicatie & Melding
-
-## Fase 5: Goedkeuring notulen op volgende zitting
+Hier kan men ook expliciet een print van maken in Gelinkt Notuleren.
 
 ## Terminologieën
 
+### Actoren
+
+**Medewerkers van de secretarie**  
+Verrichten administratief werk voor de publieke organisatie, zoals de gemeente of het openbaar centrum voor maatschappelijk welzijn.
+
+**Algemeen directeur**  
+De algemeen directeur staat in voor de algemene en coördinerende leiding van de diensten van de gemeente en van het openbaar centrum voor maatschappelijk welzijn. De algemeen directeur realiseert samen met zijn medewerkers de decretale en wettelijk voorgeschreven taken en beleidsobjectieven.
+
 ### Agenda
 
-**Agendapunt in concept / ontwerpbesluit**:  
+**Agendapunt in concept / ontwerpbesluit**  
 Een \(mogelijks nog aan te vullen of aan te passen\) ontwerp voor het besluit dat uit dit agendapunt zou voortkomen.
 
 **Interne agenda**  
