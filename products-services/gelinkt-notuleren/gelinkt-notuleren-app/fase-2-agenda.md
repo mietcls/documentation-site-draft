@@ -65,6 +65,7 @@ Eerst wordt het agendapunt gelinkt aan de zitting. Vervolgens wordt er een titel
 | :--- | :--- | :--- | :--- |
 | **Openbare titel \(in de zitting, voor agenda\)** | Deze titel wordt gebruikt bij het publiceren van de agenda. | Ja | Agenda |
 | **Korte openbare beschrijving \(in de zitting, voor agenda\)** | Kan meer informatie geven over het besluit. Niet elk bestuur doet dit, sommigen kopiëren de titel. Wordt gebruikt bij het publiceren van de agenda | Ja | Agenda |
+| **Geplande openbaarheid** | De verwachting waarop het agendapunt behandeld zal worden: openbaar of besloten. | Ja | Agenda |
 
 _Openbaarheid_
 

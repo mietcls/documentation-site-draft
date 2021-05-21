@@ -2,13 +2,15 @@
 description: 'Hoe verloopt een zitting, en hoe ondersteunen wij dat?'
 ---
 
-# Een zitting notuleren, publiceren en melden met Gelinkt Notuleren
+# Fase 4 & 5: Ondertekenen, publiceren & melden
 
-Fase 4: Ondertekenen
+## Fase 4: Ondertekenen
 
 Zowel de agenda, besluitenlijst, notulen als uittreksels dienen ondertekend te worden.
 
 Men kan digitaal ondertekenen via Gelinkt Notuleren. De ondertekening verloopt op basis van de identiteit van de bevoegde personen. Deze personen loggen in via ACM-IDM, en kunnen dan eenvoudigweg ondertekend worden door op "onderteken" te klikken.
+
+{% embed url="https://abb-vlaanderen.gitbook.io/gelinkt-notuleren-handleiding/\#ondertekenen-en-publiceren" %}
 
 ## Fase 5: Publiceren & Melden van Besluitenlijst, Notulen en Specifieke besluiten
 
@@ -54,31 +56,4 @@ In de volgende zitting worden de notulen van de vorige zitting goedgekeurd \(of 
 Er zijn bepaalde documenten, zoals omgevingsvergunningen, die nog voor het goedkeuren van de notulen aan bepaalde partijen bezorgd kunnen worden. Het is mogelijk om deze apart te ondertekenen, publiceren en te melden.
 
 Hier kan men ook expliciet een print van maken in Gelinkt Notuleren.
-
-## Terminologieën
-
-### Actoren
-
-**Medewerkers van de secretarie**  
-Verrichten administratief werk voor de publieke organisatie, zoals de gemeente of het openbaar centrum voor maatschappelijk welzijn.
-
-**Algemeen directeur**  
-De algemeen directeur staat in voor de algemene en coördinerende leiding van de diensten van de gemeente en van het openbaar centrum voor maatschappelijk welzijn. De algemeen directeur realiseert samen met zijn medewerkers de decretale en wettelijk voorgeschreven taken en beleidsobjectieven.
-
-### Agenda
-
-**Agendapunt in concept / ontwerpbesluit**  
-Een \(mogelijks nog aan te vullen of aan te passen\) ontwerp voor het besluit dat uit dit agendapunt zou voortkomen.
-
-**Interne agenda**  
-Een agenda \(mogelijks nog aan te vullen of aan te passen\), die intern kan worden nagekeken.
-
-**Ontwerpagenda**  
-Een agenda \(mogelijks nog aan te vullen of aan te passen\), die voor de zitting gepubliceerd wordt naar zowel de raad als naar de burger.
-
-**Aanvullende agenda**  
-De ontwerpagenda kan na publicatie nog herzien worden. Na herziening wordt deze opnieuw gepubliceerd als aanvullende agenda. Ook deze kan nog aangevuld worden.
-
-**Spoedeisende agenda**  
-Agenda met punten aangebracht door de raad tot net voor de zitting.
 
