@@ -9,7 +9,9 @@ description: >-
 ## **Agentschap Binnenland Bestuur /** Agency for Home Affairs
 
 {% hint style="success" %}
-Het Agentschap Binnenlands Bestuur bouwt mee aan duurzaam en democratisch samenleven in diversiteit. Dat doen we door burgers en bestuur te verbinden en te versterken.
+\[NL\] Het Agentschap Binnenlands Bestuur bouwt mee aan duurzaam en democratisch samenleven in diversiteit. Dat doen we door burgers en bestuur te verbinden en te versterken.
+
+\[EN\] ABB contributes to sustainable and democratic living together in diversity by connecting and strengthening citizens and authorities
 {% endhint %}
 
 | 6 Domeinen | 6 Policy fields |
