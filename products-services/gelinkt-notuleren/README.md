@@ -24,7 +24,7 @@ External suppliers of notetaking software that help local governments with the c
 
 #### Publieke informatie sites
 
-[Mandatendatabank](../wikis-and-publieke-databanken-public-databases/mandatendatabank.md)
+[Mandate database](../wikis-and-publieke-databanken-public-databases/mandatendatabank.md)
 
 [Leidinggevendendatabank](../wikis-and-publieke-databanken-public-databases/leidinggevendendatabank.md)
 
