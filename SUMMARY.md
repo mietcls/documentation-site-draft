@@ -3,7 +3,6 @@
 * [Help Build the Semantische Ecosystem of AHA](README.md)
 * [LBLOD – Local Governments & Linked Open Data](lblod-lokale-besturen-and-linked-open-data.md)
 * [Products & Services](products-services/README.md)
-  * [Linked Open Data](products-services/linked-open-data.md)
   * [Gelinkt Notuleren, Embeddable en Plug-ins](products-services/gelinkt-notuleren/README.md)
     * [Gelinkt Notuleren App](products-services/gelinkt-notuleren/gelinkt-notuleren-app.md)
     * [Embeddable](products-services/gelinkt-notuleren/embeddable.md)
@@ -36,11 +35,10 @@
     * [Publicatiepagina Gelinkt Notuleren](products-services/wikis-and-publieke-databanken-public-databases/publicatiepagina-gelinkt-notuleren.md)
     * [Centrale Vindplaats](products-services/wikis-and-publieke-databanken-public-databases/centrale-vindplaats.md)
     * [Metis](products-services/wikis-and-publieke-databanken-public-databases/metis.md)
-* [Tooling](tooling/README.md)
-  * [Analysis](tooling/analysis.md)
 
 ## Development
 
+* [Linked Open Data](development/linked-open-data.md)
 * [Front-end \(HTML, CSS, JS\)](development/front-end/README.md)
   * [Appuniversum](development/front-end/css.md)
   * [Ember](development/front-end/ember.md)
@@ -55,8 +53,9 @@
 * [User Interviews & Testing](testing/user-interviews-and-testing.md)
 * [Testing](testing/testing.md)
 
-## Design & Communication
+## Analysis, Design & Communication <a id="design-and-communication"></a>
 
+* [Analysis](design-and-communication/analysis.md)
 * [Communication](design-and-communication/communication.md)
 * [Design](design-and-communication/design/README.md)
   * [Interesting reads](design-and-communication/design/design-systems.md)
