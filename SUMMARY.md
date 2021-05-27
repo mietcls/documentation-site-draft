@@ -37,12 +37,7 @@
     * [Centrale Vindplaats](products-services/wikis-and-publieke-databanken-public-databases/centrale-vindplaats.md)
     * [Metis](products-services/wikis-and-publieke-databanken-public-databases/metis.md)
 * [Tooling](tooling/README.md)
-  * [Working Together & Product](tooling/working-together-and-product.md)
   * [Analysis](tooling/analysis.md)
-  * [Design](tooling/design/README.md)
-    * [Interesting reads](tooling/design/design-systems.md)
-    * [Feedback geven op Figma mockups](tooling/design/feedback-geven-op-figma-mockups.md)
-  * [Communication](tooling/communication.md)
 
 ## Development
 
@@ -59,4 +54,15 @@
 
 * [User Interviews & Testing](testing/user-interviews-and-testing.md)
 * [Testing](testing/testing.md)
+
+## Design & Communication
+
+* [Communication](design-and-communication/communication.md)
+* [Design](design-and-communication/design/README.md)
+  * [Interesting reads](design-and-communication/design/design-systems.md)
+  * [Feedback geven op Figma mockups](design-and-communication/design/feedback-geven-op-figma-mockups.md)
+
+## Project management & working together <a id="project-management"></a>
+
+* [Working Together & Product](project-management/working-together-and-product.md)
 
