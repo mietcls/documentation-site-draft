@@ -4,7 +4,7 @@
 
 {% embed url="https://gelinkt-notuleren.vlaanderen.be/" %}
 
-Gelinkt Notuleren geeft **lokale besturen de kans om** [**besluiten gelinkt te publiceren en melden**](https://lokaalbestuur.vlaanderen.be/lokale-besluiten-als-gelinkte-open-data) – ook als ze geen softwareleverancier hebben, of met softwareleverancier werken die niet kan voldoen aan de [decretale verplichting om open standaarden](https://lokaalbestuur.vlaanderen.be/lokale-besluiten-als-gelinkte-open-data/open-standaarden-en-technische-specificaties) te gebruiken.
+Gelinkt Notuleren geeft **lokale besturen de kans om** [**besluiten gelinkt te publiceren en melden**](https://lokaalbestuur.vlaanderen.be/lokale-besluiten-als-gelinkte-open-data) – ook als ze geen softwareleverancier hebben, of met een softwareleverancier werken die niet kan voldoen aan de [decretale verplichting om open standaarden](https://lokaalbestuur.vlaanderen.be/lokale-besluiten-als-gelinkte-open-data/open-standaarden-en-technische-specificaties) te gebruiken.
 
 Gelinkt notuleren toont ook aan softwareleveranciers _hoe_ aan de decretale verplichtingen te voldoen.
 
