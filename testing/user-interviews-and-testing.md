@@ -2,7 +2,7 @@
 description: How to conduct user interviews and tests online.
 ---
 
-# User Interviews & Testing \[remote\]
+# User Interviews & Testing
 
 {% hint style="info" %}
 Since 2020 we have been conducting remote, online, user tests and interviews. We have found a pretty flexible way to perform that testing. Below you can find a suggestion of how to conduct those user interviews and tests, but make sure you adjust the tools according to your needs!

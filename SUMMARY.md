@@ -39,18 +39,24 @@
 * [Tooling](tooling/README.md)
   * [Working Together & Product](tooling/working-together-and-product.md)
   * [Analysis](tooling/analysis.md)
-  * [Testing](tooling/testing.md)
-  * [User Interviews & Testing \[remote\]](tooling/user-interviews-and-testing.md)
   * [Design](tooling/design/README.md)
     * [Interesting reads](tooling/design/design-systems.md)
     * [Feedback geven op Figma mockups](tooling/design/feedback-geven-op-figma-mockups.md)
-  * [Front-end \(HTML, CSS, JS\)](tooling/front-end/README.md)
-    * [Appuniversum](tooling/front-end/css.md)
-    * [Ember](tooling/front-end/ember.md)
-    * [Accessibility](tooling/front-end/accessibility.md)
-  * [Back-end](tooling/back-end/README.md)
-    * [Semantic works: Linked Data Microservices](tooling/back-end/semantic-works.md)
-    * [Mu-semtech](tooling/back-end/mu-semtech.md)
-    * [Linked Open Data Principles](tooling/back-end/linked-open-data.md)
   * [Communication](tooling/communication.md)
+
+## Development
+
+* [Front-end \(HTML, CSS, JS\)](development/front-end/README.md)
+  * [Appuniversum](development/front-end/css.md)
+  * [Ember](development/front-end/ember.md)
+  * [Accessibility](development/front-end/accessibility.md)
+* [Back-end](development/back-end/README.md)
+  * [Semantic works: Linked Data Microservices](development/back-end/semantic-works.md)
+  * [Mu-semtech](development/back-end/mu-semtech.md)
+  * [Linked Open Data Principles](development/back-end/linked-open-data.md)
+
+## Testing
+
+* [User Interviews & Testing](testing/user-interviews-and-testing.md)
+* [Testing](testing/testing.md)
 
