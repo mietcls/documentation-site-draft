@@ -6,8 +6,6 @@ De producten en diensten worden binnen ABB gebouwd met Linked [Open Data](https:
 
 ### Waarom Lokale Besluiten als Linked Open Data
 
-_English Subtitles Available_
-
 {% embed url="https://www.youtube.com/watch?v=DsMbDIkUwMY" caption="Video voor LBLOD" %}
 
 Lokale besluiten bevatten waardevolle authentieke gegevens voor iedereen. 
