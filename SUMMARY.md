@@ -38,6 +38,7 @@
 
 ## Development
 
+* [Architectuur](development/architectuur.md)
 * [Linked Open Data](development/linked-open-data.md)
 * [Front-end \(HTML, CSS, JS\)](development/front-end/README.md)
   * [Appuniversum](development/front-end/css.md)
