@@ -6,8 +6,6 @@ De producten en diensten worden binnen ABB gebouwd met Linked [Open Data](https:
 
 ### Waarom Lokale Besluiten als Linked Open Data
 
-_English Subtitles Available_
-
 {% embed url="https://www.youtube.com/watch?v=DsMbDIkUwMY" caption="Video voor LBLOD" %}
 
 Lokale besluiten bevatten waardevolle authentieke gegevens voor iedereen. 
@@ -21,7 +19,7 @@ Door de gegevens in lokale besluiten gelinkt te publiceren, kunnen organisaties 
 
 Een concreet voorbeeld: agentschappen en departementen van de Vlaamse overheid kunnen zelf de informatie die zij nodig hebben uit de gepubliceerde besluiten halen. Lokale besturen hoeven die niet telkens opnieuw op te sturen of aan te leveren.
 
-{% page-ref page="../tooling/back-end/linked-open-data.md" %}
+{% page-ref page="back-end/linked-open-data.md" %}
 
 
 
