@@ -16,3 +16,5 @@ Read about [Linked Open Data for Local Authorities](../../lblod-lokale-besturen-
 
 {% embed url="https://docs.google.com/presentation/d/1ZcNWLcSmgXu4aV07Pe56hzJYrhQXOPDY8ji2HICSufM/edit?usp=sharing" %}
 
+
+

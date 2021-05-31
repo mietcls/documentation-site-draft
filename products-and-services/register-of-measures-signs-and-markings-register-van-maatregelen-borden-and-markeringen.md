@@ -12,7 +12,17 @@ Discover how to set up the code under the section [DEVELOPMENT &gt; Architecture
 
 ### Datamodel
 
-The application profile for verkeersborden can be found here: [https://data.vlaanderen.be/doc/applicatieprofiel/verkeersborden/](https://data.vlaanderen.be/doc/applicatieprofiel/verkeersborden/)
+#### Traffic signs / Verkeersborden
+
+The application profile for verkeersborden can be found here:
+
+{% embed url="https://data.vlaanderen.be/doc/applicatieprofiel/verkeersborden/" %}
+
+#### Decision Mobility / Besluit mobiliteit
+
+Once we are going to extend the application for the registry of measures, this application profile becomes relevant:
+
+{% embed url="https://data.vlaanderen.be/doc/applicatieprofiel/besluit-mobiliteit/" %}
 
 ## Code
 
