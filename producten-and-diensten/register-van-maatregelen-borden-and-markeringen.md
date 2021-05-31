@@ -28,8 +28,6 @@ Eens we het register van maatregelen uitbreiden, wordt dit applicatieprofiel rel
 
 {% embed url="https://data.vlaanderen.be/doc/applicatieprofiel/besluit-mobiliteit/" %}
 
-
-
 ## Code
 
 ### Front-end
