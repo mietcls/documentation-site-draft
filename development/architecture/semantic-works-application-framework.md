@@ -13,6 +13,8 @@ An application framework to build web applications that run on linked data, awar
 * Single page apps with Ember.js
 * Standard requirements: HTTP, JSON, SPARQL
 
+The project 
+
 ## Framework & Docs
 
 {% embed url="https://semantic.works/" %}
@@ -45,11 +47,11 @@ An application framework to build web applications that run on linked data, awar
 
 ## Common services
 
-### Part 1: Overview
+### Part 1: overview
 
 {% embed url="https://drive.google.com/file/d/1x6Nxd4NHXqF-P1xBCchNoddJS0lxy8tL/view?usp=sharing" %}
 
-### Part 2: Necessary services
+### Part 2: required services
 
 {% embed url="https://drive.google.com/file/d/1xGI5RYAoazmb0hl-HenmfX7R0rvwTEPe/view?usp=sharing" %}
 
