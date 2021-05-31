@@ -11,7 +11,7 @@ For building our applications, we work with the following tools and frameworks:
 
 {% page-ref page="docker.md" %}
 
-{% page-ref page="linked-data.md" %}
+{% page-ref page="linked-data/" %}
 
 {% page-ref page="ember.js.md" %}
 
