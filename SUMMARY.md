@@ -51,12 +51,8 @@
   * [\[EN\] Ember.js](ontwikkeling/architectuur/ember.js.md)
 * [Front-end \(HTML, CSS, JS\)](ontwikkeling/front-end/README.md)
   * [Appuniversum](ontwikkeling/front-end/css.md)
-  * [Ember](ontwikkeling/front-end/ember.md)
   * [Accessibility](ontwikkeling/front-end/accessibility.md)
-* [Back-end](ontwikkeling/back-end/README.md)
-  * [Semantic works: Linked Data Microservices](ontwikkeling/back-end/semantic-works.md)
-  * [Mu-semtech](ontwikkeling/back-end/mu-semtech.md)
-  * [Linked Open Data Principles](ontwikkeling/back-end/linked-open-data.md)
+  * [Ember](ontwikkeling/front-end/ember.md)
 
 ## Testing
 
