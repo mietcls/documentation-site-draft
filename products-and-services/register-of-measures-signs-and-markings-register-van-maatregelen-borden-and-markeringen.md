@@ -6,6 +6,10 @@ The Agency of Home Affairs works closely together with the department Mobiliteit
 
 ![Click to see architecture in detail](../.gitbook/assets/app-mow-registry-architecture-diagram.png)
 
+### Setup
+
+Discover how to set up the code under the section [DEVELOPMENT &gt; Architecture](../development/architecture/).
+
 ## Code
 
 ### Front-end
@@ -15,6 +19,4 @@ The Agency of Home Affairs works closely together with the department Mobiliteit
 ### Application
 
 {% embed url="https://github.com/lblod/app-mow-registry" %}
-
-
 
