@@ -4,17 +4,17 @@ description: Orchestrate the Stack
 
 # \[EN\] Docker
 
-## The basics
+## De basis
 
-### Introduction
+### Introductie
 
 {% embed url="https://drive.google.com/file/d/10tGsIgh1uZj7l4BT82cmdnwfvdkY2d9s/view?usp=sharing" %}
 
-### Full presentation
+### Volledige presentatie
 
 {% embed url="https://docs.google.com/presentation/d/1\_IeefsUmyvOSHIBr2c0-d5Z2iIy6KvVJtQZZ-KF1pEE/edit?usp=sharing" %}
 
-## In-depth Docker
+## Docker in de diepte
 
 ### Part 1: Theory & Single-container applications
 
@@ -30,7 +30,7 @@ description: Orchestrate the Stack
 
 
 
-### Full presentation
+### Volledige presentatie
 
 {% embed url="https://docs.google.com/presentation/d/1vSrC8JRIdNd7RAwO-VjJgj71doGCwrVnC\_3QyJSPu8Q/edit?usp=sharing" %}
 
