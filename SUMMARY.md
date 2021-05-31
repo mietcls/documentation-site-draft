@@ -40,7 +40,7 @@
 ## Development
 
 * [Architecture](development/architecture/README.md)
-  * [Semantic Works Application Framework](development/architecture/semantic-works-application-framework.md)
+  * [Semantic Works Application Framework \(FKA mu.semte.ch\)](development/architecture/semantic-works-application-framework.md)
   * [Docker](development/architecture/docker.md)
   * [Linked Data & SPARQL](development/architecture/linked-data.md)
   * [Ember.js](development/architecture/ember.js.md)

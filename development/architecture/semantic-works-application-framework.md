@@ -2,7 +2,19 @@
 description: Building Applications with Linked Data & Microservices
 ---
 
-# Semantic Works Application Framework
+# Semantic Works Application Framework \(FKA mu.semte.ch\)
+
+## Framework & Docs
+
+{% embed url="https://semantic.works/" %}
+
+### Github
+
+{% embed url="https://github.com/mu-semtech" %}
+
+### Blog
+
+{% embed url="https://mu.semte.ch/" %}
 
 ## Introduction
 
@@ -29,15 +41,29 @@ An application framework to build web applications that run on linked data, awar
 
 {% embed url="https://docs.google.com/presentation/d/1jFafwXl16gKHAnyQHFMO4Y\_C0qDASWpukKL\_nEG4geY/edit?usp=sharing" %}
 
-## Framework & Docs
+## Common services
 
-{% embed url="https://semantic.works/" %}
+### Part 1: Overview
 
-### Github
+{% embed url="https://drive.google.com/file/d/1x6Nxd4NHXqF-P1xBCchNoddJS0lxy8tL/view?usp=sharing" %}
 
-{% embed url="https://github.com/mu-semtech" %}
+### Part 2: Necessary services
 
-### Blog
+{% embed url="https://drive.google.com/file/d/1xGI5RYAoazmb0hl-HenmfX7R0rvwTEPe/view?usp=sharing" %}
 
-{% embed url="https://mu.semte.ch/" %}
+### Part 3: mu-cl resources
+
+{% embed url="https://drive.google.com/file/d/1YGFYkVESSc45ms3oNG945B14hyXLfmF9/view?usp=sharing" %}
+
+### Part 4: 
+
+{% embed url="https://drive.google.com/file/d/1h7JV86zvFP\_3vvcH56pkgQOxr4Cth-79/view?usp=sharing" %}
+
+### Part 5: Extra's
+
+_No video available, but you can discover more in the full presentation below._
+
+### Full presentation
+
+{% embed url="https://docs.google.com/presentation/d/1JjGMHcJBK22yP5dTxwSJrkwtnQDLLswQepBURk2D9vA/edit?usp=sharing" %}
 
