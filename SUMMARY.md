@@ -48,6 +48,7 @@
   * [\[EN\] Semantic Works Application Framework \(FKA mu.semte.ch\)](ontwikkeling/architectuur/semantic-works-application-framework.md)
   * [\[EN\] Docker](ontwikkeling/architectuur/docker.md)
   * [\[EN\] Linked Data & SPARQL](ontwikkeling/architectuur/linked-data-and-sparql.md)
+  * [\[EN\] SPARQL & Virtuoso in Depth](ontwikkeling/architectuur/en-sparql-and-virtuoso-in-depth.md)
   * [\[EN\] Ember.js](ontwikkeling/architectuur/ember.js.md)
   * [\[EN\] Templates & Coding conventions](ontwikkeling/architectuur/en-templates-and-coding-conventions.md)
 * [Front-end \(HTML, CSS, JS\)](ontwikkeling/front-end/README.md)
