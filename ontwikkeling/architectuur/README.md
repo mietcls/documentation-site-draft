@@ -9,7 +9,7 @@ We herzien onze applicaties doorlopend, en transformeren ze tot een gedistribuee
 
 {% page-ref page="docker.md" %}
 
-{% page-ref page="linked-data-and-sparql.md" %}
+{% page-ref page="linked-data-and-sparql/" %}
 
 {% page-ref page="ember.js.md" %}
 
