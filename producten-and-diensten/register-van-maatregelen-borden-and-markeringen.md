@@ -14,17 +14,17 @@ Ontdek hoe we onze applicaties ontwikkelen onder [ONTWIKKELING &gt; Architectuur
 
 {% page-ref page="../ontwikkeling/architectuur/" %}
 
-### Datamodel
+### Datamodellen
+
+#### Beleidsdomein MOW implementatiemodel en vocabularia
+
+{% embed url="https://wegenenverkeer.data.vlaanderen.be/" %}
 
 #### Verkeersborden
-
-Het applicatieprofiel voor verkeersborden kan je hier terugvinden:
 
 {% embed url="https://data.vlaanderen.be/doc/applicatieprofiel/verkeersborden/" %}
 
 #### Besluit mobiliteit
-
-Eens we het register van maatregelen uitbreiden, wordt dit applicatieprofiel relevant:
 
 {% embed url="https://data.vlaanderen.be/doc/applicatieprofiel/besluit-mobiliteit/" %}
 
