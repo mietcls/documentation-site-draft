@@ -27,8 +27,6 @@ An application framework to build web applications that run on linked data, awar
 
 ### Part 1: Birds-eye perspective on microservices
 
-
-
 {% embed url="https://drive.google.com/file/d/1Iir48FscD8oalu0qA2Ja9qpb3WDfoAPx/view?usp=sharing" %}
 
 ### Part 2: Values
@@ -42,6 +40,12 @@ An application framework to build web applications that run on linked data, awar
 ### Full presentation
 
 {% embed url="https://docs.google.com/presentation/d/1jFafwXl16gKHAnyQHFMO4Y\_C0qDASWpukKL\_nEG4geY/edit?usp=sharing" %}
+
+### Guide
+
+Bootstrap a mu.semte.ch microservices environment in three easy steps.
+
+{% embed url="https://github.com/mu-semtech/mu-project" %}
 
 ## Common services
 
@@ -68,4 +72,6 @@ _Geen video beschikbaar voor de gevorderde concepten mu-authorization, delta-not
 ### Full presentation
 
 {% embed url="https://docs.google.com/presentation/d/1JjGMHcJBK22yP5dTxwSJrkwtnQDLLswQepBURk2D9vA/edit?usp=sharing" %}
+
+
 
