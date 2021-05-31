@@ -21,8 +21,6 @@ An application framework to build web applications that run on linked data, awar
 
 {% embed url="https://mu.semte.ch/" %}
 
-
-
 ## Aan de slag
 
 ### Part 1: Birds-eye perspective on microservices

@@ -16,6 +16,8 @@ Men kan digitaal ondertekenen via Gelinkt Notuleren. De ondertekening verloopt o
 
 Bepaalde documenten moeten verplicht gepubliceerd en/of gemeld worden: [https://lokaalbestuur.vlaanderen.be/werking-bestuur/bekendmakingsplicht](https://lokaalbestuur.vlaanderen.be/werking-bestuur/bekendmakingsplicht)
 
+[https://lokaalbestuur.vlaanderen.be/lokale-besluiten-als-gelinkte-open-data/gelinkte-publicatieplicht](https://lokaalbestuur.vlaanderen.be/lokale-besluiten-als-gelinkte-open-data/gelinkte-publicatieplicht)
+
 Per document lopen hier verschillende termijnen:
 
 * **Agenda**: publicatie 8 dagen voor de zitting
