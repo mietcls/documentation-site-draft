@@ -4,7 +4,7 @@ description: >-
   пожаловать!
 ---
 
-# Bouw mee aan het Semantische Ecosysteem van ABB  – Help Build the Semantische Ecosystem of AHA
+# Bouw mee aan het Semantische Ecosysteem van ABB
 
 ## **Agentschap Binnenland Bestuur /** Agency for Home Affairs
 
