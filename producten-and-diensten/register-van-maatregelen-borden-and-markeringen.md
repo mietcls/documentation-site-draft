@@ -12,6 +12,8 @@ Het Agentschap Binnenlands Bestuur werkt nauw samen met het department Mobilitei
 
 Ontdek hoe we onze applicaties ontwikkelen onder [ONTWIKKELING &gt; Architectuur](../ontwikkeling/architectuur/).
 
+{% page-ref page="../ontwikkeling/architectuur/" %}
+
 ### Datamodel
 
 #### Verkeersborden
