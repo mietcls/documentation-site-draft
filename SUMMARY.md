@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Help Build the Semantische Ecosystem of AHA](README.md)
-* [LBLOD – Local Governments & Linked Open Data](lblod-lokale-besturen-and-linked-open-data.md)
+* [LBLOD – Local Governments & Linked Open Data](lblod-lokale-besturen-and-linked-open-data/README.md)
+  * [Linked Open Data for Local Authorities](lblod-lokale-besturen-and-linked-open-data/linked-open-data.md)
 
 ## Products & Services
 
@@ -30,6 +31,7 @@
     * [\[private information\] Klanten Advies Raad \(KAR 🚃\) - Customer Advisory Board \(CAB 🚕\)](products-and-services/gelinkt-notuleren/testing/private-information-klanten-advies-raad-kar-customer-advisory-board-cab.md)
 * [Erediensten](products-and-services/erediensten.md)
 * [Publieke databanken - Public databases](products-and-services/wikis-and-publieke-databanken-public-databases/README.md)
+  * [Register of Measures: Signs & Markings – Register van Maatregelen: Borden & Markeringen](products-and-services/wikis-and-publieke-databanken-public-databases/register-of-measures-signs-and-markings-register-van-maatregelen-borden-and-markeringen.md)
   * [Mandatendatabank](products-and-services/wikis-and-publieke-databanken-public-databases/mandatendatabank.md)
   * [Leidinggevendendatabank](products-and-services/wikis-and-publieke-databanken-public-databases/leidinggevendendatabank.md)
   * [Publicatiepagina Gelinkt Notuleren](products-and-services/wikis-and-publieke-databanken-public-databases/publicatiepagina-gelinkt-notuleren.md)
@@ -41,11 +43,10 @@
 * [Architecture](development/architecture/README.md)
   * [Semantic Works Application Framework](development/architecture/semantic-works-application-framework.md)
   * [Docker](development/architecture/docker.md)
-* [Linked Open Data for Local Authorities](development/linked-open-data.md)
+  * [Linked Data](development/architecture/linked-data.md)
 * [Back-end](development/back-end/README.md)
   * [Semantic works: Linked Data Microservices](development/back-end/semantic-works.md)
   * [Mu-semtech](development/back-end/mu-semtech.md)
-  * [Linked Open Data Principles](development/back-end/linked-open-data.md)
 * [Front-end \(HTML, CSS, JS\)](development/front-end/README.md)
   * [Appuniversum](development/front-end/css.md)
   * [Ember](development/front-end/ember.md)
