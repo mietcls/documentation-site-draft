@@ -10,6 +10,10 @@ The Agency of Home Affairs works closely together with the department Mobiliteit
 
 Discover how to set up the code under the section [DEVELOPMENT &gt; Architecture](../development/architecture/).
 
+### Datamodel
+
+The application profile for verkeersborden can be found here: [https://data.vlaanderen.be/doc/applicatieprofiel/verkeersborden/](https://data.vlaanderen.be/doc/applicatieprofiel/verkeersborden/)
+
 ## Code
 
 ### Front-end
@@ -19,4 +23,6 @@ Discover how to set up the code under the section [DEVELOPMENT &gt; Architecture
 ### Application
 
 {% embed url="https://github.com/lblod/app-mow-registry" %}
+
+
 
