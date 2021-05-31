@@ -29,13 +29,13 @@ Een concreet voorbeeld: agentschappen en departementen van de Vlaamse overheid k
 
 De producten en diensten binnen ABB worden gebouwd met Linked [Open Data](https://5stardata.info/en/) als basis. Publieke data, geen privacy-gevoelige data, worden op zo'n manier verzameld en beschikbaar gesteld dat mensen binnen en buiten de overheid die informatie kunnen verwerken, hergebruiken en verrijken.
 
-### **Wa**t is linked open data?
+## **Wa**t is linked open data?
 
-#### Linked Open Data in mensentaal
+### Linked Open Data in mensentaal
 
 {% embed url="https://www.youtube.com/watch?v=EbpRofMqzF0" %}
 
-#### Linked Open Data in mensentaal voor mensen die applicaties bouwen
+### Linked Open Data in mensentaal voor mensen die applicaties bouwen
 
 {% embed url="https://yewtu.be/watch?v=4x\_xzT5eF5Q" %}
 
