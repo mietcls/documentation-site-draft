@@ -1,4 +1,4 @@
-# Linked Open Data
+# Linked Open Data for Local Authorities
 
 ## Linked Open Data as a spine for the products and services for ABB
 

@@ -40,7 +40,8 @@
 
 * [Architecture](development/architecture/README.md)
   * [Semantic Works Application Framework](development/architecture/semantic-works-application-framework.md)
-* [Linked Open Data](development/linked-open-data.md)
+  * [Docker](development/architecture/docker.md)
+* [Linked Open Data for Local Authorities](development/linked-open-data.md)
 * [Back-end](development/back-end/README.md)
   * [Semantic works: Linked Data Microservices](development/back-end/semantic-works.md)
   * [Mu-semtech](development/back-end/mu-semtech.md)
