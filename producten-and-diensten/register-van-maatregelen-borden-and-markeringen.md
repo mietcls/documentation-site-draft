@@ -10,7 +10,11 @@ Het Agentschap Binnenlands Bestuur werkt nauw samen met het department Mobilitei
 
 ### Setup
 
-Discover how to set up the code under the section [DEVELOPMENT &gt; Architecture]().
+Discover how to set up the code under the section [DEVELOPMENT &gt; Architecture](../ontwikkeling/architectuur/).
+
+### Datamodel
+
+The application profile for verkeersborden can be found here: [https://data.vlaanderen.be/doc/applicatieprofiel/verkeersborden/](https://data.vlaanderen.be/doc/applicatieprofiel/verkeersborden/)
 
 ## Code
 
