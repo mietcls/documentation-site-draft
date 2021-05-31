@@ -44,6 +44,7 @@
   * [Docker](development/architecture/docker.md)
   * [Linked Data & SPARQL](development/architecture/linked-data.md)
   * [SPARQL & Virtuoso in Depth](development/architecture/sparql-and-virtuoso-in-depth.md)
+  * [SPARQLing exercises](development/architecture/sparqling-exercises.md)
   * [Ember.js](development/architecture/ember.js.md)
   * [Templates & Conventions](development/architecture/templates-and-conventions.md)
 * [Front-end \(HTML, CSS, JS\)](development/front-end/README.md)

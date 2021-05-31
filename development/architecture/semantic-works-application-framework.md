@@ -45,6 +45,12 @@ The project
 
 {% embed url="https://docs.google.com/presentation/d/1jFafwXl16gKHAnyQHFMO4Y\_C0qDASWpukKL\_nEG4geY/edit?usp=sharing" %}
 
+### Guide for a Microservices Environment
+
+Bootstrap a mu.semte.ch microservices environment in three easy steps.
+
+{% embed url="https://github.com/mu-semtech/mu-project" %}
+
 ## Common services
 
 ### Part 1: overview
