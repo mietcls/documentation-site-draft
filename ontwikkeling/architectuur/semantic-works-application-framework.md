@@ -43,7 +43,7 @@ An application framework to build web applications that run on linked data, awar
 
 ### Guide
 
-Bootstrap a mu.semte.ch microservices environment in three easy steps.
+Bootstrap een mu.semte.ch microservices omgeving in drie eenvoudige stappen.
 
 {% embed url="https://github.com/mu-semtech/mu-project" %}
 
