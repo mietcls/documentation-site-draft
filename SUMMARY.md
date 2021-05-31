@@ -1,8 +1,7 @@
 # Table of contents
 
 * [Help Build the Semantische Ecosystem of AHA](README.md)
-* [LBLOD – Local Governments & Linked Open Data](lblod-lokale-besturen-and-linked-open-data/README.md)
-  * [Linked Open Data for Local Authorities](lblod-lokale-besturen-and-linked-open-data/linked-open-data.md)
+* [LBLOD – Local Governments & Linked Open Data](lblod-lokale-besturen-and-linked-open-data.md)
 
 ## Products & Services
 
