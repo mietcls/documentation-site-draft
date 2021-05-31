@@ -49,6 +49,7 @@
   * [\[EN\] Docker](ontwikkeling/architectuur/docker.md)
   * [\[EN\] Linked Data & SPARQL](ontwikkeling/architectuur/linked-data-and-sparql.md)
   * [\[EN\] Ember.js](ontwikkeling/architectuur/ember.js.md)
+  * [\[EN\] Templates & Coding conventions](ontwikkeling/architectuur/en-templates-and-coding-conventions.md)
 * [Front-end \(HTML, CSS, JS\)](ontwikkeling/front-end/README.md)
   * [Appuniversum](ontwikkeling/front-end/css.md)
   * [Accessibility](ontwikkeling/front-end/accessibility.md)
