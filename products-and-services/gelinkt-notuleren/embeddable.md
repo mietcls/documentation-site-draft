@@ -1,16 +1,14 @@
 # Embeddable
 
-## Algemene informatie
+## Code
 
-....
+### Front-end
 
-## Technische input
+{% embed url="https://github.com/lblod/frontend-embeddable-notule-editor\#frontend-embeddable-notule-editor" %}
+
+### App
 
 How to use the embeddable
 
-* [https://github.com/lblod/app-gn-embeddable](https://github.com/lblod/app-gn-embeddable)
-
-Based on mu-project, microservices environment in three easy steps.
-
-[https://github.com/mu-semtech/mu-project](https://github.com/mu-semtech/mu-project)
+{% embed url="https://github.com/lblod/app-gn-embeddable" %}
 
