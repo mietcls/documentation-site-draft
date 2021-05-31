@@ -10,17 +10,17 @@ The Agency of Home Affairs works closely together with the department Mobiliteit
 
 Discover how to set up the code under the section [DEVELOPMENT &gt; Architecture](../development/architecture/).
 
-### Datamodel
+### Datamodels \[Dutch\]
+
+#### Policy area MOW implementation model and vocabularies / Beleidsdomein MOW implementatiemodel en vocabularia
+
+{% embed url="https://wegenenverkeer.data.vlaanderen.be/" %}
 
 #### Traffic signs / Verkeersborden
-
-The application profile for verkeersborden can be found here:
 
 {% embed url="https://data.vlaanderen.be/doc/applicatieprofiel/verkeersborden/" %}
 
 #### Decision Mobility / Besluit mobiliteit
-
-Once we are going to extend the application for the registry of measures, this application profile becomes relevant:
 
 {% embed url="https://data.vlaanderen.be/doc/applicatieprofiel/besluit-mobiliteit/" %}
 
