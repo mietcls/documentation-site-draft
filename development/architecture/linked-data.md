@@ -1,6 +1,6 @@
 # Linked Data & SPARQL
 
-## Understanding Linked Data
+## Understanding Linked Data & SPARQL
 
 {% hint style="info" %}
 Read about [Linked Open Data for Local Authorities](../../lblod-lokale-besturen-and-linked-open-data/linked-open-data.md) to understand _why_ we are using this technology!
