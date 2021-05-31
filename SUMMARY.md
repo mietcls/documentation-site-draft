@@ -21,6 +21,7 @@
     * [\[day-to-day product\] Functionele Testing](producten-and-diensten/gelinkt-notuleren/testing/functionele-testing.md)
     * [\[day-to-day product\] User testing](producten-and-diensten/gelinkt-notuleren/testing/user-testing.md)
     * [\[private information\] Klanten Advies Raad \(KAR 🚃\) - Customer Advisory Board \(CAB 🚕\)](producten-and-diensten/gelinkt-notuleren/testing/private-information-klanten-advies-raad-kar-customer-advisory-board-cab.md)
+* [Register van Maatregelen: Borden & Markeringen](producten-and-diensten/register-van-maatregelen-borden-and-markeringen.md)
 * [Publieke databanken - Public databases](producten-and-diensten/wikis-and-publieke-databanken-public-databases/README.md)
   * [Mandatendatabank](producten-and-diensten/wikis-and-publieke-databanken-public-databases/mandatendatabank.md)
   * [Leidinggevendendatabank](producten-and-diensten/wikis-and-publieke-databanken-public-databases/leidinggevendendatabank.md)
@@ -43,6 +44,11 @@
 
 ## Ontwikkeling
 
+* [Architectuur](ontwikkeling/architectuur/README.md)
+  * [Semantic Works Application Framework](ontwikkeling/architectuur/semantic-works-application-framework.md)
+  * [Docker](ontwikkeling/architectuur/docker.md)
+  * [Linked Data & SPARQL](ontwikkeling/architectuur/linked-data-and-sparql.md)
+  * [Ember.js](ontwikkeling/architectuur/ember.js.md)
 * [Linked Open Data](ontwikkeling/linked-open-data.md)
 * [Front-end \(HTML, CSS, JS\)](ontwikkeling/front-end/README.md)
   * [Appuniversum](ontwikkeling/front-end/css.md)
