@@ -1,12 +1,14 @@
 # \[EN\] Virtuoso in Depth
 
-## Overview
+## Overzicht
 
-* Configuration
-* Data exports, backup and restore
-* User management
+* Configuratie
+* Data exporteren, back-up en herstellen
+* Gebruikersbeheer
 
-_No video available._
+_Geen video beschikbaar._
 
 {% embed url="https://docs.google.com/presentation/d/1SpySPsIa9pirDiK2dOHDPnZdA4kUnQxImJ1otrXGMJE/edit?usp=sharing" %}
+
+
 
