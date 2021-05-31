@@ -14,7 +14,19 @@ Ontdek hoe we onze applicaties ontwikkelen onder [ONTWIKKELING &gt; Architectuur
 
 ### Datamodel
 
-Het applicatieprofiel voor verkeersborden kan je hier terugvinden: [https://data.vlaanderen.be/doc/applicatieprofiel/verkeersborden/](https://data.vlaanderen.be/doc/applicatieprofiel/verkeersborden/)
+#### Verkeersborden
+
+Het applicatieprofiel voor verkeersborden kan je hier terugvinden:
+
+{% embed url="https://data.vlaanderen.be/doc/applicatieprofiel/verkeersborden/" %}
+
+#### Besluit mobiliteit
+
+Eens we het register van maatregelen uitbreiden, wordt dit applicatieprofiel relevant:
+
+{% embed url="https://data.vlaanderen.be/doc/applicatieprofiel/besluit-mobiliteit/" %}
+
+
 
 ## Code
 
