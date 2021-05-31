@@ -1,4 +1,4 @@
-# \[EN\] Semantic Works Application Framework
+# \[EN\] Semantic Works Application Framework \(FKA mu.semte.ch\)
 
 ## Introduction
 

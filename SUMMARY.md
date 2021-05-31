@@ -45,7 +45,7 @@
 ## Ontwikkeling
 
 * [Architectuur](ontwikkeling/architectuur/README.md)
-  * [\[EN\] Semantic Works Application Framework](ontwikkeling/architectuur/semantic-works-application-framework.md)
+  * [\[EN\] Semantic Works Application Framework \(FKA mu.semte.ch\)](ontwikkeling/architectuur/semantic-works-application-framework.md)
   * [\[EN\] Docker](ontwikkeling/architectuur/docker.md)
   * [\[EN\] Linked Data & SPARQL](ontwikkeling/architectuur/linked-data-and-sparql.md)
   * [\[EN\] Ember.js](ontwikkeling/architectuur/ember.js.md)
