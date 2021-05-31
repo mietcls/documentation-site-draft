@@ -3,7 +3,7 @@
 ## Linked Data & SPARQL begrijpen
 
 {% hint style="info" %}
-Lees meer over [Linked Open Data for Lokale besturen]() om te begrijpen _waarom_ we deze technologie gebruiken!
+Lees meer over [Linked Open Data for Lokale besturen](../../lblod-lokale-besturen-and-linked-open-data.md) om te begrijpen _waarom_ we deze technologie gebruiken!
 {% endhint %}
 
 {% embed url="https://drive.google.com/file/d/1uxak2glIJ7LYgn-OPlsvznv6fVAdBqV3/view?usp=sharing" %}
