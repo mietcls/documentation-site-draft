@@ -21,13 +21,7 @@ By publishing the data in local decisions as linked open data, organisations can
 
 A concrete example: agencies and departments of the Flemish government can themselves extract the information they need from the published decrees. Local authorities do not have to send or deliver this information every time.
 
-## What is linked open data?
-
-### For humans
-
-{% embed url="https://www.youtube.com/watch?v=EbpRofMqzF0" %}
-
-### For application building humans
+### 
 
 {% embed url="https://yewtu.be/watch?v=4x\_xzT5eF5Q" %}
 
