@@ -5,7 +5,11 @@
 We constantly review our applications and transform them towards a distributed data structure. We build in phases, towards bringing data back to the people in the future. Added benefit: built-in backwards compatibility.
 {% endhint %}
 
-For building our applications, we work with the following tools and frameworks:
+## How and why \[dutch\]
+
+{% embed url="https://docs.google.com/presentation/d/1GGKhMfxMjw1hmu9BWfADZf0ME2J1uqF6BGwRoyWYYvM/edit?usp=sharing" %}
+
+## Tools & Frameworks
 
 {% page-ref page="semantic-works-application-framework.md" %}
 
@@ -15,5 +19,5 @@ For building our applications, we work with the following tools and frameworks:
 
 {% page-ref page="ember.js.md" %}
 
-
+{% page-ref page="templates-and-conventions.md" %}
 
