@@ -14,7 +14,7 @@ Discover how we develop our applications on the page [Architecture](../../develo
 
 ### Datamodels
 
-### Onderdelen
+### Building Blocks
 
 #### Embeddable
 
