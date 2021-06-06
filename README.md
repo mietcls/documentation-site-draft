@@ -45,3 +45,9 @@ Ontdek het ecosysteem, de oplossingen en de applicaties die burgers en bestuur v
 
 {% embed url="https://www.figma.com/proto/qweKK3x3NmwDiCtK7ZcrDk/Applicatiearchitectuur-ABB?node-id=1%3A2&viewport=298%2C305%2C0.2371651828289032&scaling=min-zoom" %}
 
+### Bijdragen
+
+Al onze code is open-source, in lijn met onze visie en waarden, en kan je vinden op [https://github.com/lblod](https://github.com/lblod).
+
+{% embed url="https://github.com/lblod" %}
+
