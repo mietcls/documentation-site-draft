@@ -12,15 +12,32 @@ description: >-
 Het Agentschap Binnenlands Bestuur bouwt mee aan duurzaam en democratisch samenleven in diversiteit. Dat doen we door burgers en bestuur te verbinden en te versterken.
 {% endhint %}
 
-| 6 Domeinen | 6 Policy fields |
-| :--- | :--- |
-| Lokale besturen | Local governance |
-| Steden | Urban Policy |
-| Brussel | Brussels |
-| Gelijke Kansen, Integratie- en inburgering | Equal Opportunities |
-| Vlaamse Rand | Flemish Periphery |
+### Zes domeinen
 
-Meer informatie over de beleidsvelden: [https://www.vlaanderen.be/agentschap-binnenlands-bestuur/opdrachten](https://www.vlaanderen.be/agentschap-binnenlands-bestuur/opdrachten)
+* Lokale besturen
+* Steden
+* Brussel
+* Gelijke Kansen, Integratie- en inburgering
+* Vlaamse Rand
+
+Meer informatie over ABB: [https://www.vlaanderen.be/agentschap-binnenlands-bestuur](https://www.vlaanderen.be/agentschap-binnenlands-bestuur)
+
+### Opdracht
+
+ABB is een wendbare organisatie die het beleid inspireert en antwoorden geeft op de bestuurlijke en maatschappelijke uitdagingen van vandaag en morgen.
+
+#### Visie
+
+Wij verbinden en versterken burgers en lokaal bestuur door:
+
+Het bevorderen van **gelijke kansen** en het samenleven van burgers in diversiteit. Het aanreiken van een beleidskader en instrumenten die de relatie tussen burger en lokaal bestuur opwaarderen. Het versterken van de bestuurlijke capaciteit van het lokaal bestuur, zodat taken kunnen worden uitgevoerd op het niveau dat het dichtst bij de burger staat.
+
+#### Waarden
+
+* **Samenwerking en wendbaarheid** We vinden samen oplossingen, geloven in de kracht van samenwerking en staan open voor nieuwe uitdagingen.
+* **Vertrouwen & Integriteit** We geven en verdienen vertrouwen en bevorderen integriteit.
+* **Openheid** Wij geven duidelijke informatie, delen onze kennis en werken met transparantie. 
+* **Besluitvaardigheid** We zeggen wat we doen en doen wat we zeggen.
 
 ## Een Semantisch Ecosysteem
 
