@@ -1,18 +1,18 @@
 # Gelinkt Notuleren, Embeddable en Plug-ins
 
-## Gelinkt Notuleren \(linked minutes\)
-
-### Business Value
+## Gelinkt Notuleren \(Linked Notetaking\)
 
 **Gelinkt Notuleren** is a web application that helps with the creation and publication of agendas, minutes and decisions for Local Authorities.
 
-The aim of Gelinkt Notuleren is not to compete directly with existing notification packages. The purpose of the application is to show that taking minutes enriched with linked open data is possible, and to help local authorities without a minutes package.
+The aim of **Gelinkt Notuleren** is not to compete directly with existing notetaking software. The purpose of the application is to show that taking minutes that are enriched with linked open data is possible, and to help local governments without a notetaking package.
 
-### Architectuur
+**The Embeddable** is part of Gelinkt Notuleren. It is a smart word processor that ensures that specific information from meeting minutes is enriched with data, in a structured way, so that we can extract and reuse that information afterwards.
 
-\[tekening\]
+### Set-up
 
-#### Het datamodel
+Discover how we develop our applications on the page [Architecture](../../development/architecture/).
+
+### Datamodels
 
 ### Onderdelen
 
