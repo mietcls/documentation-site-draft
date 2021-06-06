@@ -2,11 +2,9 @@
 
 ## Algemene informatie
 
-Say editor is een van de bouwstenen van gelinkt notuleren, een open-source editor die door ons gebouwd werd om te gebruiken voor gelinkt notuleren, voor de embeddable van 
+**Say-Editor** is een slimme, open-source tekstverwerker die ervoor kan zorgen dat specifieke informatie uit notulen verrijkt wordt met data, op een gestructureerde manier, zodat we achteraf die informatie kunnen extraheren en hergebruiken.
 
-Om meer gedetailleerde informatie over Say editor te vinden, bezoek [https://say-editor.com/](https://say-editor.com/).
-
-For more detailed information about Say editor, go to [https://say-editor.com/](https://say-editor.com/).
+We bieden ook een specifieke [**embeddable**](embeddable.md) _****_aan die gebruikt kan worden door lokale besturen en hun softwareleveranciers om te gebruiken in hun notuleringpakketten.
 
 ## Technische input
 

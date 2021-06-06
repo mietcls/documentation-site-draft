@@ -26,13 +26,13 @@ Meer informatie over ABB: [https://www.vlaanderen.be/agentschap-binnenlands-best
 
 ABB is een wendbare organisatie die het beleid inspireert en antwoorden geeft op de bestuurlijke en maatschappelijke uitdagingen van vandaag en morgen.
 
-#### Visie
+### Visie
 
 Wij verbinden en versterken burgers en lokaal bestuur door:
 
 Het bevorderen van **gelijke kansen** en het samenleven van burgers in diversiteit. Het aanreiken van een beleidskader en instrumenten die de relatie tussen burger en lokaal bestuur opwaarderen. Het versterken van de bestuurlijke capaciteit van het lokaal bestuur, zodat taken kunnen worden uitgevoerd op het niveau dat het dichtst bij de burger staat.
 
-#### Waarden
+### Waarden
 
 * **Samenwerking en wendbaarheid** We vinden samen oplossingen, geloven in de kracht van samenwerking en staan open voor nieuwe uitdagingen.
 * **Vertrouwen & Integriteit** We geven en verdienen vertrouwen en bevorderen integriteit.

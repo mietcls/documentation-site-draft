@@ -8,19 +8,33 @@
 
 De bedoeling van Gelinkt Notuleren is niet om rechtstreeks te concurreren met bestaande notulering-pakketten. Het doel van de applicatie is om te tonen dat notulen opstellen die verreikt worden met linked open data _mogelijk_ is, en om lokale besturen zonder notuleringpakket uit de nood te helpen.
 
-### Architectuur
+### Set-up
 
-\[tekening\]
+Ontdek hoe we onze applicaties ontwikkelen onder [ONTWIKKELING &gt; Architectuur](../../ontwikkeling/architectuur/).
 
-#### Het datamodel
+{% page-ref page="../../ontwikkeling/architectuur/" %}
+
+### Datamodellen
+
+{% embed url="https://data.vlaanderen.be/doc/applicatieprofiel/besluitvorming/" %}
+
+{% embed url="https://data.vlaanderen.be/doc/applicatieprofiel/besluit-publicatie/" %}
+
+{% embed url="https://data.vlaanderen.be/doc/applicatieprofiel/mandatendatabank/" %}
 
 ### Onderdelen
 
-#### Embeddable
+Gelinkt Notuleren bestaat uit modulaire bouwblokken die hergebruikt kunnen worden in andere applicaties.
 
-**De Embeddable** is deel van Gelinkt Notuleren. Het is een slimme tekstverwerker die ervoor kan zorgen dat specifieke informatie uit notulen verrijkt wordt met data, op een gestructureerde manier, zodat we achteraf die informatie kunnen extraheren en hergebruiken.
+#### Embeddable \(Say Editor\): een slimme tesktverwerker
 
-Externe notuleringpakketten die lokale besturen helpen met het opstellen van notulen, kunnen deze embeddable ook hergebruiken in hun software pakket om de data te extraheren.
+{% page-ref page="embeddable.md" %}
+
+
+
+## Hergebruiken van informatie
+
+Gelinkt Notuleren verzamelt kennis uit besluiten die lokale besturen maken. Deze kennis wordt vervolgens weer ter beschikking gesteld om te hergebruiken.
 
 #### Publieke informatie sites
 
