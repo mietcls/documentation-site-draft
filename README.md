@@ -20,6 +20,8 @@ ABB contributes to sustainable and democratic living together in diversity by co
 | Equal Opportunities |
 | Flemish Periphery |
 
+More information about ABB: [https://www.vlaanderen.be/agentschap-binnenlands-bestuur](https://www.vlaanderen.be/agentschap-binnenlands-bestuur) \[dutch\]
+
 ### **Assignment**
 
 ABB is an agile organisation that inspires policy and provides answers for the administrative and social challenges of today and tomorrow
