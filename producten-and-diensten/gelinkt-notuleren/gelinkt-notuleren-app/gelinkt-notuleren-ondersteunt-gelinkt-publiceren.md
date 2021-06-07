@@ -31,7 +31,7 @@ Per document lopen hier verschillende termijnen:
 Men kan publiceren en melden zonder ondertekenen. Het is belangrijk dat het bestuur wel een ondertekende versie ter beschikking heeft om juridisch in orde te zijn.
 {% endhint %}
 
-Bekijk hoe het werkt in Gelinkt Notuleren **\[Hulp nodig: aparte pagina aanmaken?\]**
+## Hoe werkt het in Gelinkt Notuleren
 
 {% embed url="https://abb-vlaanderen.gitbook.io/gelinkt-notuleren-handleiding/\#ondertekenen-en-publiceren" %}
 

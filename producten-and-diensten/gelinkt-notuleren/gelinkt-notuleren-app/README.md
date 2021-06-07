@@ -43,11 +43,3 @@ De functionaliteiten die we aanbieden bestaan om **gelinkte besluitvorming mogel
 
 {% page-ref page="gelinkt-notuleren-ondersteunt-gelinkt-publiceren.md" %}
 
-
-
-
-
-
-
-
-

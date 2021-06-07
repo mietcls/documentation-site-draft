@@ -25,8 +25,6 @@ De context waarin de agendapunten behandeld worden kan nu meegegeven worden.
 
 Vervolgens worden per agendapunt aanwezigen, stemmingen en het besluit ingegeven worden. Er kunnen meerdere stemmingen per agendapunt gehouden worden.
 
-**\[Hulp nodig: wordt de stemming ook meegegeven aan de besluitenlijst?\]**
-
 | Onderdeel | Informatie | Gelinkte informatie | Wordt gepubliceerd in |
 | :--- | :--- | :--- | :--- |
 | **Aanwezigen agendapunt** | Wie er aanwezig was bij het agendapunt. | Ja | Notulen, uittreksels |
@@ -38,12 +36,13 @@ Vervolgens worden per agendapunt aanwezigen, stemmingen en het besluit ingegeven
 | **Tegenstanders** | Aantal tegenstanders: enkel cijfers indien geheim, naam aanwezige ook indien open. | Ja | Notulen, besluitenlijst uittreksels |
 | **Onthouders** | Aantal onthouders: enkel cijfers indien geheim, naam aanwezige ook indien open. | Ja | Notulen, besluitenlijst uittreksels |
 | **Gevolg stemming** | Wat is het gevolg van deze stemming. | Ja | Notulen, besluitenlijst uittreksels |
+| **Sluiting zitting** | Wanneer de voorzitter de zitting sluit. | Ja | Notulen |
 
 ![](../../../.gitbook/assets/screenshot-2021-05-21-at-17.19.06.png)
 
 ## **Hoe werkt het in GN?**
 
-Bekijk hoe het werkt in Gelinkt Notuleren **\[Hulp nodig: aparte pagina aanmaken?\]**
+Bekijk hoe het werkt in Gelinkt Notuleren
 
 {% embed url="https://abb-vlaanderen.gitbook.io/gelinkt-notuleren-handleiding/\#2-2-agendapunten" %}
 

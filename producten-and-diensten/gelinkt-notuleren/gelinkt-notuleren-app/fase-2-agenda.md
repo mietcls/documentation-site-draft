@@ -4,7 +4,7 @@
 
 ### Concept agenda\*
 
-Nadat de agendapunten werden voorbereid worden deze bezorgd aan de secretarie om te agenderen. De agenda wordt over het algemeen voorbereid door een medewerker van de secretarie en/of de algemeen directeur. Daarna wordt deze nagekeken en aangevuld door de algemeen directeur **\[Hulp nodig: door wie in welk geval?\]**. 
+Nadat de agendapunten werden voorbereid worden deze bezorgd aan de secretarie om te agenderen. De agenda wordt over het algemeen voorbereid door een medewerker van de secretarie en/of de algemeen directeur. Daarna wordt deze nagekeken en aangevuld door de algemeen directeur.
 
 _\*Dit is geen officiële term. Deze term wordt hier gebruikt om het proces te duiden._
 
@@ -14,11 +14,11 @@ De ontwerpagenda wordt voor de zitting gecommuniceerd naar de raad en gepublicee
 
 ### Aanvullende agenda
 
-De raadsleden kunnen nog agendapunten aanbrengen tot enkele dagen voor de zitting. Deze wordt dan opnieuw gecommuniceerd en gepubliceerd als aanvullende agenda. **\[Hulp nodig: verschillende termijnen per bestuur?\]**
+De raadsleden kunnen nog agendapunten aanbrengen tot enkele dagen voor de zitting. Deze wordt dan opnieuw gecommuniceerd en gepubliceerd als aanvullende agenda.
 
 ### Spoedeisende agenda
 
-Tot net voor de zitting kunnen de raadsleden nog agendapunten aanbrengen. De spoedeisende agenda wordt ook gecommuniceerd en gepubliceerd als aanvullende agenda. **\[Hulp nodig: verschillende termijnen per bestuur?\]**
+Tot net voor de zitting kunnen de raadsleden nog agendapunten aanbrengen. De spoedeisende agenda wordt ook gecommuniceerd en gepubliceerd als aanvullende agenda.
 
 ## Communicatie & Publicatie
 
@@ -28,11 +28,11 @@ De ontwerpagenda, aanvullende agenda en spoedeisende agenda **\[Hulp nodig; word
 
 ### Externe communicatie
 
-De ontwerpagenda, aanvullende agenda en spoedeisende agenda worden gelinkt gepubliceerd via de softwareleverancier \(zoals bijvoorbeeld Gelinkt Notuleren\) en worden op de website gezet **\[Hulp nodig; wordt de spoedeisende altijd op voorhand nog gepubliceerd, of is dat optioneel?\]** . Wanneer er gepubliceerd wordt via GN, komt deze op een [publicatieomgeving](http://publicatie.gelinkt-notuleren.vlaanderen.be) terecht zoals die van Gelinkt Notuleren. Besturen kunnen vanuit hun website linken naar deze pagina.
+De ontwerpagenda, aanvullende agenda en spoedeisende agenda worden gelinkt gepubliceerd via de softwareleverancier \(zoals bijvoorbeeld Gelinkt Notuleren\) en worden op de website gezet. Wanneer er gepubliceerd wordt via GN, komt deze op een [publicatieomgeving](http://publicatie.gelinkt-notuleren.vlaanderen.be) terecht zoals die van Gelinkt Notuleren. Besturen kunnen vanuit hun website linken naar deze pagina.
 
 ## Hoe werkt het in GN?
 
-Bekijk hoe het werkt in Gelinkt Notuleren **\[Hulp nodig: aparte pagina aanmaken?\]**
+Bekijk hoe het werkt in Gelinkt Notuleren
 
 {% embed url="https://abb-vlaanderen.gitbook.io/gelinkt-notuleren-handleiding/\#2-2-agendapunten" %}
 
@@ -59,7 +59,7 @@ Vervolgens worden de agendapunten die werden voorbereid toegevoegd aan de zittin
 
 ![Data voor agenda](../../../.gitbook/assets/screenshot-2021-05-21-at-14.04.34.png)
 
-Eerst wordt het agendapunt gelinkt aan de zitting. Vervolgens wordt er een titel en een bechrijving \(optioneel\) toegevoegd aan de zitting voor dat agendapunt. Deze titel en beschrijving worden gebruikt bij het publiceren van de agenda's. van Deze titel en beschrijving _mogen_ verschillen van de titel en beschrijving van het agendapunt zelf. De titel in het agendapunt zelf worden gebruikt bij de besluitenlijst, de notulen en de uittreksels.
+Eerst wordt het agendapunt gelinkt aan de zitting. Vervolgens wordt er een titel en een beschrijving \(optioneel\) toegevoegd aan de zitting voor dat agendapunt. Deze titel en beschrijving worden gebruikt bij het publiceren van de agenda's. Deze titel en beschrijving _mogen_ verschillen van de titel en beschrijving van het agendapunt zelf. De titel in het agendapunt zelf worden gebruikt bij de besluitenlijst, de notulen en de uittreksels.
 
 | Onderdeel | Informatie | Gelinkte informatie | Wordt gepubliceerd in |
 | :--- | :--- | :--- | :--- |
