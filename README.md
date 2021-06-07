@@ -69,7 +69,5 @@ Discover the ecosystem, the solutions and applications that bring citizens and g
 
 {% embed url="https://www.figma.com/proto/qweKK3x3NmwDiCtK7ZcrDk/Applicatiearchitectuur-ABB?node-id=23%3A850&viewport=298%2C305%2C0.2371651828289032&scaling=min-zoom" %}
 
-{% embed url="https://docs.google.com/presentation/d/1qZ2W8q6wiKEViJoZyf6D-\_SNZ3vDpfmukvWVlqqWeCc/edit?usp=sharing" %}
-
 
 
