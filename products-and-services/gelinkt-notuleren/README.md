@@ -24,7 +24,7 @@ These data models are available in Dutch.
 
 {% embed url="https://data.vlaanderen.be/doc/applicatieprofiel/mandatendatabank/" %}
 
-### Building Blocks
+## Applications that make the Gelinkt Notuleren Flow Complete
 
 #### Embeddable
 
