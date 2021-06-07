@@ -24,7 +24,7 @@ ABB contributes to sustainable and democratic living together in diversity by co
 
 ABB is an agile organisation that inspires policy and provides answers for the administrative and social challenges of today and tomorrow
 
-### Visie
+### Vision
 
 We connect and strengthen citizens and local government through:
 
