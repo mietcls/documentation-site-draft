@@ -30,9 +30,6 @@
   * [Centrale Vindplaats](products-and-services/wikis-and-publieke-databanken-public-databases/centrale-vindplaats.md)
   * [Metis](products-and-services/wikis-and-publieke-databanken-public-databases/metis.md)
 * [Toegankelijk Vlaanderen](products-and-services/toegankelijk-vlaanderen.md)
-* [Manuals – Handleidingen](products-and-services/handleidingen-manuals/README.md)
-  * [De HTML van de handleiding aanpassen zonder HTML editor of gebruik van Terminal](products-and-services/handleidingen-manuals/de-html-van-de-handleiding-aanpassen-zonder-html-editor-of-gebruik-van-terminal.md)
-  * [Hoe de handleiding aanpassen mét html editor](products-and-services/handleidingen-manuals/untitled.md)
 
 ## Development
 
