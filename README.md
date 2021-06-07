@@ -63,9 +63,11 @@ We stellen deze [openbare gegevens ter beschikking ](producten-and-diensten/wiki
 
 Het agentschap van binnenlandse zaken biedt ondersteuning via hun helpdesk, geeft opleidingen en ontwikkelt oplossingen om lokale overheden te ondersteunen.
 
-{% embed url="https://www.figma.com/file/qweKK3x3NmwDiCtK7ZcrDk/Applicatiearchitectuur-ABB?node-id=1660%3A0" %}
+{% embed url="https://www.figma.com/file/qweKK3x3NmwDiCtK7ZcrDk/Applicatiearchitectuur-ABB?node-id=1660%3A0" caption="Oplossingen in kaart" %}
 
+{% embed url="https://www.figma.com/file/qweKK3x3NmwDiCtK7ZcrDk/Applicatiearchitectuur-ABB?node-id=1671%3A0" caption="Hergebruik in kaart" %}
 
+### Ontdek het ecosysteem en onze applicaties
 
 Ontdek het ecosysteem, de oplossingen en de applicaties die burgers en bestuur verbinden \[[klik om te vergroten](https://www.figma.com/proto/qweKK3x3NmwDiCtK7ZcrDk/Applicatiearchitectuur-ABB?node-id=1%3A2&viewport=298%2C305%2C0.2371651828289032&scaling=min-zoom)\]
 
