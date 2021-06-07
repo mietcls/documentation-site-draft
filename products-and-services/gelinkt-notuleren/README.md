@@ -12,7 +12,17 @@ The aim of **Gelinkt Notuleren** is not to compete directly with existing noteta
 
 Discover how we develop our applications on the page [Architecture](../../development/architecture/).
 
+{% page-ref page="../../development/architecture/" %}
+
 ### Datamodels
+
+These data models are available in Dutch.
+
+{% embed url="https://data.vlaanderen.be/doc/applicatieprofiel/besluitvorming/" %}
+
+{% embed url="https://data.vlaanderen.be/doc/applicatieprofiel/besluit-publicatie/" %}
+
+{% embed url="https://data.vlaanderen.be/doc/applicatieprofiel/mandatendatabank/" %}
 
 ### Building Blocks
 
@@ -22,21 +32,21 @@ Discover how we develop our applications on the page [Architecture](../../develo
 
 External suppliers of notetaking software that help local governments with the creation of minutes, can also reuse this embeddable in their software package to extract the data. They are not obligated to use the embeddable, as long as they publish the information according to the standard.
 
+#### Embeddable \(Say Editor\): a smart text editor:
+
+{% page-ref page="embeddable.md" %}
+
+## Reuse of information
+
+Gelinkt Notuleren collects knowledge from decisions that local governments make. This knowledge is then made available for reuse.
+
 #### Publieke informatie sites
 
 [Mandate database](../wikis-and-publieke-databanken-public-databases/mandatendatabank.md)
 
-[Leidinggevendendatabank](../wikis-and-publieke-databanken-public-databases/leidinggevendendatabank.md)
+[Executives database](../wikis-and-publieke-databanken-public-databases/leidinggevendendatabank.md)
 
-[Publicatiewebsite](../wikis-and-publieke-databanken-public-databases/publicatiepagina-gelinkt-notuleren.md)
+[Publication website](../wikis-and-publieke-databanken-public-databases/publicatiepagina-gelinkt-notuleren.md)
 
-[Centrale vindplaats](../wikis-and-publieke-databanken-public-databases/centrale-vindplaats.md)
-
-[Metis](../wikis-and-publieke-databanken-public-databases/metis.md)
-
-#### Application sites:
-
-Production site: [https://gelinkt-notuleren.vlaanderen.be/](https://gelinkt-notuleren.vlaanderen.be/)
-
-Dev site: 
+[Decision Database](../wikis-and-publieke-databanken-public-databases/centrale-vindplaats.md)
 
