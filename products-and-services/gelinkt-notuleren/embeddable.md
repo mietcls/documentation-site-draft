@@ -25,11 +25,11 @@ The embeddable consists out of multiple building blocks that make linked note ta
 
 ### Data sources
 
-We use multiple data sources to enrich notes and minutes
+We use multiple data sources to enrich notes and minutes:
 
-* **The Flemish Codex** – references to the legal grounds in decisions
-* **Mandates** – to track attendees, appointing and dismissing
-* **Executives** –  to track attendees
+* **The Flemish Codex** – references to the legal grounds in decisions.
+* **Mandates** – to track attendees, appointing and dismissing.
+* **Executives** –  to track attendees.
 
 ### Functionalities & Plugins
 
@@ -46,7 +46,7 @@ We have created separate small apps that can be plugged in the text editor.
 * **Authentication**: log in via [Gebruikersbeheer](https://gebruikersbeheer.vlaanderen.be/) \(user management ACM-IDM\)
 * **Anonymise**: Remove personal information for public view.
 
-Ready the documents of Say Editor to see how they are set up: [https://say-editor.com/docs](https://say-editor.com/docs).
+Read the documents of Say Editor to see how they are set up: [https://say-editor.com/docs](https://say-editor.com/docs).
 
 {% embed url="https://say-editor.com/docs" %}
 
