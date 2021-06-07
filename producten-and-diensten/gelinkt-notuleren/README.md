@@ -44,5 +44,3 @@ Gelinkt Notuleren verzamelt kennis uit besluiten die lokale besturen maken. Deze
 
 [Centrale vindplaats](../wikis-and-publieke-databanken-public-databases/centrale-vindplaats.md)
 
-[Metis](../wikis-and-publieke-databanken-public-databases/metis.md)
-
