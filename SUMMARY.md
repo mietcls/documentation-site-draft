@@ -13,8 +13,6 @@
     * [Phase 4 & 5: Sign, Publish & Report](products-and-services/gelinkt-notuleren/gelinkt-notuleren-app/phase-4-and-5-sign-publish-and-report.md)
     * [Terminologies \(in progress\)](products-and-services/gelinkt-notuleren/gelinkt-notuleren-app/terminologies-in-progress.md)
   * [Embeddable & Say-Editor](products-and-services/gelinkt-notuleren/embeddable.md)
-  * [Sjablonenbouwer](products-and-services/gelinkt-notuleren/sjablonenbouwer.md)
-  * [Plugins](products-and-services/gelinkt-notuleren/plugins.md)
 * [Register of Measures: Signs & Markings – Register van Maatregelen: Borden & Markeringen](products-and-services/register-of-measures-signs-and-markings-register-van-maatregelen-borden-and-markeringen.md)
 * [Loket voor Lokale Besturen](products-and-services/loket-voor-lokale-besturen/README.md)
   * [Berichtencentrum](products-and-services/loket-voor-lokale-besturen/berichtencentrum.md)
