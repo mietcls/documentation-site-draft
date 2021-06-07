@@ -33,7 +33,15 @@ De functionaliteiten die we aanbieden bestaan om **gelinkte besluitvorming mogel
 
 {% embed url="https://www.figma.com/file/kYcCsAHp7rbvrsRE2w1NC0/GN-brainstorm?node-id=533%3A295" %}
 
+### Ontdek hoe wij notuleren mogelijk maken in Gelinkt Notuleren:
+
 {% page-ref page="fase-1-voorbereiden-agendapunten.md" %}
+
+{% page-ref page="fase-2-agenda.md" %}
+
+{% page-ref page="fase-3-zitting-vervolledigen.md" %}
+
+{% page-ref page="gelinkt-notuleren-ondersteunt-gelinkt-publiceren.md" %}
 
 
 
