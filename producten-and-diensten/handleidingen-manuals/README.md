@@ -1,4 +1,8 @@
-# "How To" Handleidingen – Manuals
+# \[verouderd\] "How To" Handleidingen – Manuals
+
+{% hint style="warning" %}
+We gaan de oude handleidingen in de toekomst niet meer gebruiken. Deze zullen vervangen worden door Gitbook.
+{% endhint %}
 
 ## Handleidingen / Manuals
 
