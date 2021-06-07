@@ -20,7 +20,7 @@ ABB contributes to sustainable and democratic living together in diversity by co
 | Equal Opportunities |
 | Flemish Periphery |
 
-More information about ABB: [https://www.vlaanderen.be/agentschap-binnenlands-bestuur](https://www.vlaanderen.be/agentschap-binnenlands-bestuur) \[dutch\]
+More information about ABB: [https://www.vlaanderen.be/agentschap-binnenlands-bestuur](https://www.vlaanderen.be/agentschap-binnenlands-bestuur) \[Dutch\]
 
 ### **Assignment**
 
