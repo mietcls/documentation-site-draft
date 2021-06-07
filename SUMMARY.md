@@ -11,7 +11,7 @@
     * [Fase 2: Agenda](producten-and-diensten/gelinkt-notuleren/gelinkt-notuleren-app/fase-2-agenda.md)
     * [Fase 3: Zitting vervolledigen](producten-and-diensten/gelinkt-notuleren/gelinkt-notuleren-app/fase-3-zitting-vervolledigen.md)
     * [Fase 4 & 5: Ondertekenen, publiceren & melden](producten-and-diensten/gelinkt-notuleren/gelinkt-notuleren-app/gelinkt-notuleren-ondersteunt-gelinkt-publiceren.md)
-    * [Terminologieën](producten-and-diensten/gelinkt-notuleren/gelinkt-notuleren-app/terminologieen.md)
+    * [Terminologieën \(in uitvoering\)](producten-and-diensten/gelinkt-notuleren/gelinkt-notuleren-app/terminologieen.md)
   * [Embeddable & Say-Editor](producten-and-diensten/gelinkt-notuleren/embeddable.md)
   * [Sjablonenbouwer](producten-and-diensten/gelinkt-notuleren/sjablonenbouwer.md)
   * [Plugins](producten-and-diensten/gelinkt-notuleren/plugins.md)
