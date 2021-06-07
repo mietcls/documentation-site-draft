@@ -49,15 +49,15 @@ ABB provides support for quality & efficiency, to strengthen those local governm
 
 ### The Solutions We Build
 
-We build services and products to create that value. The linked data streams are made possible in 3 ways:
+We build services and products to create that value. Linked data is made possible in 3 ways:
 
-1. We co-created a Linked Open Data Standard, together with the local governments: a standard way of sharing data between the involved parties.
-2. We validate vendors that provide software that supports note taking for local governments; and make sure they exchange and publish their data in a correct manner.
-3. We created "Linked Minutes" \(Gelink Notuleren\): basic, free decision-making software for local governments without a software vendor – to support linked data.
+1. We co-created a [Linked Open Data](lblod-lokale-besturen-and-linked-open-data.md) Standard, together with the local governments: a standard way of sharing data between the involved parties.
+2. We validate vendors that provide software that supports note taking for local governments; and make sure they exchange and publish their data in a correct manner. [More info \[Dutch\]](https://lokaalbestuur.vlaanderen.be/lokale-besluiten-als-gelinkte-open-data/validaties-notuleringspakketten).
+3. We created ["Linked Minutes" \(Gelink Notuleren\)](products-and-services/gelinkt-notuleren/): basic, free decision-making software for local governments without a software vendor – to support linked data.
 
-This information is captured in the "Box Office for Local Governments" \(Loket voor Lokale besturen\) – a platform for data sharing and communication between local governments and the agency for home affairs.
+This information is captured in the ["Box Office for Local Governments" \(Loket voor Lokale besturen\)](products-and-services/loket-voor-lokale-besturen/) – a platform for data sharing and communication between local governments and the agency for home affairs.
 
-We make this public data available for other governments & services and private re-users.
+We make this [public data available for other governments & services and private re-users](products-and-services/wikis-and-publieke-databanken-public-databases/).
 
 The Agency of home affairs deliver support via their helpdesk, give trainings and develop solutions to support local governments.
 
