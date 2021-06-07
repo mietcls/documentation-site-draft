@@ -8,6 +8,7 @@
 * [Gelinkt Notuleren, Embeddable en Plug-ins](products-and-services/gelinkt-notuleren/README.md)
   * [Gelinkt Notuleren App](products-and-services/gelinkt-notuleren/gelinkt-notuleren-app/README.md)
     * [Phase 1: Prepare Agenda Items](products-and-services/gelinkt-notuleren/gelinkt-notuleren-app/phase-1-prepare-agenda-items.md)
+    * [Phase 2: Agenda](products-and-services/gelinkt-notuleren/gelinkt-notuleren-app/phase-2-agenda.md)
   * [Embeddable](products-and-services/gelinkt-notuleren/embeddable.md)
   * [Say editor](products-and-services/gelinkt-notuleren/say-editor.md)
   * [Sjablonenbouwer](products-and-services/gelinkt-notuleren/sjablonenbouwer.md)
