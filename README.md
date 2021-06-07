@@ -20,6 +20,23 @@ ABB contributes to sustainable and democratic living together in diversity by co
 | Equal Opportunities |
 | Flemish Periphery |
 
+### **Assignment**
+
+ABB is an agile organisation that inspires policy and provides answers for the administrative and social challenges of today and tomorrow
+
+### Visie
+
+We connect and strengthen citizens and local government through:
+
+The promotion of equal opportunities and living together of citizens in diversity. The supply of a policy framework and instruments which boast the relationship between citizens and local government. The strengthening of the governance capacity of local government, so that tasks can be implemented on the level nearest to the citizen
+
+### Waarden
+
+* **Collaboration & Agility** We find solutions together, believe in the power of collaboration and are open to new challenges.
+* **Trust & Integrity** We give and earn trust and promote integrity.
+* **Openness** We provide clear information, share our knowledge and operate with transparency. 
+* **Decisiveness** We say what we do and do what we say.
+
 ## **A Semantic Ecosystem**
 
 ### **The Value We Deliver For Our Society**
@@ -46,11 +63,13 @@ The Agency of home affairs deliver support via their helpdesk, give trainings an
 
 {% embed url="https://www.figma.com/file/qweKK3x3NmwDiCtK7ZcrDk/Applicatiearchitectuur-ABB?node-id=1580%3A405" %}
 
-### Browse through the ecosystem
+### Browse through the ecosystem and our applications
 
 Discover the ecosystem, the solutions and applications that bring citizens and governments closer together \[[click here to enlarge](https://www.figma.com/proto/qweKK3x3NmwDiCtK7ZcrDk/Applicatiearchitectuur-ABB?node-id=23%3A850&viewport=298%2C305%2C0.2371651828289032&scaling=min-zoom)\].
 
 {% embed url="https://www.figma.com/proto/qweKK3x3NmwDiCtK7ZcrDk/Applicatiearchitectuur-ABB?node-id=23%3A850&viewport=298%2C305%2C0.2371651828289032&scaling=min-zoom" %}
+
+{% embed url="https://docs.google.com/presentation/d/1qZ2W8q6wiKEViJoZyf6D-\_SNZ3vDpfmukvWVlqqWeCc/edit?usp=sharing" %}
 
 
 
