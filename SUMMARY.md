@@ -20,6 +20,7 @@
   * [Publicatiepagina Gelinkt Notuleren](producten-en-diensten/wikis-and-publieke-databanken-public-databases/publicatiepagina-gelinkt-notuleren.md)
   * [Centrale Vindplaats](producten-en-diensten/wikis-and-publieke-databanken-public-databases/centrale-vindplaats.md)
 * [Loket voor Lokale Besturen](producten-en-diensten/loket-voor-lokale-besturen/README.md)
+  * [Melden](producten-en-diensten/loket-voor-lokale-besturen/melden.md)
   * [Form builder](producten-en-diensten/loket-voor-lokale-besturen/form-builder.md)
 * [Toezicht](producten-en-diensten/toezicht.md)
 * [Organisatieportaal](producten-en-diensten/contacthub.md)
