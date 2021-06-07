@@ -35,3 +35,11 @@ The functionalities we offer exist to **enable linked decision making**
 
 ### Discover how we make notetaking possible in Gelinkt Notuleren:
 
+{% page-ref page="phase-1-prepare-agenda-items.md" %}
+
+{% page-ref page="phase-2-agenda.md" %}
+
+{% page-ref page="phase-3-completing-the-meeting-minutes.md" %}
+
+{% page-ref page="phase-4-and-5-sign-publish-and-report.md" %}
+
