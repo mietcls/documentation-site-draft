@@ -23,6 +23,16 @@ Gelinkt Notuleren wil besluitvorming ondersteunen, maar bestaat niet om de markt
 De functionaliteiten die we aanbieden bestaan om **gelinkte besluitvorming mogelijk te maken**. 
 {% endhint %}
 
+### Overzicht Notuleren
+
+#### Algemene bouwblokken – onderdelen
+
+{% embed url="https://www.figma.com/file/kYcCsAHp7rbvrsRE2w1NC0/GN-brainstorm?node-id=579%3A443" %}
+
+#### Proces notuleren
+
+{% embed url="https://www.figma.com/file/kYcCsAHp7rbvrsRE2w1NC0/GN-brainstorm?node-id=533%3A295" %}
+
 {% page-ref page="fase-1-voorbereiden-agendapunten.md" %}
 
 
