@@ -37,6 +37,7 @@ We hebben aparte kleine apps gemaakt die in de teksteditor kunnen worden gestopt
 
 * **Toolbar**: basisfuncties voor tekstbewerking.
 * **Sjablonen**: om het makkelijker te maken om te beginnen met noteren.
+  * In de toekomst zullen we ook een sjablonenbouwer maken, waar besturen en overheden zelf hun sjablonen kunnen samenstellen.
 * **Citaten plugin**: maakt gebruik van de Vlaamse Codex – om te verwijzen naar juridische gronden in beslissingen.
 * **Stemming**: stem over beslissingen.
 * **Aanwezigen**: volg wie deel uitmaakte van de vergadering, en deel uitmaakt van bepaalde beslissingen.
