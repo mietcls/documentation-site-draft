@@ -1,4 +1,8 @@
-# De HTML van de handleiding aanpassen zonder HTML editor of gebruik van Terminal
+# \[verouderd\] De HTML van de handleiding aanpassen zonder HTML editor of gebruik van Terminal
+
+{% hint style="warning" %}
+We gaan de oude handleidingen in de toekomst niet meer gebruiken. Deze zullen vervangen worden door Gitbook.
+{% endhint %}
 
 {% hint style="info" %}
 \[EN\] this how-to is only in Dutch, because the manuals have to be in Dutch themselves. We do not expect non-Dutch speaking people to adapt the manuals.

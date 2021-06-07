@@ -2,7 +2,11 @@
 description: In dit voorbeeld maken we gebruik van de open source software ATOM (atom.io).
 ---
 
-# Hoe de handleiding aanpassen mét html editor
+# \[verouderd\] Hoe de handleiding aanpassen mét html editor
+
+{% hint style="warning" %}
+We gaan de oude handleidingen in de toekomst niet meer gebruiken. Deze zullen vervangen worden door Gitbook.
+{% endhint %}
 
 ### 1. Voorbereiding 
 
