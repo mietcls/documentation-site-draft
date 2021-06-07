@@ -1,5 +1,7 @@
 # Loket voor Lokale Besturen
 
+{% embed url="http://loket.lokaalbestuur.vlaanderen.be/" %}
+
 ## Introductie
 
 Wat is het Loket voor Lokale Besturen?
