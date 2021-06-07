@@ -10,6 +10,8 @@
     * [Phase 1: Prepare Agenda Items](products-and-services/gelinkt-notuleren/gelinkt-notuleren-app/phase-1-prepare-agenda-items.md)
     * [Phase 2: Agenda](products-and-services/gelinkt-notuleren/gelinkt-notuleren-app/phase-2-agenda.md)
     * [Phase 3: Completing the Meeting Minutes](products-and-services/gelinkt-notuleren/gelinkt-notuleren-app/phase-3-completing-the-meeting-minutes.md)
+    * [Phase 4 & 5: Sign, Publish & Report](products-and-services/gelinkt-notuleren/gelinkt-notuleren-app/phase-4-and-5-sign-publish-and-report.md)
+    * [Terminologies \(in progress\)](products-and-services/gelinkt-notuleren/gelinkt-notuleren-app/terminologies-in-progress.md)
   * [Embeddable](products-and-services/gelinkt-notuleren/embeddable.md)
   * [Say editor](products-and-services/gelinkt-notuleren/say-editor.md)
   * [Sjablonenbouwer](products-and-services/gelinkt-notuleren/sjablonenbouwer.md)
