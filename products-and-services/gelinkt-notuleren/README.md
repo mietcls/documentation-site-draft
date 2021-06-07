@@ -16,6 +16,8 @@ Discover how we develop our applications on the page [Architecture](../../develo
 
 ### Building Blocks
 
+{% embed url="https://www.figma.com/file/kYcCsAHp7rbvrsRE2w1NC0/GN-brainstorm?node-id=579%3A443" %}
+
 #### Embeddable
 
 **The embeddable** is part of Gelinkt Notuleren. It is a smart text editor that can ensure that specific information from minutes is enriched with data, in a structured way, so that we can extract and reuse that information afterwards.
