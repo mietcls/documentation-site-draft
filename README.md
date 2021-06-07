@@ -41,6 +41,32 @@ Het bevorderen van **gelijke kansen** en het samenleven van burgers in diversite
 
 ## Een Semantisch Ecosysteem
 
+### De waarde die we leveren aan onze samenleving
+
+Meer dan 300 lokale besturen in Vlaanderen schrijven elke dag beslissingen die waardevolle informatie bevatten. Wij willen ervoor zorgen dat zij, door gebruik te maken van linked open data, hun informatie en \(juridische\) documenten rechtstreeks kunnen publiceren, en directe gegevensuitwisseling mogelijk maken. We zorgen voor herbruikbare bronnen, zodat informatie kan doorstromen naar andere overheden & diensten, burgers, organisaties en bedrijven.
+
+ABB biedt ondersteuning voor kwaliteit & efficiëntie, om die lokale overheden te versterken.
+
+{% embed url="https://www.figma.com/file/qweKK3x3NmwDiCtK7ZcrDk/Applicatiearchitectuur-ABB?node-id=1601%3A0" %}
+
+### De oplossingen die we bouwen
+
+Om die waarde tot leven te brengen, bouwen we digitale oplossingen. Linked Data wordt op 3 manieren mogelijk gemaakt:
+
+1. We hebben samen met de lokale overheden een [Linked Open Data Standard gecreëerd](lblod-lokale-besturen-and-linked-open-data.md): een standaard manier om gegevens te delen tussen de betrokken partijen.
+2. [We valideren software leveranciers die notuleren voor lokale overheden ondersteunen](https://lokaalbestuur.vlaanderen.be/lokale-besluiten-als-gelinkte-open-data/validaties-notuleringspakketten); en zorgen ervoor dat ze hun gegevens op een correcte manier uitwisselen en publiceren.
+3. We bouwen aan [Gelinkte Notuleren](producten-and-diensten/gelinkt-notuleren/): gelimiteerde, gratis besluitvormingssoftware voor lokale overheden zonder softwareleverancier - om gelinkte gegevens te ondersteunen.
+
+Deze informatie wordt opgeslagen in het [Loket voor Lokale besturen](producten-and-diensten/loket-voor-lokale-besturen/) - een platform voor gegevensuitwisseling en communicatie tussen lokale besturen en het agentschap voor binnenlandse zaken.
+
+We stellen deze [openbare gegevens ter beschikking ](producten-and-diensten/wikis-and-publieke-databanken-public-databases/)van andere overheden en diensten en particuliere hergebruikers.
+
+Het agentschap van binnenlandse zaken biedt ondersteuning via hun helpdesk, geeft opleidingen en ontwikkelt oplossingen om lokale overheden te ondersteunen.
+
+{% embed url="https://www.figma.com/file/qweKK3x3NmwDiCtK7ZcrDk/Applicatiearchitectuur-ABB?node-id=1660%3A0" %}
+
+
+
 Ontdek het ecosysteem, de oplossingen en de applicaties die burgers en bestuur verbinden \[[klik om te vergroten](https://www.figma.com/proto/qweKK3x3NmwDiCtK7ZcrDk/Applicatiearchitectuur-ABB?node-id=1%3A2&viewport=298%2C305%2C0.2371651828289032&scaling=min-zoom)\]
 
 {% embed url="https://www.figma.com/proto/qweKK3x3NmwDiCtK7ZcrDk/Applicatiearchitectuur-ABB?node-id=1%3A2&viewport=298%2C305%2C0.2371651828289032&scaling=min-zoom" %}
