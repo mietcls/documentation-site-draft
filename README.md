@@ -55,11 +55,11 @@ Om die waarde tot leven te brengen, bouwen we digitale oplossingen. Linked Data 
 
 1. We hebben samen met de lokale overheden een [Linked Open Data Standard gecreëerd](lblod-lokale-besturen-and-linked-open-data.md): een standaard manier om gegevens te delen tussen de betrokken partijen.
 2. [We valideren software leveranciers die notuleren voor lokale overheden ondersteunen](https://lokaalbestuur.vlaanderen.be/lokale-besluiten-als-gelinkte-open-data/validaties-notuleringspakketten); en zorgen ervoor dat ze hun gegevens op een correcte manier uitwisselen en publiceren.
-3. We bouwen aan [Gelinkte Notuleren](producten-and-diensten/gelinkt-notuleren/): gelimiteerde, gratis besluitvormingssoftware voor lokale overheden zonder softwareleverancier - om gelinkte gegevens te ondersteunen.
+3. We bouwen aan [Gelinkte Notuleren](producten-en-diensten/gelinkt-notuleren/): gelimiteerde, gratis besluitvormingssoftware voor lokale overheden zonder softwareleverancier - om gelinkte gegevens te ondersteunen.
 
-Deze informatie wordt opgeslagen in het [Loket voor Lokale besturen](producten-and-diensten/loket-voor-lokale-besturen/) - een platform voor gegevensuitwisseling en communicatie tussen lokale besturen en het agentschap voor binnenlandse zaken.
+Deze informatie wordt opgeslagen in het [Loket voor Lokale besturen](producten-en-diensten/loket-voor-lokale-besturen/) - een platform voor gegevensuitwisseling en communicatie tussen lokale besturen en het agentschap voor binnenlandse zaken.
 
-We stellen deze [openbare gegevens ter beschikking ](producten-and-diensten/wikis-and-publieke-databanken-public-databases/)van andere overheden en diensten en particuliere hergebruikers.
+We stellen deze [openbare gegevens ter beschikking ](producten-en-diensten/wikis-and-publieke-databanken-public-databases/)van andere overheden en diensten en particuliere hergebruikers.
 
 Het agentschap van binnenlandse zaken biedt ondersteuning via hun helpdesk, geeft opleidingen en ontwikkelt oplossingen om lokale overheden te ondersteunen.
 
