@@ -3,7 +3,7 @@
 ## Understanding Linked Data & SPARQL
 
 {% hint style="info" %}
-Read about [Linked Open Data for Local Authorities]() to understand _why_ we are using this technology!
+Read about [Linked Open Data for Local Authorities](../../../lblod-lokale-besturen-and-linked-open-data.md) to understand _why_ we are using this technology!
 {% endhint %}
 
 {% embed url="https://drive.google.com/file/d/1uxak2glIJ7LYgn-OPlsvznv6fVAdBqV3/view?usp=sharing" %}
