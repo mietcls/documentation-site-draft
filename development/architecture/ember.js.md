@@ -1,7 +1,5 @@
 # Ember.js
 
-## Useful links
-
 Our apps use Ember.js as their Javascript framework.
 
 A good guide would be [https://guides.emberjs.com/release/](https://guides.emberjs.com/release/) – but if you're more of a book person, we would recommend [https://balinterdi.com/rock-and-roll-with-emberjs/](https://balinterdi.com/rock-and-roll-with-emberjs/).
@@ -16,5 +14,19 @@ A good guide would be [https://guides.emberjs.com/release/](https://guides.ember
 
 {% embed url="https://docs.google.com/presentation/d/1s9fwwAM\_PH6XXGKpWCnobQgTjzoCSoneyS7Z6tLY9uc/edit?usp=sharing" %}
 
+## Useful links
 
+We use octane with glimmer components.
+
+{% embed url="https://guides.emberjs.com/release/upgrading/current-edition/glimmer-components/" %}
+
+Most components have been migrated to octane and glimmer, but sometimes you can find some old syntax here and there. You can definitely update this.
+
+Compare here what the old and the new syntax look like.
+
+{% embed url="https://ember-learn.github.io/ember-octane-vs-classic-cheat-sheet/" %}
+
+You can test your components here:
+
+{% embed url="https://ember-twiddle.com/bc4e11d5efdc25c742972256ffe9b6a3?openFiles=components.accordion\\.js,templates.components.accordion\\.hbs" %}
 
