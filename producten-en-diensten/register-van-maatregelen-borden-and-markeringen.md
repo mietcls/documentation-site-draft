@@ -38,9 +38,7 @@ Ontdek hoe we onze applicaties ontwikkelen onder [ONTWIKKELING &gt; Architectuur
 
 {% embed url="https://github.com/lblod/frontend-mow-registry" %}
 
-### Application
+### Applicatie
 
 {% embed url="https://github.com/lblod/app-mow-registry" %}
-
-
 

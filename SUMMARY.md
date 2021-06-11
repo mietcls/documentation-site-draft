@@ -27,6 +27,7 @@
 * [Erediensten](producten-en-diensten/erediensten.md)
 * [Toegankelijk Vlaanderen](producten-en-diensten/toegankelijk-vlaanderen.md)
 * [\[verouderd\] "How To" Handleidingen – Manuals](producten-en-diensten/handleidingen-manuals/README.md)
+  * [Overzicht Code Repositories](producten-en-diensten/handleidingen-manuals/overzicht-code-repositories.md)
   * [\[verouderd\] De HTML van de handleiding aanpassen zonder HTML editor of gebruik van Terminal](producten-en-diensten/handleidingen-manuals/de-html-van-de-handleiding-aanpassen-zonder-html-editor-of-gebruik-van-terminal.md)
   * [\[verouderd\] Hoe de handleiding aanpassen mét html editor](producten-en-diensten/handleidingen-manuals/untitled.md)
 

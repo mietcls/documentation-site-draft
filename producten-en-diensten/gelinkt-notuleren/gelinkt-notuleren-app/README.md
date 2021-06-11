@@ -43,3 +43,17 @@ De functionaliteiten die we aanbieden bestaan om **gelinkte besluitvorming mogel
 
 {% page-ref page="gelinkt-notuleren-ondersteunt-gelinkt-publiceren.md" %}
 
+## Code
+
+### Front-end
+
+{% embed url="https://github.com/lblod/frontend-gelinkt-notuleren" %}
+
+### Applicati**e**
+
+{% embed url="https://github.com/lblod/app-gelinkt-notuleren" %}
+
+### **Handleiding \(gitbook\)**
+
+{% embed url="https://app.gitbook.com/@abb-vlaanderen/s/gelinkt-notuleren-handleiding/" %}
+
