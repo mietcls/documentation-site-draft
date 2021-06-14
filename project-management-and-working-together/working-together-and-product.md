@@ -22,12 +22,6 @@ Questions? Contact Serge [serge.gillebeert@vlaanderen.be](mailto:serge.gillebeer
 Questions? Sarah Macquoy [sarah.macquoy@vlaanderen.be](mailto:sarah.macquoy@vlaanderen.be)
 {% endhint %}
 
-## Feature Passports
-
-Making sure everyone understands what we are going to build, and what the status is.
-
-{% embed url="https://docs.google.com/document/d/1dlmUfAjWKNk3aZLs-m7P5bVMLUgE0FSW8B3atvqQtV4/edit\#heading=h.dyrpugldkvr8" %}
-
 ## \(Agile\) Workshop Methods
 
 ### Story mapping
