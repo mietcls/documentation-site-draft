@@ -42,3 +42,15 @@ Ontdek hoe we onze applicaties ontwikkelen onder [ONTWIKKELING &gt; Architectuur
 
 {% embed url="https://github.com/lblod/app-mow-registry" %}
 
+## Feature Passports
+
+Algemene feature passports voor LBLOD:
+
+{% embed url="https://abb-vlaanderen.gitbook.io/feature-passports-lblod" caption="In het Engels geschreven voor onze ontwikkelteams." %}
+
+Vind specifieke feature passports voor het Register van Maatregelen hier
+
+{% embed url="https://abb-vlaanderen.gitbook.io/feature-passports-lblod/register/register-van-maatregelen-poc" caption="In het Engels geschreven voor onze ontwikkelteams." %}
+
+
+
