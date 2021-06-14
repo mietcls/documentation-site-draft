@@ -38,5 +38,13 @@ Discover how to set up the code under the section [DEVELOPMENT &gt; Architecture
 
 {% embed url="https://github.com/lblod/app-mow-registry" %}
 
+## Feature Passports
 
+Main feature passports forLBLOD:
+
+{% embed url="https://abb-vlaanderen.gitbook.io/feature-passports-lblod" caption="Written in English for our development teams" %}
+
+Find specific feature passports for Register van Maatregelen here:
+
+{% embed url="https://abb-vlaanderen.gitbook.io/feature-passports-lblod/register/register-van-maatregelen-poc" caption="Written in English for our development teams" %}
 
