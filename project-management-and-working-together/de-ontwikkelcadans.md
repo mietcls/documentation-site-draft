@@ -1,6 +1,6 @@
 # De Ontwikkelcadans
 
-De werking is gebaseerd op de [Scaled Agile Framework \(SAFe\)](https://www.scaledagileframework.com) maar aangepast voor het ABB Digiteam.
+De werking is gebaseerd op de [Scaled Agile Framework \(SAFe\)](https://www.scaledagileframework.com) maar aangepast voor het ABB Digiteam projectwerking.
 
 {% hint style="danger" %}
 Deze pagina is nog in opbouw. Lees je iets raar? Vraag er even naar! [david.suijkerbuijk@vlaanderen.be](mailto:david.suijkerbuijk@vlaanderen.be)
@@ -15,9 +15,13 @@ Deze pagina is nog in opbouw. Lees je iets raar? Vraag er even naar! [david.suij
 
 ## Overzicht
 
-* Rollende roadmap die steeds één jaar vooruit kijkt.
-* Spurts van 10 weken
-* Iedere Spurt bestaat uit vijf sprints, vier ontwikkelsprints +  één IPI-sprint.
-* Na iedere Spurt is er steeds een retrospectieve.
-* Het releasen van ontwikkelingen is niet per definitie gekoppeld aan de cadans.
+* Rollende **roadmap** die steeds één jaar vooruit kijkt.
+* **Spurts** van 10 weken
+* Iedere Spurt bestaat uit vijf **sprints**, vier ontwikkelsprints +  één **IPI-sprint**.
+
+{% hint style="info" %}
+Het releasen van ontwikkelingen is niet per definitie gekoppeld aan de cadans.
+{% endhint %}
+
+
 
