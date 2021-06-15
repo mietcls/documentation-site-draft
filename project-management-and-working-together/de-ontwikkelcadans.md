@@ -25,7 +25,7 @@ Het releasen van ontwikkelingen is niet per definitie gekoppeld aan de cadans.
 
 ### Roadmap
 
-@Heidi Vul jij dit aan met een beschrijving? Afbeelding en link naar de roadmap? wgeourg
+@Heidi Vul jij dit aan met een beschrijving? Afbeelding en link naar de roadmap?
 
 ### Spurten en Sprinten?
 
