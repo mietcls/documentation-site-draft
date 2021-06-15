@@ -63,6 +63,7 @@
 ## Project Management & Working Together
 
 * [Ontwikkelcadans](project-management-and-working-together/de-ontwikkelcadans.md)
+* [Niveau's in de werking](project-management-and-working-together/niveaus-in-de-werking.md)
 * [Rollen](project-management-and-working-together/rollen.md)
 * [Working Together & Product](project-management-and-working-together/working-together-and-product.md)
 * [Feature Passports](project-management-and-working-together/feature-passports.md)
