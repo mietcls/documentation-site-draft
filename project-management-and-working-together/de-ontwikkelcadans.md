@@ -16,7 +16,7 @@ Deze pagina is nog in opbouw. Lees je iets raar? Vraag er even naar! [david.suij
 ## Cadans
 
 * Rollende **roadmap** die steeds één jaar vooruit kijkt.
-* **Spurts** van 10 weken
+* **Spurts** van 10 weken eindigend met een **Centrale Planningsdag**.
 * Iedere Spurt bestaat uit vijf **sprints**, vier ontwikkelsprints +  één **IPI-sprint**.
 
 {% hint style="info" %}
@@ -29,9 +29,11 @@ Het releasen van ontwikkelingen is niet per definitie gekoppeld aan de cadans.
 
 ### Spurten en Sprinten?
 
-#### Spurt
+#### Groeispurt
 
-#### Sprint
+
+
+#### Ontwikkelsprint
 
 Een sprint is een afgebakende periode van twee weken waarin een productteam aan de slag gaat om een duidelijk sprintdoel te bereiken. Sprints volgen elkaar steeds direct op en hebben een aantal vaste onderdelen:
 
@@ -40,6 +42,27 @@ Een sprint is een afgebakende periode van twee weken waarin een productteam aan 
 * Demo \(Sprint Review\)
 * Sprint Retrospective
 * Backlog refinement \(voor de volgende sprints\)
+
+#### Innovatie en Planning Iteratie \(IPI\)
+
+Tijd voor … 
+
+* Innovatie en experimenten
+* Training
+* Planningsactiviteiten voor volgende groeispurt
+
+Wanneer? De Innovatie en Planning \(IPI\) iteratie gebeurt steeds op het einde van een Spurt.
+
+Voorbeeldactiviteiten: testen nieuwe technologieën, breder delen van nieuwe functionaliteiten, kennisoverdracht, scoping sessies & brainstormen, retrospectieves, manier van werken herbekijken, …
+
+{% hint style="warning" %}
+De capaciteit van de IPI mag niet worden ingecalculeerd voor het halen van de Spurt-doelen. Het niet gewoon een extra sprint.
+{% endhint %}
+
+  
+
+
+
 
 
 
