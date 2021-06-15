@@ -15,7 +15,7 @@ Deze pagina is nog in opbouw. Lees je iets raar? Vraag er even naar! [david.suij
 
 ## Cadans
 
-* Rollende **roadmap** die steeds één jaar vooruit kijkt.
+* Rollende **roadmap** die minstens één jaar vooruit kijkt.
 * **Groeispurts** van 10 weken eindigend met een **Centrale Planningsdag**.
 * Iedere Spurt bestaat uit vijf **sprints**, vier ontwikkelsprints +  één **IPI-sprint**.
 
