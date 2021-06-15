@@ -35,5 +35,11 @@ Het releasen van ontwikkelingen is niet per definitie gekoppeld aan de cadans.
 
 Een sprint is een afgebakende periode van twee weken waarin een productteam aan de slag gaat om een duidelijk sprintdoel te bereiken. Sprints volgen elkaar steeds direct op en hebben een aantal vaste onderdelen:
 
+* Sprint Planning
+* Standups
+* Demo \(Sprint Review\)
+* Sprint Retrospective
+* Backlog refinement \(voor de volgende sprints\)
+
 
 
