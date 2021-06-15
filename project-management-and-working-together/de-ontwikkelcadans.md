@@ -13,7 +13,7 @@ Deze pagina is nog in opbouw. Lees je iets raar? Vraag er even naar! [david.suij
 * Voldoende en flexibel plannen
 * Verantwoordelijkheden op de juiste plaats
 
-## Overzicht
+## Cadans
 
 * Rollende **roadmap** die steeds één jaar vooruit kijkt.
 * **Spurts** van 10 weken
@@ -22,6 +22,18 @@ Deze pagina is nog in opbouw. Lees je iets raar? Vraag er even naar! [david.suij
 {% hint style="info" %}
 Het releasen van ontwikkelingen is niet per definitie gekoppeld aan de cadans.
 {% endhint %}
+
+### Roadmap
+
+
+
+### Spurten en Sprinten?
+
+#### Spurt
+
+#### Sprint
+
+Een sprint is een afgebakende periode van twee weken waarin een productteam aan de slag gaat om een duidelijk sprintdoel te bereiken. Sprints volgen elkaar steeds direct op en hebben een aantal vaste onderdelen:
 
 
 
