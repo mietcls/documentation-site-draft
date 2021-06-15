@@ -1,4 +1,4 @@
-# De Ontwikkelcadans
+# Ontwikkelcadans
 
 De werking is gebaseerd op de [Scaled Agile Framework \(SAFe\)](https://www.scaledagileframework.com) maar aangepast voor het ABB Digiteam projectwerking.
 
@@ -25,7 +25,7 @@ Het releasen van ontwikkelingen is niet per definitie gekoppeld aan de cadans.
 
 ### Roadmap
 
-
+@Heidi Vul jij dit aan met een beschrijving? Afbeelding en link naar de roadmap?
 
 ### Spurten en Sprinten?
 

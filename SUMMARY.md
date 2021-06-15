@@ -62,7 +62,7 @@
 
 ## Project Management & Working Together
 
-* [De Ontwikkelcadans](project-management-and-working-together/de-ontwikkelcadans.md)
+* [Ontwikkelcadans](project-management-and-working-together/de-ontwikkelcadans.md)
 * [Working Together & Product](project-management-and-working-together/working-together-and-product.md)
 * [Feature Passports](project-management-and-working-together/feature-passports.md)
 
