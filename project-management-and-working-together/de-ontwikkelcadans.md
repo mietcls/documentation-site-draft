@@ -61,8 +61,19 @@ Voorbeeldactiviteiten: testen nieuwe technologieën, breder delen van nieuwe fun
 De capaciteit van de IPI mag niet worden ingecalculeerd voor het halen van de Spurt-doelen. Het niet gewoon een extra sprint.
 {% endhint %}
 
-  
+### Centrale Planningsdag
 
+De centrale planningsdag is een essentieel inspectie en planningsmoment tussen twee groeispurten in.
+
+Tijd voor … 
+
+* Delen van gerealiseerde oplossingen a.h.v. demo’s
+* Plannen van de volgend Spurt o.b.v. _**epics? Development value stream?**_
+* Afstemming tussen verschillende producten om tot gedeelde oplossingen te komen
+
+Wanneer? De Centrale Planningsdag \(CPD\) gebeurt steeds tijdens de IPI op het einde van een Spurt.
+
+Voorbeeldactiviteiten: break-out sessies voor teamplanning, demo’s van gerealiseerde epic’s of experimenten, toelichtingen van planningen, afstemmingen van afhankelijkheden.
 
 
 
