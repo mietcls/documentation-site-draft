@@ -31,7 +31,9 @@ Het releasen van ontwikkelingen is niet per definitie gekoppeld aan de cadans.
 
 #### Groeispurt
 
+Een groeispurt heeft steeds een duur van 10 weken. Het omvat vier onwikkelsprints en een Innovatie en Planning Iteratie. In de laatste week van de een groepispurt is er een Centrale Plannigsdag \(CPD\) waar de scope voor de volgende groeispurt wordt vastgelegd. 
 
+Door in periodes van 10 weken te werken is er voldoende focus om stappen te zetten maar niet te veel regiditeit om met een steeds veranderende context om te gaan. Het geeft de ontwikkelteams een duidelijke focus voor 10 weken maar wel de mogelijkheid om met de volgende groeispurt in te spelen op \(veranderde\) prioriteiten uit de organisatie.
 
 #### Ontwikkelsprint
 
@@ -45,7 +47,7 @@ Een sprint is een afgebakende periode van twee weken waarin een productteam aan 
 
 #### Innovatie en Planning Iteratie \(IPI\)
 
-Tijd voor … 
+Naast het ontwikkelen van functionaliteiten is er ook nood aan andere activiteiten om een product\(team\) verder te laten groeien. Daarom is de vijfde en laatste sprint van een groeispurt steeds een speciale sprint omdat het expliciet ruimte biedt voor voor … 
 
 * Innovatie en experimenten
 * Training
