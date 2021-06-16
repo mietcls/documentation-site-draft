@@ -60,11 +60,11 @@
   * [Interesting reads](analysis-design-and-communication/design/design-systems.md)
   * [Feedback geven op Figma mockups](analysis-design-and-communication/design/feedback-geven-op-figma-mockups.md)
 
-## Project Management & Working Together
+## Project Management & Samenwerking <a id="project-management-and-working-together"></a>
 
 * [Rollen](project-management-and-working-together/rollen.md)
 * [Ontwikkelcadans](project-management-and-working-together/de-ontwikkelcadans.md)
 * [Niveau's in de werking](project-management-and-working-together/niveaus-in-de-werking.md)
-* [Working Together & Product](project-management-and-working-together/working-together-and-product.md)
-* [Feature Passports](project-management-and-working-together/feature-passports.md)
+* [Tools om mee samen te werken](project-management-and-working-together/working-together-and-product/README.md)
+  * [Feature Passports](project-management-and-working-together/working-together-and-product/feature-passports.md)
 
