@@ -81,6 +81,8 @@ Er wordt verwacht dat op feature een licht geworpen wordt vanuit ieders expertis
 **Wie werkt er aan?  
 Iedereen** _kan_ aan een feature passport werken; op elk moment. Het is niet de bedoeling dat dit afgeschermd wordt, of _waterfallgewijs_ mensen pas betrokken worden nadat een fase is afgewerkt. Afhankelijk van de inhoud moet er bepaald worden wie er aan werkt en op welk moment.
 
+Niet elk teamlid is op elk moment voor elke feature passport nodig.
+
 **Wie is de eigenaar?**  
 Idealiter iemand die het finale aanspreekpunt is, maar gedragen door het team. Dat is afhankelijk van project, feature, team!  
   
