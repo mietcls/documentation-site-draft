@@ -19,3 +19,9 @@ De bibliotheek is gebaseerd op de oude webcomponenten van de Vlaamse Overheid, [
 
 Deze componentenbibliotheek bestaat momenteel uit twee delen: Appuniversum & Ember-Appuniversum.
 
+### Samenwerken met anderen
+
+Er zijn ook andere organisaties op zoek naar manieren om hier open source en meer gericht op applicaties mee om te gaan.
+
+Zo is Kaleidos ook bezig met een bibliotheek, waar we op zoek zijn naar een manier om dichter naar elkaar te groeien: [http://development.kaleidos-prototype.mono.digital/styleguide/auk-tabs.html](http://development.kaleidos-prototype.mono.digital/styleguide/auk-tabs.html)
+
