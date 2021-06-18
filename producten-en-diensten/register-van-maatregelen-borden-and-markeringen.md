@@ -1,6 +1,6 @@
 # Register van Maatregelen: Borden & Markeringen
 
-Het Agentschap Binnenlands Bestuur werkt nauw samen met het department Mobiliteit en Openbare Werken \(MOW\) en het Agentschap Wegen en Verkeer \(AWV\). Samen bouwen ze het Register van Maatregelen voor borden en markeringen.
+Het Agentschap Binnenlands Bestuur werkt nauw samen met het department [Mobiliteit en Openbare Werken](https://www.departement-mow.vlaanderen.be/nl/het-departement-mobiliteit-en-openbare-werken/missie-en-opdrachten) \(MOW\) en het Agentschap Wegen en Verkeer \(AWV\). Samen bouwen ze het Register van Maatregelen voor borden en markeringen.
 
 ## Concept
 

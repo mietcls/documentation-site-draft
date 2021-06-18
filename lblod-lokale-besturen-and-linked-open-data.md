@@ -35,6 +35,8 @@ De producten en diensten binnen ABB worden gebouwd met Linked [Open Data](https:
 
 {% embed url="https://www.youtube.com/watch?v=EbpRofMqzF0" %}
 
+Meer over _open source:_ [_https://opensource.pleio.nl/_](https://opensource.pleio.nl/)\_\_
+
 ### Linked Open Data in mensentaal voor mensen die applicaties bouwen
 
 {% embed url="https://yewtu.be/watch?v=4x\_xzT5eF5Q" %}

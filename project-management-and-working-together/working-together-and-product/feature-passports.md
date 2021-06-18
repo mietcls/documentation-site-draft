@@ -28,3 +28,7 @@ Om ervoor te zorgen dat iedereen weet wat we gaan doen, wat ze gaan bouwen en wa
 Feature passports bestaan om een documentatiecultuur te ondersteunen, dat aangemoedigd wordt wanneer we open source applicaties maken – zodat iedereen kan bijdragen wanneer ze kunnen en willen.
 {% endhint %}
 
+Onderzoek naar feature passports: 
+
+[https://docs.google.com/document/d/1dlmUfAjWKNk3aZLs-m7P5bVMLUgE0FSW8B3atvqQtV4/edit?usp=sharing](https://docs.google.com/document/d/1dlmUfAjWKNk3aZLs-m7P5bVMLUgE0FSW8B3atvqQtV4/edit?usp=sharing)
+
