@@ -9,6 +9,10 @@ description: >-
 
 ## Functie van Feature Passports
 
+### Voor product teams
+
+![Hoe feature passports gebruiken als shared intelligence tool om groeiende teams te ondersteunen bij het bouwen van waardevolle producten.](../../.gitbook/assets/screenshot-2021-06-18-at-10.40.36.png)
+
 Een feature passport bestaat om te communiceren onder teamleden over het gedeelde begrip en status van een feature die geïmplementeerd wordt, geïmplementeerd zal worden of verbeterd wordt.
 
 Gebruik feature passports om:
