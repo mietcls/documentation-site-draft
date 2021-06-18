@@ -7,13 +7,27 @@ description: >-
 
 # Feature Passports
 
+Om succesvolle producten te bouwen met een team, heb je vanuit ieders expertise input nodig om in te schatten wat gebouwd moet worden, waarom en hoe dat iets gebouwd moet worden – op een realistische en duurzame manier.
+
+Feature passports zijn een manier voor ons om dat te doen.
+
 ## Functie van Feature Passports
+
+### Context & Doel
+
+![Context: samen nuttige, impactvolle producten bouwen.](../../.gitbook/assets/screenshot-2021-06-18-at-10.43.32.png)
+
+![Doelen: Kennis delen &amp; bruggen bouwen, dubbel werk &amp; frictie vermijden, duidelijkheid scheppen &amp; overzicht bewaren.](../../.gitbook/assets/screenshot-2021-06-18-at-10.43.39.png)
 
 ### Voor product teams
 
 ![Hoe feature passports gebruiken als shared intelligence tool om groeiende teams te ondersteunen bij het bouwen van waardevolle producten.](../../.gitbook/assets/screenshot-2021-06-18-at-10.40.36.png)
 
 Een feature passport bestaat om te communiceren onder teamleden over het gedeelde begrip en status van een feature die geïmplementeerd wordt, geïmplementeerd zal worden of verbeterd wordt.
+
+### Een "Shared Intelligence" tool
+
+![Om succesvolle producten te bouwen met een team, heb je vanuit ieders expertise input nodig om in te schatten wat gebouwd moet worden, waarom en hoe dat iets gebouwd moet worden &#x2013; op een realistische en duurzame manier.](../../.gitbook/assets/screenshot-2021-06-18-at-10.45.54.png)
 
 Gebruik feature passports om:
 
