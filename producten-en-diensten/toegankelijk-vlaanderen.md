@@ -1,5 +1,9 @@
 # Toegankelijk Vlaanderen
 
+{% hint style="info" %}
+In opbouw
+{% endhint %}
+
 ## Website
 
 {% embed url="https://toegankelijk.vlaanderen.be/" %}
