@@ -22,7 +22,7 @@ Om kennisdeling over en consistentie in, bijvoorbeeld, gebruikte technieken te s
 
 ### Product Owner
 
-De Product Owner vertaalt de visie van de klanten op het product naar mogelijke oplossingen die een antwoord bieden op noden en dus waarde leveren binnen de beleidsvelden waarvoor ABB verantwoordelijk is . Dit gebeurt samen met inhoudelijke business experten en IT-technische collega’s.
+De Product Owner vertaalt de visie voor de klanten op het product naar mogelijke oplossingen die een antwoord bieden op noden en dus waarde leveren binnen de beleidsvelden waarvoor ABB verantwoordelijk is . Dit gebeurt samen met inhoudelijke business experten en IT-technische collega’s.
 
 * Probleemanalyse van noden
 * Informatie en advies bij vragen
