@@ -4,3 +4,5 @@
 Deze pagina is nog in opbouw. Lees je iets raar? Vraag er even naar! [david.suijkerbuijk@vlaanderen.be](mailto:david.suijkerbuijk@vlaanderen.be)
 {% endhint %}
 
+![Visualisatie Agile product teams](../.gitbook/assets/image%20%286%29.png)
+
