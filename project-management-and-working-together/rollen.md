@@ -22,7 +22,8 @@ Daarnaast begeleidt die het leren en continue verbeteren van de SAFe-werking. Di
 * werkt nauw samen met de Product Owners en Product Managers om afstemming te stimuleren en begeleiden;
 * zorgt dat de waardestromen en roadmap up-to-date en gekend zijn;
 * organiseert en faciliteert belangrijke overlegmomenten \(Centrale Planningsdag, Communities of Practises, Solution Stand-ups\);
-* organiseert periodieke retrospectieves en zorgt dat verbeteringen o.b.v. deze inzichten tot stand komen.
+* organiseert periodieke retrospectieves en zorgt dat verbeteringen o.b.v. deze inzichten tot stand komen;
+* ondersteuning en eerste hulp bieden rond Agile werken
 
 ### Product Manager
 
