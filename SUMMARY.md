@@ -62,8 +62,8 @@
 
 ## Project Management & Samenwerking <a id="project-management-and-working-together"></a>
 
-* [Rollen](project-management-and-working-together/rollen.md)
 * [Ontwikkelcadans](project-management-and-working-together/de-ontwikkelcadans.md)
+* [Rollen](project-management-and-working-together/rollen.md)
 * [Niveau's in de werking](project-management-and-working-together/niveaus-in-de-werking.md)
 * [Tools om mee samen te werken](project-management-and-working-together/working-together-and-product/README.md)
   * [Feature Passports](project-management-and-working-together/working-together-and-product/feature-passports.md)
