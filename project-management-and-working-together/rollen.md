@@ -14,6 +14,16 @@ Deze pagina is nog in opbouw. Lees je iets raar? Vraag er even naar! [david.suij
 Alle rollen binnen de SAFe-werking binnen het projectteam staan zo dicht mogelijk bij de eindklant\(en\). De focus verschilt wel afhankelijk van het stadium waar een oplossing zich in bevindt. 
 {% endhint %}
 
+### Treinbegeleider
+
+De treinbegeleider zorgt ervoor dat de nodige procesmatige en technische afstemming \(tussen producten\) gebeurt en jaagt dit zelfs aan. Hiervoor start die idealiter vanuit de Roadmap en de waardestromen.  
+Daarnaast begeleidt die het leren en continue verbeteren van de SAFe-werking. Dit zowel binnen het Project Team als ruimer heel ABB.
+
+* werkt nauw samen met de Product Owners en Product Managers om afstemming te stimuleren en begeleiden;
+* zorgt dat de waardestromen en roadmap up-to-date en gekend zijn;
+* organiseert en faciliteert belangrijke overlegmomenten \(Centrale Planningsdag, Communities of Practises, Solution Stand-ups\);
+* organiseert periodieke retrospectieves en zorgt dat verbeteringen o.b.v. deze inzichten tot stand komen.
+
 ### Product Manager
 
 De Product Manager definieert op een strategisch niveau de visie voor de klanten op een product met als doel deze visie te vertalen naar een roadmap voor het product en oplossingen. Dit gebeurt in lijn met de overeengekomen normen in termen van tijd, kwaliteit en kosten.
