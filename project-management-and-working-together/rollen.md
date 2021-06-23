@@ -6,7 +6,7 @@ Deze pagina is nog in opbouw. Lees je iets raar? Vraag er even naar! [david.suij
 
 ## Product teams
 
-Een Product team bestaat uit een Product Owner, Scrum Master en Developers. Op basis van Scrum worden nieuwe functionaliteiten en oplossingen opgeleverd in de [ontwikkelcadans](de-ontwikkelcadans.md). 
+Een Product team bestaat uit een Product Owner, Scrum Master en Developers. Op basis van Scrum worden door de product teams nieuwe functionaliteiten en oplossingen opgeleverd in de [ontwikkelcadans](de-ontwikkelcadans.md). 
 
 Product teams hebben alle benodigde vaardigheden  om elke Sprint waarde te creëren. Ze zijn dus **multidisciplinair**. Daarnaast is het Scrum Team **zelfsturend** en bepalen ze dus onderling wie wat opneemt.
 
