@@ -4,8 +4,6 @@
 Deze pagina is nog in opbouw. Lees je iets raar? Vraag er even naar! [david.suijkerbuijk@vlaanderen.be](mailto:david.suijkerbuijk@vlaanderen.be)
 {% endhint %}
 
-**Uitgangspunt:** De productteams staan zo dicht mogelijk bij de eindgebruikers tijdens de ontwikkeling van het product. Dit wil niet zeggen dat altijd alles met iedereen moet gebeuren. Iedereen moet zijn/haar focus kunnen houden om zo goed en snel mogelijk oplossingen en dus waarde te kunnen leveren.
-
 ## Van idee tot waarde
 
 ### Waardestromen \(Waarom?\)
@@ -20,7 +18,7 @@ Deze pagina is nog in opbouw. Lees je iets raar? Vraag er even naar! [david.suij
 * Het beleid rond geloofsgemeenschappen steunt op duurzame, betrouwbare en herbruikbare informatie 
 * Kennisgedreven digitale end-to-end dossierbehandeling
 
-Een idee past altijd in een bestaande of nieuwe waardestroom.
+Een **idee** past altijd in een bestaande of nieuwe waardestroom.
 
 {% hint style="info" %}
 Idealiter heeft iedere waardestroom een duidelijke beschrijving.
@@ -28,9 +26,9 @@ Idealiter heeft iedere waardestroom een duidelijke beschrijving.
 
 ### Oplossingen \(Hoe?\)
 
-Een oplossing is de manier waarop het digiteam bijdraagt tot het verbeteren of mogelijk maken van een waardestroom. Iedere oplossing die binnen het Digiteam wordt gebouwd moet bijdragen tot een waardestroom.
+Een oplossing is de manier waarop het Digiteam bijdraagt tot het verbeteren of mogelijk maken van een waardestroom. Iedere oplossing die binnen het Digiteam wordt gebouwd moet bijdragen tot een waardestroom.
 
-Een oplossing kan één of meerdere producten raken. Als er meerdere producten betrokken zijn,  is de afstemming des te belangrijker om de oplossing op te kunnen leveren in de [ontwikkelcadans](de-ontwikkelcadans.md).
+Een oplossing kan ontwikkeling in één of meerdere producten vergen. Als er meerdere producten betrokken zijn,  is de afstemming des te belangrijker om de oplossing op te kunnen leveren in de [ontwikkelcadans](de-ontwikkelcadans.md).
 
 {% hint style="info" %}
 Iedere oplossing staat kort en krachtig beschreven een oplossingenfiche.
