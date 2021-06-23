@@ -22,13 +22,19 @@ Om kennisdeling over en consistentie in, bijvoorbeeld, gebruikte technieken te s
 
 ### Product Owner
 
-De Product Owner vertaalt de visie voor de klanten op het product naar mogelijke oplossingen die een antwoord bieden op noden en dus waarde leveren binnen de beleidsvelden waarvoor ABB verantwoordelijk is . Dit gebeurt samen met inhoudelijke business experten en IT-technische collega’s.
+De Product Owner vertaalt de visie voor de klanten op het product naar functionele acties **met als doel** samen met inhoudelijke business experten en IT-technische collega’s te komen tot processen, diensten en toepassingen die beantwoorden aan de noden en zo waarde te leveren binnen de beleidsvelden waarvoor ABB verantwoordelijk is. Dit gebeurt volgens de overeengekomen normen in termen van tijd, kwaliteit en kosten.
 
-* Probleemanalyse van noden
-* Informatie en advies bij vragen
-* Begeleiding en opvolging in formuleren van oplossingen
-* Rapportering over impact van oplossingen
-* Bekendmaking van de dienstverlening en prospectie 
+* vormt een tandem met de Product Manager;
+* vertaalt de visie op het product naar functionele acties om zo de doelstellingen te garanderen;
+* stimuleert het team om kwaliteitsvolle stories te definiëren en de backlog te prioriteren;
+* maximaliseert samen met het productteam de waarde die  gecreëerd wordt voor belanghebbenden;
+* zorgt ervoor dat wat wordt opgeleverd voldoet aan de behoeften van de belanghebbenden;
+* haalt waardevolle informatie op binnen en buiten de organisatie en bouwt daarvoor stabiele interne en externe netwerken op;
+* past de technieken van agile product management en business analyse toe volgens de vooropgestelde kwaliteitsvereisten en procedures;
+
+### Product Manager
+
+
 
 
 
