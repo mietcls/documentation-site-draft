@@ -4,8 +4,6 @@
 Deze pagina is nog in opbouw. Lees je iets raar? Vraag er even naar! [david.suijkerbuijk@vlaanderen.be](mailto:david.suijkerbuijk@vlaanderen.be)
 {% endhint %}
 
-{% file src="../.gitbook/assets/handleiding-agile-abb-draft-1.0.1.pdf" %}
-
 ## Van idee tot waarde
 
 ### Waardestromen \(Waarom?\)
@@ -44,5 +42,7 @@ Iedere oplossing staat kort en krachtig beschreven een oplossingenfiche.
 
 Om helder te krijgen wat er dan functioneel moet kunnen in de betrokken producten maken we gebruik van Epics.  Een Epic is een beschrijving van een functioneel blok dat, eens gebouwd en beschikbaar gemaakt in het product voor eindgebruikers, voor de business eigenaar een bepaalde waarde zal opleveren. De tijd nodig om een Epic te realiseren is doorgaans langer dan een sprint. Bij ABB proberen we Epics wel zo te dimensioneren dat ze in 1 [groeispurt](de-ontwikkelcadans.md) kunnen worden opgeleverd. Dit doen we omdat de planningsfocus op een centrale [planningsdag](de-ontwikkelcadans.md) in principe niet verder reikt dan 1 [groeispurt](de-ontwikkelcadans.md).
 
-Meer informatie over hoe Oplossingen, Epics en Stories  worden opgevolgd in Jira.
+{% file src="../.gitbook/assets/handleiding-agile-abb-draft-1.0.1 \(1\).pdf" caption="Oplossingen, Epics en Stories in Jira" %}
+
+
 
