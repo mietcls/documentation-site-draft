@@ -14,12 +14,6 @@ Een Product team bestaat uit een Product Owner, Scrum Master en Developers. Op b
 
 Product teams hebben alle benodigde vaardigheden  om elke Sprint waarde te creëren. Ze zijn dus **multidisciplinair**. Daarnaast is het Scrum Team **zelfsturend** en bepalen ze dus onderling wie wat opneemt.
 
-![Visualisatie Agile product teams](../.gitbook/assets/image%20%286%29.png)
-
-## Communities of Practise \(COP\)
-
-Om kennisdeling over en consistentie in, bijvoorbeeld, gebruikte technieken te stimuleren worden er door de _Treinbegeleider_ periodiek _Communities of Practises_ georganiseerd. Een COP vind plaats rond een bepaalde rol in de werking of specifieke competenties. Tijdens deze bijeenkomsten worden voorbeelden gedeeld, nieuwe technieken aangeleerd of zelfs nieuwe praktijken ontwikkeld.
-
 ### Product Owner
 
 De Product Owner vertaalt de visie voor de klanten op het product naar functionele acties **met als doel** samen met inhoudelijke business experten en IT-technische collega’s te komen tot processen, diensten en toepassingen die beantwoorden aan de noden en zo waarde te leveren binnen de beleidsvelden waarvoor ABB verantwoordelijk is. Dit gebeurt volgens de overeengekomen normen in termen van tijd, kwaliteit en kosten.
@@ -32,7 +26,23 @@ De Product Owner vertaalt de visie voor de klanten op het product naar functione
 * haalt waardevolle informatie op binnen en buiten de organisatie en bouwt daarvoor stabiele interne en externe netwerken op;
 * past de technieken van agile product management en business analyse toe volgens de vooropgestelde kwaliteitsvereisten en procedures;
 
+![Visualisatie Agile product teams](../.gitbook/assets/image%20%286%29.png)
+
+## Communities of Practise \(COP\)
+
+Om kennisdeling over en consistentie in, bijvoorbeeld, gebruikte technieken te stimuleren worden er door de _Treinbegeleider_ periodiek _Communities of Practises_ georganiseerd. Een COP vind plaats rond een bepaalde rol in de werking of specifieke competenties. Tijdens deze bijeenkomsten worden voorbeelden gedeeld, nieuwe technieken aangeleerd of zelfs nieuwe praktijken ontwikkeld.
+
 ### Product Manager
+
+De Product Manager definieert op een strategisch niveau de visie voor de klanten op een product met als doel deze visie te vertalen naar een roadmap voor het product en oplossingen. Dit gebeurt in lijn met de overeengekomen normen in termen van tijd, kwaliteit en kosten.
+
+* werkt nauw samen met een breed scala aan mensen om de behoeften van belanghebbenden te identificeren en de oplossingscontext te begrijpen;
+* stimuleert en organiseert de samenwerking binnen het team zodat het product waarde creëert voor de belanghebbenden;
+* ontwikkelt visie op het product, stelt een roadmap op en vertaalt deze in oplossingen waar het team verder aan werkt;
+* toont aan hoe een oplossing waarde kan bieden voor interne en externe klanten;
+* boort nieuwe domeinen aan waarvoor het product waarde kan leveren;
+* identificeert en contacteert potentiële gebruikers en integratie-partners;
+* werkt in tandem samen met de Product Owner die de visie vertaalt naar concrete taken voor het productteam 
 
 
 
