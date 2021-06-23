@@ -4,6 +4,8 @@
 Deze pagina is nog in opbouw. Lees je iets raar? Vraag er even naar! [david.suijkerbuijk@vlaanderen.be](mailto:david.suijkerbuijk@vlaanderen.be)
 {% endhint %}
 
+{% file src="../.gitbook/assets/handleiding-agile-abb-draft-1.0.1.pdf" %}
+
 ## Van idee tot waarde
 
 ### Waardestromen \(Waarom?\)
