@@ -11,7 +11,7 @@ Deze pagina is nog in opbouw. Lees je iets raar? Vraag er even naar! [david.suij
 {% endhint %}
 
 {% hint style="success" %}
-Alle rollen binnen de SAFe-werking binnen het projectteam staan zo dicht mogelijk bij de eindklant\(en\). De focus verschilt wel afhankelijk van het stadium waar een oplossing zich in bevindt. 
+Alle rollen binnen de SAFe-werking binnen het projectteam staan zo dicht mogelijk bij de eindklant\(en\). De focus verschilt wel afhankelijk van het stadium waar een oplossing zich in bevindt. Iedereen moet zijn/haar focus kunnen houden om zo goed en snel mogelijk oplossingen en dus waarde te kunnen leveren.
 {% endhint %}
 
 ### Treinbegeleider
