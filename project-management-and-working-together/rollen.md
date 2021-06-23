@@ -45,7 +45,7 @@ Product teams hebben alle benodigde vaardigheden  om elke Sprint waarde te cree�
 
 ### Product Owner
 
-De Product Owner vertaalt de visie voor de klanten op het product naar functionele acties **met als doel** samen met inhoudelijke business experten en IT-technische collega’s te komen tot processen, diensten en toepassingen die beantwoorden aan de noden en zo waarde te leveren binnen de beleidsvelden waarvoor ABB verantwoordelijk is. Dit gebeurt volgens de overeengekomen normen in termen van tijd, kwaliteit en kosten.
+De Product Owner vertaalt de visie voor de klanten op het product naar functionele acties **met als doel** samen met inhoudelijke business experten en IT-technische collega’s te komen tot processen, diensten en toepassingen die beantwoorden aan de noden en zo waarde te leveren binnen de beleidsvelden waarvoor ABB verantwoordelijk is. Dit gebeurt volgens de overeengekomen normen in termen van tijd, kwaliteit en kosten. 
 
 * vormt een tandem met de Product Manager;
 * vertaalt de visie op het product naar functionele acties om zo de doelstellingen te garanderen;
