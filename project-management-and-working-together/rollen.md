@@ -1,3 +1,9 @@
+---
+description: >-
+  Er zijn verschillende rollen in de SAFe-werking van het projectteam. Op deze
+  pagina vind je de beschrijvingen van de meeste rollen.
+---
+
 # Rollen
 
 {% hint style="warning" %}
