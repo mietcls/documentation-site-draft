@@ -8,6 +8,18 @@ Deze pagina is nog in opbouw. Lees je iets raar? Vraag er even naar! [david.suij
 Alle rollen binnen de SAFe-werking binnen het projectteam staan zo dicht mogelijk bij de eindklant\(en\). De focus verschilt wel afhankelijk van het stadium waar een oplossing zich in bevindt. 
 {% endhint %}
 
+### Product Manager
+
+De Product Manager definieert op een strategisch niveau de visie voor de klanten op een product met als doel deze visie te vertalen naar een roadmap voor het product en oplossingen. Dit gebeurt in lijn met de overeengekomen normen in termen van tijd, kwaliteit en kosten.
+
+* werkt nauw samen met een breed scala aan mensen om de behoeften van belanghebbenden te identificeren en de oplossingscontext te begrijpen;
+* stimuleert en organiseert de samenwerking binnen het team zodat het product waarde creëert voor de belanghebbenden;
+* ontwikkelt visie op het product, stelt een roadmap op en vertaalt deze in oplossingen waar het team verder aan werkt;
+* toont aan hoe een oplossing waarde kan bieden voor interne en externe klanten;
+* boort nieuwe domeinen aan waarvoor het product waarde kan leveren;
+* identificeert en contacteert potentiële gebruikers en integratie-partners;
+* werkt in tandem samen met de Product Owner die de visie vertaalt naar concrete taken voor het productteam 
+
 ## Product teams
 
 Een Product team bestaat uit een Product Owner, Scrum Master en Developers. Op basis van Scrum worden door de product teams nieuwe functionaliteiten en oplossingen opgeleverd in de [ontwikkelcadans](de-ontwikkelcadans.md). 
@@ -31,18 +43,6 @@ De Product Owner vertaalt de visie voor de klanten op het product naar functione
 ## Communities of Practise \(COP\)
 
 Om kennisdeling over en consistentie in, bijvoorbeeld, gebruikte technieken te stimuleren worden er door de _Treinbegeleider_ periodiek _Communities of Practises_ georganiseerd. Een COP vind plaats rond een bepaalde rol in de werking of specifieke competenties. Tijdens deze bijeenkomsten worden voorbeelden gedeeld, nieuwe technieken aangeleerd of zelfs nieuwe praktijken ontwikkeld.
-
-### Product Manager
-
-De Product Manager definieert op een strategisch niveau de visie voor de klanten op een product met als doel deze visie te vertalen naar een roadmap voor het product en oplossingen. Dit gebeurt in lijn met de overeengekomen normen in termen van tijd, kwaliteit en kosten.
-
-* werkt nauw samen met een breed scala aan mensen om de behoeften van belanghebbenden te identificeren en de oplossingscontext te begrijpen;
-* stimuleert en organiseert de samenwerking binnen het team zodat het product waarde creëert voor de belanghebbenden;
-* ontwikkelt visie op het product, stelt een roadmap op en vertaalt deze in oplossingen waar het team verder aan werkt;
-* toont aan hoe een oplossing waarde kan bieden voor interne en externe klanten;
-* boort nieuwe domeinen aan waarvoor het product waarde kan leveren;
-* identificeert en contacteert potentiële gebruikers en integratie-partners;
-* werkt in tandem samen met de Product Owner die de visie vertaalt naar concrete taken voor het productteam 
 
 
 
