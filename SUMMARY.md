@@ -42,6 +42,7 @@
     * [\[EN\] Virtuoso in Depth](ontwikkeling/architectuur/linked-data-and-sparql/en-virtuoso-in-depth.md)
   * [\[EN\] Ember.js](ontwikkeling/architectuur/ember.js.md)
   * [\[EN\] Templates & Coding conventions](ontwikkeling/architectuur/en-templates-and-coding-conventions.md)
+  * [Data Modellen](ontwikkeling/architectuur/data-modellen.md)
 * [Front-end \(HTML, CSS, JS\)](ontwikkeling/front-end/README.md)
   * [Appuniversum](ontwikkeling/front-end/css.md)
   * [Accessibility](ontwikkeling/front-end/accessibility.md)
