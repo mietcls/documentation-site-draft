@@ -42,6 +42,7 @@
     * [Virtuoso in Depth](development/architecture/linked-data/virtuoso-in-depth.md)
   * [Ember.js](development/architecture/ember.js.md)
   * [Templates & Conventions](development/architecture/templates-and-conventions.md)
+  * [\[NL\] Data Models](development/architecture/nl-data-models.md)
 * [Front-end \(HTML, CSS, JS\)](development/front-end/README.md)
   * [Appuniversum](development/front-end/css.md)
   * [Ember](development/front-end/ember.md)
