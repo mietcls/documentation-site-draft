@@ -268,11 +268,31 @@ Tell people what is going to happen.
 
 ## Conclusions
 
-When you're done with _all_ the interviews, you can start drawing conclusions. This is will be different for each set-up. Up front, you can however define which conclusions you know you already want to draw – but you don't know what you don't know, so this will change.
+When you're done with _all_ the interviews, you can start drawing conclusions. This is will be different for each set-up. Up front, you can however define which conclusions you know you already want to draw – but you don't know what you don't know, so this will change. [See Scope & Overview](user-interviews-and-testing.md#scope-and-overview-scope-interview).
 
-![](../.gitbook/assets/screenshot-2021-04-07-at-17.49.31.png)
+![Examples of questions you want to be answered](../.gitbook/assets/screenshot-2021-04-07-at-17.49.31.png)
 
-![](../.gitbook/assets/screenshot-2021-04-07-at-18.34.15.png)
+### Prioritising Focus
+
+After all the user tests are over, you can review the questions and see which issues and questions arise. This is a wonderful time to prioritise and review how you're going to approach your roadmap in the near future.
+
+#### Prioritise
+
+To make it easier to decide what to fix first \(regardless of effort and time – that's to be decided by the team\), we can divide them into 3 priorities:
+
+1. **Blocking problems** These are the types of features and issues that keep our target audience from completing the goals they and we have in mind – that our solution _needs_ to provide. These are crucial and need to be estimated and planned first. _"I can only use it if..."_ 
+2. **Improvements** These features make our solution easier to use, will make sure our target audience can reach their goals in a better way and make sure the business is closer to their goals as well. We'd like to plan these in the near future; to make sure we don't frustrate anyone – which will keep them from being happy advocates for us. _"I'd recommend this to my colleagues if..."_ 
+3. **Nice to have & Future** Nice to have: the cherries on top that will make our target audience happy. Future: Features that we have in mind but they are not on our roadmap in the near future. _"I LOVE IT"_
+
+Depending on how you see your solution, what your product management style is and how you approach things – you can adapt these priorities!
+
+#### Groups & Labels
+
+You can use questions you need answers to that you defined in [Scope & Overview](user-interviews-and-testing.md#scope-and-overview-scope-interview), to group your topics as well \("vraag" and "antwoord"\).
+
+You can also label the features and issues with tags to see what your improvements are mostly about; for example `UX/UI`, `bug` or `new functionality`.
+
+![Examples of prioritisation](../.gitbook/assets/screenshot-2021-04-07-at-18.34.15.png)
 
 ### 
 
