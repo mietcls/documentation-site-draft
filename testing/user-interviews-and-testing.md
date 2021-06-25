@@ -280,9 +280,14 @@ After all the user tests are over, you can review the questions and see which is
 
 To make it easier to decide what to fix first \(regardless of effort and time – that's to be decided by the team\), we can divide them into 3 priorities:
 
-1. **Blocking problems** These are the types of features and issues that keep our target audience from completing the goals they and we have in mind – that our solution _needs_ to provide. These are crucial and need to be estimated and planned first. _"I can only use it if..."_ 
-2. **Improvements** These features make our solution easier to use, will make sure our target audience can reach their goals in a better way and make sure the business is closer to their goals as well. We'd like to plan these in the near future; to make sure we don't frustrate anyone – which will keep them from being happy advocates for us. _"I'd recommend this to my colleagues if..."_ 
-3. **Nice to have & Future** Nice to have: the cherries on top that will make our target audience happy. Future: Features that we have in mind but they are not on our roadmap in the near future. _"I LOVE IT"_
+1. **Blocking problems** These are the types of features and issues that keep our target audience from completing the goals they and we have in mind – that our solution _needs_ to provide. These are crucial and need to be estimated and planned first. Us: _"Can they reach their goal?"_ Them: _"I can only use it if..."_ 
+2. **Improvements**  
+   These features make our solution easier to use, will make sure our target audience can reach their goals in a better way and make sure the business is closer to their goals as well. We'd like to plan these in the near future; to make sure we don't frustrate anyone – which will keep them from being happy advocates for us.
+
+   Us: _"What is frustrating?"_  
+   Them: _"I'd recommend this to my colleagues if..."_  
+
+3. **Nice to have & Future** Nice to have: the cherries on top that will make our target audience happy. Future: Features that we have in mind but they are not on our roadmap in the near future. Us: _"What other goals we have in the future, that align our target audience and business?"_ Them: _"I'd love it if..."_
 
 Depending on how you see your solution, what your product management style is and how you approach things – you can adapt these priorities!
 
