@@ -6,11 +6,19 @@ description: >-
 
 # Organisatieportaal
 
+## Doel
+
 {% hint style="success" %}
 Consulteer en beheer contactinformatie van lokale besturen en hun samenwerkingsverbanden.
 {% endhint %}
 
 Het organisatieportaal is de **toegangspoort tot informatie over organisaties en personen** die ABB contacteert. Via het organisatieportaal kan je verschillende **authentieke databronnen** met betrekking tot organisatiegegevens van lokale besturen aanspreken – allemaal op één plek. Het platform maakt **connectie naar interne producten en applicaties**, om de informatiestromen beter in de hand te houden. 
+
+## Doelpubliek
+
+{% hint style="info" %}
+Aan te vullen
+{% endhint %}
 
 ## Exploreer contactgegevens
 
@@ -78,9 +86,13 @@ _Naargelang de noden voor de contactgegevens die nodig is per organisatie en wor
 
 Bijvoorbeeld, in kader van erediensten werden volgende organisaties gekoppeld: Bestuur van de eredienst Centraal bestuur van de eredienst, betrokken bestuursorganen, representatieve organen.
 
+## Omgeving
+
+De huidige applicatie is in ontwikkeling, en zal in september 2021 live gaan.
+
 ## Code
 
-Draag hier bij aan onze applicaties \[EN\]:
+Draag hier bij aan onze applicaties, en bekijk onze datamodellen \[EN\]:
 
 {% embed url="https://abb-vlaanderen.gitbook.io/doc-organisatieportaal/code" caption="Specifieke site organisatieportaal" %}
 
