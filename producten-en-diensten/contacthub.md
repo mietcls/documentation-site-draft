@@ -10,9 +10,43 @@ description: >-
 Consulteer en beheer contactinformatie van lokale besturen en hun samenwerkingsverbanden.
 {% endhint %}
 
-_Het organisatieportaal is de toegangspoort tot informatie over organisaties en personen die ABB contacteert. Via het organisatieportaal kan je verschillende authentieke databronnen met betrekking tot organisatiegegevens van lokale besturen aanspreken – allemaal op één plek. Het platform maakt connectie naar interne producten en applicaties._
+Het organisatieportaal is de **toegangspoort tot informatie over organisaties en personen** die ABB contacteert. Via het organisatieportaal kan je verschillende **authentieke databronnen** met betrekking tot organisatiegegevens van lokale besturen aanspreken – allemaal op één plek. Het platform maakt **connectie naar interne producten en applicaties**, om de informatiestromen beter in de hand te houden. 
+
+## Exploreer contactgegevens
+
+We hebben op dit moment twee manieren om gegevens te exploreren: organisaties en personen. De volgende cases werden toegepast op erediensten.
 
 {% hint style="info" %}
 Al de informatie die leeft rond [erediensten](erediensten.md) werd als een eerste pilootproject gezien voor het organisatieportaal. Deze nieuwe dienst start op 1 september, en zal de eerste basisversie van het organisatieportaal worden.
 {% endhint %}
+
+### Organisaties
+
+Deze bestaan uit publieke organisaties zoals bestuurseenheden, bestuursorganen, formele organisaties en algemene organisaties.
+
+Voorbeelden voor informatie omtrent lokale besturen en meer specifiek erediensten:
+
+![](../.gitbook/assets/screenshot-2021-06-28-at-13.40.47.png)
+
+**Publieke organisaties, zoals Bestuurseenheden**: Autonoom gemeentebedrijf, Autonoom provinciebedrijf, Bestuur van de eredienst, Centraal bestuur van de eredienst, Dienstverlenende vereniging, District Gemeente, Hulpverleningszone, OCMW, OCMW vereniging, Opdrachthoudende vereniging, Polders, Politiezone, Projectvereniging, Provincie, Watering, Welzijnsvereniging
+
+**Bestuursorganen**: Gemeenteraad, College van Burgemeesters en Schepenen, Provincieraad, Raad van Bestuur, Centraal Bestuursorgaan, Eredienstenbestuursorgaan, ...
+
+**Formele organisaties, zoals Geregistreerde organisaties**: Ondernemingen \(Vennootschappen, Verenigingen, Stichtingen\), Representatief Orgaan, ...
+
+**Algemene organisaties**: Feitelijke verenigingen, zonder winstuitkering, ...
+
+### Personen
+
+U kan de posities van een persoon binnen de verschillende organisaties terugvinden, zoals leidinggevenden, mandatarissen, bedienaren, ...
+
+Voorbeelden voor informatie omtrent lokale besturen en meer specifiek erediensten:
+
+![](../.gitbook/assets/screenshot-2021-06-28-at-13.57.06.png)
+
+**Posities binnen verschillende organisaties**: Penningmeester, Secretaris, Bedienaar, Expert, Vertegenwoordiger van rechtswege, …
+
+**Leidinggevenden**: Algemeen directeur, Adjunct algemeen directeur, Financieel directeur, Adjunct financieel directeur, Leidend ambtenaar, Griffier, Financieel beheerder …
+
+**Mandatarissen**: Burgemeester, Aangewezen burgemeester, Schepen, Toegevoegde schepen, Voorzitter Bestuurslid …
 
