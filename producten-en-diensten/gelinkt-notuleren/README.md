@@ -6,7 +6,7 @@
 
 **Gelinkt Notuleren** is een webapplicatie die helpt met het opmaken en publiceren van agenda's, notulen en besluiten voor Lokale Besturen.
 
-De bedoeling van Gelinkt Notuleren is niet om rechtstreeks te concurreren met bestaande notulering-pakketten. Het doel van de applicatie is om te tonen dat notulen opstellen die verreikt worden met linked open data _mogelijk_ is, en om lokale besturen zonder notuleringpakket uit de nood te helpen.
+De bedoeling van Gelinkt Notuleren is niet om rechtstreeks te concurreren met bestaande notulering-pakketten. Het doel van de applicatie is om te tonen dat notulen opstellen die verrijkt worden met linked open data _mogelijk_ is, en om lokale besturen zonder notuleringpakket uit de nood te helpen.
 
 ### Set-up
 
