@@ -2,14 +2,15 @@
 
 {% embed url="http://loket.lokaalbestuur.vlaanderen.be/" %}
 
-## Introductie
+{% hint style="success" %}
+Het loket voor lokale besturen is een digitale manier voor **communicatie tussen Lokale tussen Lokale Besturen** in Vlaanderen **en het Agentschap Binnenlands Bestuur**.
 
-Wat is het Loket voor Lokale Besturen?
+Om dat mogelijk te maken, bouwen we het loket zo op:
 
-* Een digitale manier voor **communicatie tussen Lokale tussen Lokale Besturen** in Vlaanderen **en het Agentschap Binnenlands Bestuur**​
-* **Beveiligde zending** \(vaststelling tijdstip van verzending en aflevering van communicatie\) – BVR 20/04/2018​
-* **Modulair opgebouwd** \(per type communicatie\)​
-* **Semantische formulieren** – Open Data​
+* De communicatie wordt opgebouwd als een **beveiligde zending** \(vaststelling tijdstip van verzending en aflevering van communicatie\) – volgens het BVR 20/04/2018​
+* Het loket werd **modulair opgebouwd**, per type communicatie, om eenvoudig onderscheid te maken en toegang te geven.
+* Werd gebaseerd op **semantische formulieren** – die het mogelijk maakt om data open en gelinkt te delen.
+{% endhint %}
 
 ### Visie & Ambities
 
