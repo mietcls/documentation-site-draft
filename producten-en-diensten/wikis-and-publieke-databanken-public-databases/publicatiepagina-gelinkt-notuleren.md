@@ -9,7 +9,12 @@ Zoek naar gelinkte en gepubliceerde agenda's, besluiten en notulen van een bestu
 Deze informatie komt momenteel uit:
 
 * [Gelink Notuleren](../gelinkt-notuleren/)
-* \[later\] Andere notuleringspakketten die de lokale besturen aankopen via leveranciers, die gebruik maken van de [open standaarden](https://lokaalbestuur.vlaanderen.be/lokale-besluiten-als-gelinkte-open-data/open-standaarden-en-technische-specificaties) voor notuleren.
+
+### Doel
+
+Het is verplicht voor lokale besturen om bepaalde informatie in notulen gelinkt te publiceren. [Meer informatie over de richtlijnen.](https://lokaalbestuur.vlaanderen.be/lokale-besluiten-als-gelinkte-open-data/gelinkte-publicatieplicht)
+
+De applicatie Gelinkt Notuleren maakt het mogelijk om dat te doen, en publiceert de informatie hier. Lokale besturen kunnen op hun website linken naar deze pagina. 
 
 ## Code
 
