@@ -4,9 +4,7 @@
 
 Lokale besturen zijn sinds 1 januari 2019 verplicht om bepaalde besluiten, lijsten en stukken te publiceren op hun webtoepassing en te melden aan de toezichthoudende overheid, via het [loket voor lokale besturen](loket-voor-lokale-besturen/). Gelinkt publiceren kan via de applicatie [Gelinkt Notuleren](gelinkt-notuleren/gelinkt-notuleren-app/), of via een software pakket dat voldoet aan de standaarden. Meer informatie op [https://lokaalbestuur.vlaanderen.be/gelinkt-publiceren-melden](https://lokaalbestuur.vlaanderen.be/gelinkt-publiceren-melden).
 
-Via de applicatie Gelinkt Notuleren kan je alvast gelinkt publiceren. Manueel melden 
-
-
+Bekijk de video's onderaan om te ontdekken hoe je kan melden.
 
 ## \(Semi-\)Automatisch Melden
 
