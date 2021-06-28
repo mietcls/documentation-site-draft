@@ -1,7 +1,5 @@
 # Loket voor Lokale Besturen
 
-{% embed url="http://loket.lokaalbestuur.vlaanderen.be/" %}
-
 {% hint style="success" %}
 Het loket voor lokale besturen is een digitale manier voor **communicatie tussen Lokale tussen Lokale Besturen** in Vlaanderen **en het Agentschap Binnenlands Bestuur**.
 
@@ -11,6 +9,8 @@ Om dat mogelijk te maken, bouwen we het loket zo op:
 * Het loket werd **modulair opgebouwd**, per type communicatie, om eenvoudig onderscheid te maken en toegang te geven.
 * Werd gebaseerd op **semantische formulieren** – die het mogelijk maakt om data open en gelinkt te delen.
 {% endhint %}
+
+{% embed url="http://loket.lokaalbestuur.vlaanderen.be/" %}
 
 ### Visie & Ambities
 
@@ -55,5 +55,59 @@ Lokale besturen krijgen toegang door eenmalig toegang te vragen via het Toegangs
 
 Een uitgebreide handleiding vindt u up [https://abb-vlaanderen.gitbook.io/handleiding-loket/](https://abb-vlaanderen.gitbook.io/handleiding-loket/).
 
+## Code
 
+### Set-up
+
+Ontdek hoe we onze applicaties ontwikkelen onder [ONTWIKKELING &gt; Architectuur](../../ontwikkeling/architectuur/).
+
+{% page-ref page="../../ontwikkeling/architectuur/" %}
+
+### Front-end
+
+{% embed url="https://github.com/lblod/frontend-loket" %}
+
+### Back-end
+
+{% embed url="https://github.com/lblod/app-digitaal-loket" %}
+
+### Microservices and scripts
+
+{% embed url="https://github.com/lblod/loket-cli" %}
+
+{% embed url="https://github.com/lblod/loket-mandatarissen-producer" %}
+
+{% embed url="https://github.com/lblod/loket-report-generation-service" %}
+
+{% embed url="https://github.com/lblod/loket-download-url-service" %}
+
+{% embed url="https://github.com/lblod/frontend-loket-reports" %}
+
+{% embed url="https://github.com/lblod/redirect-to-new-loket" %}
+
+{% embed url="https://github.com/lblod/frontend-loket-admin" %}
+
+#### Shared microservices with Gelinkt Notuleren
+
+{% embed url="https://github.com/lblod/app-mandaten-sync" %}
+
+#### Shared microservices and scripts with Kalliope
+
+{% embed url="https://github.com/lblod/berichtencentrum-sync-with-kalliope-service" %}
+
+#### Shared microservices with Toezicht and other applications
+
+{% embed url="https://github.com/lblod/ember-toezicht-form-fields" %}
+
+{% embed url="https://github.com/lblod/loket-download-url-service" %}
+
+{% embed url="https://github.com/lblod/manage-submission-form-tooling" %}
+
+{% embed url="https://github.com/lblod/ember-submission-form-fields" %}
+
+### Manual 
+
+{% embed url="https://abb-vlaanderen.gitbook.io/handleiding-loket/" %}
+
+\[Deprecated\] [https://github.com/lblod/handleiding-digitaal-loket](https://github.com/lblod/handleiding-digitaal-loket)
 

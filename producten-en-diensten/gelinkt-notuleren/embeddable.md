@@ -63,6 +63,10 @@ Al onze applicaties worden op dezelfde manier opgebouwd. Lees eerst de [Architec
 
 {% embed url="https://github.com/lblod/app-gn-embeddable" %}
 
+#### Microservices, plugins en scripts
+
+{% embed url="https://github.com/lblod/ember-rdfa-editor-mandaat-plugin" %}
+
 ### Tutorial: je eigen slimme tekstverwerker
 
 Voeg zelf de slimme tekstverwerker toe aan je ember applicatie:
