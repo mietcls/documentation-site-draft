@@ -53,8 +53,9 @@
 * [Analysis](design-and-communication/analysis.md)
 * [Communication](design-and-communication/communication.md)
 * [Design](design-and-communication/design/README.md)
-  * [Interesting reads](design-and-communication/design/design-systems.md)
   * [Feedback geven op Figma mockups](design-and-communication/design/feedback-geven-op-figma-mockups.md)
+  * [Interesting reads](design-and-communication/design/design-systems.md)
+  * [Work as a designer at ABB](design-and-communication/design/work-as-a-designer-at-abb.md)
 
 ## Testing
 
