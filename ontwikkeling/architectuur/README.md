@@ -1,5 +1,7 @@
 # Architectuur
 
+
+
 {% hint style="success" %}
 **Een Transitionele Architectuur**  
 We herzien onze applicaties doorlopend, en transformeren ze tot een gedistribueerde data structuur. We bouwen in fases. We zorgen steeds voor _backwards compatibility_.
