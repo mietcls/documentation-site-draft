@@ -58,8 +58,9 @@
 * [Analysis](analysis-design-and-communication/analysis.md)
 * [Communication](analysis-design-and-communication/communication.md)
 * [Design](analysis-design-and-communication/design/README.md)
-  * [Interesting reads](analysis-design-and-communication/design/design-systems.md)
   * [Feedback geven op Figma mockups](analysis-design-and-communication/design/feedback-geven-op-figma-mockups.md)
+  * [Interesting reads](analysis-design-and-communication/design/design-systems.md)
+  * [Werken als designer bij ABB](analysis-design-and-communication/design/werken-als-designer-bij-abb.md)
 
 ## Project Management & Samenwerking <a id="project-management-and-working-together"></a>
 
