@@ -130,7 +130,7 @@ Ontdek hoe we onze applicaties ontwikkelen onder [ONTWIKKELING &gt; Architectuur
 
 {% page-ref page="../../ontwikkeling/architectuur/" %}
 
-#### Gebruikersbeheer
+#### Details gebruikersbeheer
 
 **Handleiding instellen gebruikersbeheer**: [https://abb-vlaanderen.gitbook.io/handleiding-loket/toegang/gebruikersbeheer](https://abb-vlaanderen.gitbook.io/handleiding-loket/toegang/gebruikersbeheer)
 
