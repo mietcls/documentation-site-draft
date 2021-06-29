@@ -23,3 +23,9 @@ We herzien onze applicaties doorlopend, en transformeren ze tot een gedistribuee
 
 {% page-ref page="en-templates-and-coding-conventions.md" %}
 
+{% page-ref page="data-modellen.md" %}
+
+### Diensten waar we gebruik van maken
+
+{% page-ref page="rechtenbeheer-and-inloggen.md" %}
+

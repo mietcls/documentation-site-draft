@@ -14,6 +14,8 @@ De interne besluitendatabank voor medewerkers van het Agentschap Binnenlands Bes
 
 Ontdek hoe we onze applicaties ontwikkelen onder [ONTWIKKELING &gt; Architectuur](../ontwikkeling/architectuur/).
 
+⚠️_Voor Toegankelijk Vlaanderen wordt er **geen** gebruik gemaakt van ACM-IDM, het gebruikersbeheer._
+
 {% page-ref page="../ontwikkeling/architectuur/" %}
 
 ### Front-end

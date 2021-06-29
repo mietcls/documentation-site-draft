@@ -39,15 +39,82 @@ Om dat mogelijk te maken, bouwen we het loket zo op:
 
 {% embed url="https://www.figma.com/file/qweKK3x3NmwDiCtK7ZcrDk/Applicatiearchitectuur-ABB?node-id=1770%3A118" %}
 
-| Module | Mogelijkheden |
-| :--- | :--- |
-| [Toezicht](https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/toezicht) | Bezorg besluiten en overzichtslijsten aan de toezichthoudende overheid. |
-| [Berichtencentrum](https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/berichtencentrum) | Bekijk en reageer op de berichten van de toezichthoudende overheid. |
-| [BBC-DR](https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/bbc-dr) | Bezorg de digitale rapporten aan de Vlaamse Regering over de beleids- en beheerscyclus. |
-| [Mandatenbeheer](https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/mandatenbeheer) | Hou de mandaten binnen de gemeenten, OCMW’s, districten en provincies bij. |
-| [Leidinggevendenbeheer](https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/leidinggevendenbeheer) | Hou hier de leidinggevende functies voor uw bestuur bij. |
-| [Personeelsbeheer](https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/personeelsbeheer) | Hou hier de personeelsaantallen voor uw bestuur bij: aantal werknemers en voltijds equivalenten. |
-| [Subsidiebeheer](https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/subsidiebeheer) | Volg hier uw aanvragen voor subsidiemaatregelen op. |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Module</th>
+      <th style="text-align:left">Mogelijkheden</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><a href="https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/toezicht">Toezicht</a>
+      </td>
+      <td style="text-align:left">
+        <p>Bezorg besluiten en overzichtslijsten aan de toezichthoudende overheid.</p>
+        <p><a href="https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/toezicht">Bekijk hoe u tewerk gaat in toezicht.</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><a href="https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/berichtencentrum">Berichtencentrum</a>
+      </td>
+      <td style="text-align:left">
+        <p>Bekijk en reageer op de berichten van de toezichthoudende overheid.</p>
+        <p><a href="https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/berichtencentrum">Bekijk hoe u tewerk gaat in het berichtencentrum.</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><a href="https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/bbc-dr">BBC-DR</a>
+      </td>
+      <td style="text-align:left">
+        <p>Bezorg de digitale rapporten aan de Vlaamse Regering over de beleids-
+          en beheerscyclus.</p>
+        <p><a href="https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/bbc-dr">Bekijk hoe u tewerk gaat in BBC.</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><a href="https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/mandatenbeheer">Mandatenbeheer</a>
+      </td>
+      <td style="text-align:left">
+        <p>Hou de mandaten binnen de gemeenten, OCMW&#x2019;s, districten en provincies
+          bij.</p>
+        <p><a href="https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/mandatenbeheer">Bekijk hoe u tewerk gaat in mandatenbeheer.</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><a href="https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/leidinggevendenbeheer">Leidinggevendenbeheer</a>
+      </td>
+      <td style="text-align:left">
+        <p>Hou hier de leidinggevende functies voor uw bestuur bij.</p>
+        <p><a href="https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/leidinggevendenbeheer">Bekijk hoe u tewerk gaat in leidinggevendenbeheer.</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><a href="https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/personeelsbeheer">Personeelsbeheer</a>
+      </td>
+      <td style="text-align:left">
+        <p>Hou hier de personeelsaantallen voor uw bestuur bij: aantal werknemers
+          en voltijds equivalenten.</p>
+        <p><a href="https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/personeelsbeheer">Bekijk hoe u tewerk gaat in personeelsbeheer.</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><a href="https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/subsidiebeheer">Subsidiebeheer</a>
+      </td>
+      <td style="text-align:left">
+        <p>Volg hier uw aanvragen voor subsidiemaatregelen op.</p>
+        <p><a href="https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/subsidiebeheer">Bekijk hoe u tewerk gaat in subsidiebeheer.</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Hoe werkt de applicatie
 
@@ -62,6 +129,22 @@ Een uitgebreide handleiding vindt u up [https://abb-vlaanderen.gitbook.io/handle
 Ontdek hoe we onze applicaties ontwikkelen onder [ONTWIKKELING &gt; Architectuur](../../ontwikkeling/architectuur/).
 
 {% page-ref page="../../ontwikkeling/architectuur/" %}
+
+#### Gebruikersbeheer
+
+**Handleiding instellen gebruikersbeheer**: [https://abb-vlaanderen.gitbook.io/handleiding-loket/toegang/gebruikersbeheer](https://abb-vlaanderen.gitbook.io/handleiding-loket/toegang/gebruikersbeheer)
+
+Het gebruikersrecht dat gebruikt wordt om in te loggen voor het Loket voor Lokale Besturen is "Loket Lokaal Bestuur Gebruiker".
+
+Per gebruiker kan ingesteld worden welke modules ze zien. De keuze bestaat momenteel uit: Toezicht, berichtencentrum, leidinggevenden, mandatenbeheer, personeelsbeheer, BBC-DR, subsidies. Dit kan later nog uitgebreid worden.
+
+Er bestaan drie gebruikersbeheren per doelgroep:
+
+* Vlaamse Overheid​
+* Economische actoren​
+* Lokale Besturen.​ _De doelgroepverantwoordelijke voor Lokale Besturen is ABB._
+
+**Handleiding aanmelden**: [https://abb-vlaanderen.gitbook.io/handleiding-loket/toegang/aanmelden\#voorpagina](https://abb-vlaanderen.gitbook.io/handleiding-loket/toegang/aanmelden#voorpagina)
 
 ### Front-end
 
