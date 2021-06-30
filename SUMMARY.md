@@ -16,6 +16,7 @@
 * [Register van Maatregelen: Borden & Markeringen](producten-en-diensten/register-van-maatregelen-borden-and-markeringen.md)
 * [Loket voor Lokale Besturen](producten-en-diensten/loket-voor-lokale-besturen/README.md)
   * [Form builder](producten-en-diensten/loket-voor-lokale-besturen/form-builder.md)
+  * [Toegang krijgen als lokale bestuur](producten-en-diensten/loket-voor-lokale-besturen/toegang-krijgen-als-lokale-bestuur.md)
 * [Gelinkt Publiceren en Melden](producten-en-diensten/melden.md)
 * [Publieke databanken - Public databases](producten-en-diensten/wikis-and-publieke-databanken-public-databases/README.md)
   * [Mandatendatabank](producten-en-diensten/wikis-and-publieke-databanken-public-databases/mandatendatabank.md)
