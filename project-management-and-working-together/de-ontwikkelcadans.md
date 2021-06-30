@@ -15,7 +15,7 @@ Grote uitdagingen worden in kleine, concrete stappen ontwikkeld. Zo ontstaat er 
 * Voldoende en flexibel plannen
 * Verantwoordelijkheden op de juiste plaats
 
-## Cadans
+## Vaste cadans op drie niveaus
 
 * Rollende[ **roadmap**](de-ontwikkelcadans.md#roadmap) die minstens één jaar vooruit kijkt.
 * \*\*\*\*[**Groeispurts**](de-ontwikkelcadans.md#groeispurt) van 10 weken eindigend met een [**Centrale Planningsdag**](de-ontwikkelcadans.md#centrale-planningsdag).
