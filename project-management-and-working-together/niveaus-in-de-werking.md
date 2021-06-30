@@ -32,7 +32,7 @@ Een oplossing is de manier waarop het Digiteam bijdraagt tot het verbeteren of m
 
 Een oplossing kan ontwikkeling in één of meerdere producten vergen. Als er meerdere producten betrokken zijn,  is de afstemming des te belangrijker om de oplossing op te kunnen leveren in de [ontwikkelcadans](de-ontwikkelcadans.md).
 
-Een oplossing kan over verschillende groeispurten ontwikkeld en opgeleverd worden.
+Een oplossing kan over verschillende [groeispurten](de-ontwikkelcadans.md#groeispurt) ontwikkeld en opgeleverd worden.
 
 Oplossingen worden op Solution-niveau bedacht, verduidelijkt, opgevolgd en afgestemd. 
 
