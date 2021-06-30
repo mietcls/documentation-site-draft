@@ -36,8 +36,6 @@ Een oplossing kan over verschillende groeispurten ontwikkeld en opgeleverd worde
 Iedere oplossing staat kort en krachtig beschreven een oplossingenfiche.
 {% endhint %}
 
-
-
 ### Epics en stories in de product backlogs \(Wat?\)
 
 Om helder te krijgen wat er dan functioneel moet kunnen in de betrokken producten maken we gebruik van Epics.  Een Epic is een beschrijving van een functioneel blok dat, eens gebouwd en beschikbaar gemaakt in het product voor eindgebruikers, voor de business eigenaar een bepaalde waarde zal opleveren. De tijd nodig om een Epic te realiseren is doorgaans langer dan een sprint. Bij ABB proberen we Epics wel zo te dimensioneren dat ze in 1 [groeispurt](de-ontwikkelcadans.md) kunnen worden opgeleverd. Dit doen we omdat de planningsfocus op een centrale [planningsdag](de-ontwikkelcadans.md) in principe niet verder reikt dan 1 [groeispurt](de-ontwikkelcadans.md).
