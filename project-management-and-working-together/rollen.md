@@ -14,6 +14,8 @@ Deze pagina is nog in opbouw. Lees je iets raar? Vraag er even naar! [david.suij
 Alle rollen binnen de SAFe-werking binnen het projectteam staan zo dicht mogelijk bij de eindklant\(en\). De focus verschilt wel afhankelijk van het stadium waar een oplossing zich in bevindt. Iedereen moet zijn/haar focus kunnen houden om zo goed en snel mogelijk oplossingen en dus waarde te kunnen leveren.
 {% endhint %}
 
+## Ondersteunde rollen op Portfolio en Solution niveau
+
 ### Product Manager
 
 De Product Manager definieert op een strategisch niveau de visie voor de klanten op een product met als doel deze visie te vertalen naar een roadmap voor het product en oplossingen. Dit gebeurt in lijn met de overeengekomen normen in termen van tijd, kwaliteit en kosten.
