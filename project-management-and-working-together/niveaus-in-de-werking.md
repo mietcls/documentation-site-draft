@@ -20,6 +20,8 @@ Deze pagina is nog in opbouw. Lees je iets raar? Vraag er even naar! [david.suij
 
 Een nieuw **idee** past altijd in een bestaande of nieuwe waardestroom.
 
+Waardestromen worden op Portfolio-niveau opgevolgd en afgestemd.
+
 {% hint style="info" %}
 Idealiter heeft iedere waardestroom een duidelijke beschrijving.
 {% endhint %}
@@ -31,6 +33,8 @@ Een oplossing is de manier waarop het Digiteam bijdraagt tot het verbeteren of m
 Een oplossing kan ontwikkeling in één of meerdere producten vergen. Als er meerdere producten betrokken zijn,  is de afstemming des te belangrijker om de oplossing op te kunnen leveren in de [ontwikkelcadans](de-ontwikkelcadans.md).
 
 Een oplossing kan over verschillende groeispurten ontwikkeld en opgeleverd worden.
+
+Oplossingen worden op Solution-niveau bedacht, verduidelijkt, opgevolgd en afgestemd. 
 
 {% hint style="info" %}
 Iedere oplossing staat kort en krachtig beschreven een oplossingenfiche.
