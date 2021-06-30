@@ -51,6 +51,8 @@ Een sprint is een afgebakende periode van twee weken waarin een productteam aan 
 
 #### Innovatie en Planning Iteratie \(IPI\)
 
+![](../.gitbook/assets/ipi.png)
+
 Naast het ontwikkelen van functionaliteiten is er ook nood aan andere activiteiten om een product\(team\) verder te laten groeien. Daarom is de vijfde en laatste sprint van een groeispurt steeds een speciale sprint omdat het expliciet ruimte biedt voor voor … 
 
 * Innovatie en experimenten
