@@ -47,7 +47,7 @@ Product teams hebben alle benodigde vaardigheden  om elke Sprint waarde te cree�
 
 De Product Owner vertaalt de visie voor de klanten op het product naar functionele acties **met als doel** samen met inhoudelijke business experten en IT-technische collega’s te komen tot processen, diensten en toepassingen die beantwoorden aan de noden en zo waarde te leveren binnen de beleidsvelden waarvoor ABB verantwoordelijk is. Dit gebeurt volgens de overeengekomen normen in termen van tijd, kwaliteit en kosten. 
 
-* vormt een tandem met de Product Manager;
+* vormt een tandem met de [Product Manager](rollen.md#product-manager);
 * vertaalt de visie op het product naar functionele acties om zo de doelstellingen te garanderen;
 * stimuleert het team om kwaliteitsvolle stories te definiëren en de backlog te prioriteren;
 * maximaliseert samen met het productteam de waarde die  gecreëerd wordt voor belanghebbenden;
@@ -55,11 +55,15 @@ De Product Owner vertaalt de visie voor de klanten op het product naar functione
 * haalt waardevolle informatie op binnen en buiten de organisatie en bouwt daarvoor stabiele interne en externe netwerken op;
 * past de technieken van agile product management en business analyse toe volgens de vooropgestelde kwaliteitsvereisten en procedures;
 
+### Productteamleden
+
+Het productteam is multidisciplinair daarom bestaat een productteam niet enkel uit ontwikkelaars, ook designers, analisten en testers kunnen deel uitmaken van een productteam. Deze zijn bij ABB vaak niet exclusief voor één product.
+
 ![Visualisatie Agile product teams](../.gitbook/assets/image%20%286%29.png)
 
 ## Communities of Practise \(COP\)
 
-Om kennisdeling over en consistentie in, bijvoorbeeld, gebruikte technieken te stimuleren worden er door de _Treinbegeleider_ periodiek _Communities of Practises_ georganiseerd. Een COP vind plaats rond een bepaalde rol in de werking of specifieke competenties. Tijdens deze bijeenkomsten worden voorbeelden gedeeld, nieuwe technieken aangeleerd of zelfs nieuwe praktijken ontwikkeld.
+Om kennisdeling over en consistentie in, bijvoorbeeld, gebruikte technieken te stimuleren worden er door de [_Treinbegeleider_](rollen.md#treinbegeleider) periodiek _Communities of Practises_ georganiseerd. Een COP vind plaats rond een bepaalde rol in de werking of specifieke competenties. Tijdens deze bijeenkomsten worden voorbeelden gedeeld, nieuwe technieken aangeleerd of zelfs nieuwe praktijken ontwikkeld.
 
 
 
