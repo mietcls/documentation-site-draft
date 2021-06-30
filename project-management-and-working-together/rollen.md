@@ -45,13 +45,11 @@ Bewaakt de effectieve waarderealisatie van uit oplossingen door
 * stimuleren en ondersteunen van contact tussen projectteam en \(eind\)gebruikers;
 * lanceren van oplossingen binnen en buiten ABB.
 
-### ICT Architect
+### Andere rollen op portfolio en solutionniveau
 
-De ICT architect bepaalt de architecturale roadmap en technologiestrategie. Binnen dit kader bewaakt die de beste fit van oplossing met technologie.
-
-### Manager Digitale Oplossingen
-
-Incorporeert oplossingen in Solution Roadmap. Coördineert van informatie, middelen en capaciteit zodat oplossingen ontwikkeld kunnen worden.
+* De **manager Digitale Oplossingen** incorporeert oplossingen in Solution Roadmap. Coördineert informatie, middelen en capaciteit zodat oplossingen ontwikkeld kunnen worden.
+* De **ICT architect** bepaalt de architecturale roadmap en technologiestrategie. Binnen dit kader bewaakt die de beste fit van oplossing met technologie.
+* De **ICT directeur** brengt mogelijke waardevragen uit de organisatie in en bewaakt de strategische alineëring.
 
 ## Product teams
 
