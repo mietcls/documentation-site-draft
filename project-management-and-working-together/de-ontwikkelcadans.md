@@ -71,6 +71,8 @@ De capaciteit van de IPI mag niet worden ingecalculeerd voor het halen van de Sp
 
 ### Centrale Planningsdag
 
+![](../.gitbook/assets/cpd.png)
+
 De centrale planningsdag is een essentieel inspectie en planningsmoment tussen twee groeispurten in.
 
 Tijd voor … 
