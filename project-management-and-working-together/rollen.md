@@ -39,6 +39,8 @@ De Product Manager definieert op een strategisch niveau de visie voor de klanten
 
 ## Product teams
 
+![](../.gitbook/assets/productteam.png)
+
 Een Product team bestaat uit een Product Owner, Scrum Master en Developers. Op basis van Scrum worden door de product teams nieuwe functionaliteiten en oplossingen opgeleverd in de [ontwikkelcadans](de-ontwikkelcadans.md). 
 
 Product teams hebben alle benodigde vaardigheden  om elke Sprint waarde te creëren. Ze zijn dus **multidisciplinair**. Daarnaast is het Scrum Team **zelfsturend** en bepalen ze dus onderling wie wat opneemt.
