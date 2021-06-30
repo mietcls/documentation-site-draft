@@ -15,9 +15,9 @@ Deze pagina is nog in opbouw. Lees je iets raar? Vraag er even naar! [david.suij
 
 ## Cadans
 
-* Rollende **roadmap** die minstens één jaar vooruit kijkt.
-* **Groeispurts** van 10 weken eindigend met een **Centrale Planningsdag**.
-* Iedere Spurt bestaat uit vijf **sprints**, vier ontwikkelsprints +  één **IPI-sprint**.
+* Rollende[ **roadmap**](de-ontwikkelcadans.md#roadmap) die minstens één jaar vooruit kijkt.
+* \*\*\*\*[**Groeispurts**](de-ontwikkelcadans.md#groeispurt) van 10 weken eindigend met een [**Centrale Planningsdag**](de-ontwikkelcadans.md#centrale-planningsdag).
+* Iedere Spurt bestaat uit vijf [**sprints**](de-ontwikkelcadans.md#ontwikkelsprint), vier ontwikkelsprints +  één[ **IPI-sprint**](de-ontwikkelcadans.md#innovatie-en-planning-iteratie-ipi).
 
 {% hint style="info" %}
 Het releasen van ontwikkelingen is niet per definitie gekoppeld aan de cadans.
@@ -58,7 +58,7 @@ Wanneer? De Innovatie en Planning \(IPI\) iteratie gebeurt steeds op het einde v
 Voorbeeldactiviteiten: testen nieuwe technologieën, breder delen van nieuwe functionaliteiten, kennisoverdracht, scoping sessies & brainstormen, retrospectieves, manier van werken herbekijken, …
 
 {% hint style="warning" %}
-De capaciteit van de IPI mag niet worden ingecalculeerd voor het halen van de Spurt-doelen. Het niet gewoon een extra sprint.
+De capaciteit van de IPI mag niet worden ingecalculeerd voor het halen van de Spurt-doelen. Het niet gewoon een 'extra' sprint.
 {% endhint %}
 
 ### Centrale Planningsdag
