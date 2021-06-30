@@ -1,12 +1,12 @@
 # Toezicht
 
-
-
 {% embed url="https://besluiten.abb.lblod.info" %}
 
 ## Doel
 
-De interne besluitendatabank voor medewerkers van het Agentschap Binnenlands Bestuur. Via deze databank zijn alle besluiten terug te vinden die door de lokale besturen gemeld of ingezonden werden via het Loket voor Lokale Besturen.
+De interne besluitendatabank Toezicht voor medewerkers van het Agentschap Binnenlands Bestuur. Via deze databank zijn alle besluiten terug te vinden die door de lokale besturen gemeld of ingezonden werden via het Loket voor Lokale Besturen.
+
+Deze databank bestaat om gegevensdeling binnen de Vlaamse overheid te versoepelen. Zo worden er ook connecties gelegd met Vlabel en Vlaams Huis Verkeersveiligheid \(MOW\).
 
 ## Code
 

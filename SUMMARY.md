@@ -17,6 +17,7 @@
 * [Loket voor Lokale Besturen](producten-en-diensten/loket-voor-lokale-besturen/README.md)
   * [Form builder](producten-en-diensten/loket-voor-lokale-besturen/form-builder.md)
   * [Toegang krijgen als lokale bestuur](producten-en-diensten/loket-voor-lokale-besturen/toegang-krijgen-als-lokale-bestuur.md)
+  * [Over de Modules](producten-en-diensten/loket-voor-lokale-besturen/over-de-modules.md)
 * [Gelinkt Publiceren en Melden](producten-en-diensten/melden.md)
 * [Publieke databanken - Public databases](producten-en-diensten/wikis-and-publieke-databanken-public-databases/README.md)
   * [Mandatendatabank](producten-en-diensten/wikis-and-publieke-databanken-public-databases/mandatendatabank.md)

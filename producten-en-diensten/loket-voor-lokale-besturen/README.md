@@ -48,7 +48,7 @@ Om dat mogelijk te maken, bouwen we het loket zo op:
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><a href="https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/toezicht">Toezicht</a>
+      <td style="text-align:left"><a href="over-de-modules.md#toezicht">Toezicht</a>
       </td>
       <td style="text-align:left">
         <p>Bezorg besluiten en overzichtslijsten aan de toezichthoudende overheid.</p>
