@@ -16,14 +16,14 @@ Alle rollen binnen de SAFe-werking binnen het projectteam staan zo dicht mogelij
 
 ### Treinbegeleider
 
-De treinbegeleider zorgt ervoor dat de nodige procesmatige en technische afstemming \(tussen producten\) gebeurt en jaagt dit zelfs aan. Hiervoor start die idealiter vanuit de Roadmap en de waardestromen.  
-Daarnaast begeleidt die het leren en continue verbeteren van de SAFe-werking. Dit zowel binnen het Project Team als ruimer heel ABB.
+De treinbegeleider zorgt ervoor dat de nodige procesmatige en technische afstemming \(tussen producten\) gebeurt en jaagt dit zelfs aan. Hiervoor start die idealiter vanuit de [roadmap](de-ontwikkelcadans.md#roadmap) en de [waardestromen](niveaus-in-de-werking.md#waardestromen-waarom).  
+Daarnaast begeleidt de treinbegeleider het leren en continue verbeteren van de SAFe-werking. Dit zowel binnen het Project Team als ruimer in heel ABB.
 
 * werkt nauw samen met de Product Owners en Product Managers om afstemming te stimuleren en begeleiden;
 * zorgt dat de waardestromen en roadmap up-to-date en gekend zijn;
 * organiseert en faciliteert belangrijke overlegmomenten \(Centrale Planningsdag, Communities of Practises, Solution Stand-ups\);
-* organiseert periodieke retrospectieves en zorgt dat verbeteringen o.b.v. deze inzichten tot stand komen;
-* ondersteuning en eerste hulp bieden rond Agile werken
+* organiseert periodieke retrospectieves en zorgt dat verbeteringen o.b.v. de inzichten tot stand komen;
+* ondersteuning en eerste hulp bieden rond Agile werken van product- tot portfolioniveau.
 
 ### Product Manager
 
@@ -35,7 +35,7 @@ De Product Manager definieert op een strategisch niveau de visie voor de klanten
 * toont aan hoe een oplossing waarde kan bieden voor interne en externe klanten;
 * boort nieuwe domeinen aan waarvoor het product waarde kan leveren;
 * identificeert en contacteert potentiële gebruikers en integratie-partners;
-* werkt in tandem samen met de Product Owner die de visie vertaalt naar concrete taken voor het productteam 
+* werkt in tandem samen met de [Product Owner](rollen.md#product-owner) die de visie vertaalt naar concrete taken voor het [productteam](rollen.md#product-teams). 
 
 ## Product teams
 
