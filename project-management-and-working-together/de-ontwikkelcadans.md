@@ -31,11 +31,15 @@ Het releasen van ontwikkelingen is niet per definitie gekoppeld aan de cadans.
 
 #### Groeispurt
 
+![](../.gitbook/assets/sprint+ipi.png)
+
 Een groeispurt heeft steeds een duur van 10 weken. Het omvat vier onwikkelsprints en een Innovatie en Planning Iteratie. In de laatste week van de een groeispurt is er een Centrale Planningsdag \(CPD\) waar de scope voor de volgende groeispurt wordt vastgelegd. 
 
 Door in periodes van 10 weken te werken is er voldoende focus om stappen te zetten maar niet te veel rigiditeit om met een steeds veranderende context om te gaan. Het geeft de ontwikkelteams een duidelijke focus voor 10 weken maar wel de mogelijkheid om met de volgende groeispurt in te spelen op \(veranderde\) prioriteiten uit de organisatie.
 
 #### Ontwikkelsprint
+
+![](../.gitbook/assets/sprint.png)
 
 Een sprint is een afgebakende periode van twee weken waarin een productteam aan de slag gaat om een duidelijk sprintdoel te bereiken. Sprints volgen elkaar steeds direct op en hebben een aantal vaste onderdelen:
 
