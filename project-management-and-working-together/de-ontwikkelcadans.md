@@ -8,6 +8,8 @@ Deze pagina is nog in opbouw. Lees je iets raar? Vraag er even naar! [david.suij
 
 ## Agile ontwikkelen! Waarom?
 
+Grote uitdagingen worden in kleine, concrete stappen ontwikkeld. Zo ontstaat er een constante flow en zien we het geheel groeien.
+
 * Transparant overzicht houden op het werk
 * Werken in behapbare blokken
 * Voldoende en flexibel plannen
