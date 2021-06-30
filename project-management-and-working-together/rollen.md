@@ -55,9 +55,9 @@ De Product Owner vertaalt de visie voor de klanten op het product naar functione
 * haalt waardevolle informatie op binnen en buiten de organisatie en bouwt daarvoor stabiele interne en externe netwerken op;
 * past de technieken van agile product management en business analyse toe volgens de vooropgestelde kwaliteitsvereisten en procedures;
 
-### Productteamleden
+### Ontwikkelteam
 
-Het productteam is multidisciplinair daarom bestaat een productteam niet enkel uit ontwikkelaars, ook designers, analisten, testers en architecten kunnen deel uitmaken van een productteam. Deze zijn bij ABB vaak niet exclusief voor één product.
+Het ontwikkelteam is multidisciplinair en bestaat dus niet enkel uit ontwikkelaars, ook designers, analisten, testers en architecten kunnen er deel van uitmaken. Deze zijn bij ABB vaak niet exclusief voor één product.
 
 ![Visualisatie Agile product teams](../.gitbook/assets/image%20%286%29.png)
 
