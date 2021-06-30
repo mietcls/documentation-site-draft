@@ -14,17 +14,6 @@ Deze pagina is nog in opbouw. Lees je iets raar? Vraag er even naar! [david.suij
 Alle rollen binnen de SAFe-werking binnen het projectteam staan zo dicht mogelijk bij de eindklant\(en\). De focus verschilt wel afhankelijk van het stadium waar een oplossing zich in bevindt. Iedereen moet zijn/haar focus kunnen houden om zo goed en snel mogelijk oplossingen en dus waarde te kunnen leveren.
 {% endhint %}
 
-### Treinbegeleider
-
-De treinbegeleider zorgt ervoor dat de nodige procesmatige en technische afstemming \(tussen producten\) gebeurt en jaagt dit zelfs aan. Hiervoor start die idealiter vanuit de [roadmap](de-ontwikkelcadans.md#roadmap) en de [waardestromen](niveaus-in-de-werking.md#waardestromen-waarom).  
-Daarnaast begeleidt de treinbegeleider het leren en continue verbeteren van de SAFe-werking. Dit zowel binnen het Project Team als ruimer in heel ABB.
-
-* werkt nauw samen met de Product Owners en Product Managers om afstemming te stimuleren en begeleiden;
-* zorgt dat de waardestromen en roadmap up-to-date en gekend zijn;
-* organiseert en faciliteert belangrijke overlegmomenten \(Centrale Planningsdag, Communities of Practises, Solution Stand-ups\);
-* organiseert periodieke retrospectieves en zorgt dat verbeteringen o.b.v. de inzichten tot stand komen;
-* ondersteuning en eerste hulp bieden rond Agile werken van product- tot portfolioniveau.
-
 ### Product Manager
 
 De Product Manager definieert op een strategisch niveau de visie voor de klanten op een product met als doel deze visie te vertalen naar een roadmap voor het product en oplossingen. Dit gebeurt in lijn met de overeengekomen normen in termen van tijd, kwaliteit en kosten.
@@ -36,6 +25,33 @@ De Product Manager definieert op een strategisch niveau de visie voor de klanten
 * boort nieuwe domeinen aan waarvoor het product waarde kan leveren;
 * identificeert en contacteert potentiële gebruikers en integratie-partners;
 * werkt in tandem samen met de [Product Owner](rollen.md#product-owner) die de visie vertaalt naar concrete taken voor het [productteam](rollen.md#product-teams). 
+
+### Treinbegeleider
+
+De treinbegeleider zorgt ervoor dat de nodige procesmatige en technische afstemming \(tussen producten\) gebeurt en jaagt dit zelfs aan. Hiervoor start die idealiter vanuit de [roadmap](de-ontwikkelcadans.md#roadmap) en de [waardestromen](niveaus-in-de-werking.md#waardestromen-waarom).  
+Daarnaast begeleidt de treinbegeleider het leren en continue verbeteren van de SAFe-werking. Dit zowel binnen het Project Team als ruimer in heel ABB.
+
+* werkt nauw samen met de Product Owners en Product Managers om afstemming te stimuleren en begeleiden;
+* zorgt dat de waardestromen en roadmap up-to-date en gekend zijn;
+* organiseert en faciliteert belangrijke overlegmomenten \(Centrale Planningsdag, Communities of Practises, Solution Stand-ups\);
+* organiseert periodieke retrospectieves en zorgt dat verbeteringen o.b.v. de inzichten tot stand komen;
+* ondersteuning en eerste hulp bieden rond Agile werken van product- tot portfolioniveau.
+
+### Service Delivery Manager
+
+Bewaakt de effectieve waarderealisatie van uit oplossingen door
+
+* potentieel van oplossingen te verduidelijken  o.b.v. input van andere stakeholers. Bijvoorbeeld door gebruik te maken van oplossingenfiches & Story Mapping;
+* stimuleren en ondersteunen van contact tussen projectteam en \(eind\)gebruikers;
+* lanceren van oplossingen binnen en buiten ABB.
+
+### ICT Architect
+
+De ICT architect bepaalt de architecturale roadmap en technologiestrategie. Binnen dit kader bewaakt die de beste fit van oplossing met technologie.
+
+### Manager Digitale Oplossingen
+
+Incorporeert oplossingen in Solution Roadmap. Coördineert van informatie, middelen en capaciteit zodat oplossingen ontwikkeld kunnen worden.
 
 ## Product teams
 
