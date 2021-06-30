@@ -41,7 +41,7 @@ Daarnaast begeleidt de treinbegeleider het leren en continue verbeteren van de S
 
 Bewaakt de effectieve waarderealisatie van uit oplossingen door
 
-* potentieel van oplossingen te verduidelijken  o.b.v. input van andere stakeholers. Bijvoorbeeld door gebruik te maken van oplossingenfiches & Story Mapping;
+* potentieel van oplossingen te verduidelijken  o.b.v. input van andere stakeholders. Bijvoorbeeld door gebruik te maken van waardefiches, oplossingenfiches & impactmaps;
 * stimuleren en ondersteunen van contact tussen projectteam en \(eind\)gebruikers;
 * lanceren van oplossingen binnen en buiten ABB.
 
