@@ -86,7 +86,7 @@ Hoe het werkt: [https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/mand
 
 ### Kader
 
-_Opgelegd voor Decreet Lokaal Bestuur_
+_Opgelegd voor Decreet Lokaal Bestuur._
 
 ### Voor wie
 
