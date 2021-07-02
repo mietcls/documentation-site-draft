@@ -82,6 +82,8 @@ Qlikview via Management File Transfer
 
 Ingeven en beheren van mandaten bij besturen
 
+![Algemene flow Mandatenbeheer](../../.gitbook/assets/screenshot-2021-07-02-at-09.55.19.png)
+
 Hoe het werkt: [https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/mandatenbeheer](https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/mandatenbeheer)
 
 ### Kader
@@ -98,21 +100,61 @@ Gemeente, OCMW, Disctrict, Provincie
 
 ## Leidinggevendenbeheer
 
-Hou hier de leidinggevende functies voor uw bestuur bij.
+Ingeven en beheren leidinggevende functies
+
+![Algemene flow Leidinggevenden](../../.gitbook/assets/screenshot-2021-07-02-at-10.07.05.png)
 
 Hoe het werkt: [https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/leidinggevendenbeheer](https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/leidinggevendenbeheer)
 
+### Kader
+
+_Opgelegd voor Decreet Lokaal Bestuur; verplicht via LLB \(BVR Communicatie\)_
+
+### Voor wie
+
+Gemeente, OCMW Disctrict, Provincie, AGB, APB, OCMW-verenigingen, IGS’en,
+
+### Wordt ontsloten naar
+
+[Leidinggevendendatabank](../wikis-and-publieke-databanken-public-databases/leidinggevendendatabank.md)
+
 ## Personeelsbeheer
 
-Hou hier de personeelsaantallen voor uw bestuur bij: aantal werknemers en voltijds equivalenten.
+Beheren van personeelsgegevens: aantal werknemers en voltijds equivalenten.
+
+![Algemene flow Personeelsbeheer](../../.gitbook/assets/screenshot-2021-07-02-at-10.13.19.png)
 
 Hoe het werkt: [https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/personeelsbeheer](https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/personeelsbeheer)
 
+### Kader
+
+_Gegevens nodig voor beleid \(Comite C1\)._
+
+### Voor wie
+
+Gemeente
+
+### Wordt ontsloten naar
+
+Enkel intern gebruik
+
 ## Subsidiebeheer
 
-Volg hier uw aanvragen voor subsidiemaatregelen op.
+Volg aanvragen voor subsidiemaatregelen op.
 
 Hoe het werkt: [https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/subsidiebeheer](https://abb-vlaanderen.gitbook.io/handleiding-loket/modules/subsidiebeheer)
+
+### Kader
+
+_/_
+
+### Voor wie
+
+Gemeenten, later meer.
+
+### Wordt ontsloten naar
+
+Voorlopig enkel intern gebruik.
 
 
 
