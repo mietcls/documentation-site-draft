@@ -299,6 +299,10 @@ You can also label the features and issues with tags to see what your improvemen
 
 ![Examples of prioritisation](../.gitbook/assets/screenshot-2021-04-07-at-18.34.15.png)
 
+### What now?
+
+Take this information to the team; and get their expert view on what the future might hold. Reprioritise together, and turn it into Jira tickets.
+
 ### 
 
 
