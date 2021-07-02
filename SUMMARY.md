@@ -25,7 +25,7 @@
   * [Publicatiepagina Gelinkt Notuleren](producten-en-diensten/wikis-and-publieke-databanken-public-databases/publicatiepagina-gelinkt-notuleren.md)
   * [Centrale Vindplaats](producten-en-diensten/wikis-and-publieke-databanken-public-databases/centrale-vindplaats.md)
 * [Toezicht](producten-en-diensten/toezicht.md)
-* [Organisatieportaal](producten-en-diensten/contacthub.md)
+* [Organisatieportaal](producten-en-diensten/organisatieportaal.md)
 * [Erediensten](producten-en-diensten/erediensten.md)
 * [Toegankelijk Vlaanderen](producten-en-diensten/toegankelijk-vlaanderen.md)
 * [\[verouderd\] "How To" Handleidingen – Manuals](producten-en-diensten/handleidingen-manuals/README.md)

@@ -6,7 +6,7 @@ Het traject erediensten bestaat om het informatiebeleid rond besturen van de ere
 
 Er is een eenvoudige toegang nodig tot alle informatie die de [verschillende afdelingen](erediensten.md#doelpubliek) ontvangen in het kader van erediensten. Deze informatie zit nu zowel in lijsten in Sharepoint, als verspreid over verschillende Sharepoint mappen. Naar dit overzicht wordt gerefereerd als de “boekenkast”.
 
-Momenteel loopt er een traject met het [organisatieportaal](contacthub.md) \(bekijk voor afbeeldingen en voorbeelden\) om dit waar te maken. In september wordt er een eerste _MPV \(minimum viable product, een eerste versie van een applicatie met basisfunctionaliteit\)_ uitgerold. Later worden er meer functionaliteiten aan toegevoegd, na testen en interviews.
+Momenteel loopt er een traject met het [organisatieportaal](organisatieportaal.md) \(bekijk voor afbeeldingen en voorbeelden\) om dit waar te maken. In september wordt er een eerste _MPV \(minimum viable product, een eerste versie van een applicatie met basisfunctionaliteit\)_ uitgerold. Later worden er meer functionaliteiten aan toegevoegd, na testen en interviews.
 
 ### Non-goals
 
