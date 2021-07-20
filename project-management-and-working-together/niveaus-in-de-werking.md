@@ -6,29 +6,33 @@ Deze pagina is nog in opbouw. Lees je iets raar? Vraag er even naar! [david.suij
 
 ## Van idee tot waarde
 
-### Waardestromen \(Waarom?\)
+### Waardeketens \(Waarom?\)
 
-\(Operationele\) waardestromen zijn de opeenvolging van activiteiten \(end to end\) die nodig zijn om, als organisatie, een product of dienst aan een klant te leveren . De waardestromen van ABB waar het Digiteam nu aan gepland heeft om bij te dragen zijn:
+Waardeketens zijn de opeenvolging van activiteiten \(end to end\) die nodig zijn om, als organisatie, een product of dienst aan een klant te leveren . De waardeketens van ABB waar het Digiteam nu aan gepland heeft om bij te dragen zijn:
 
 * Kwaliteitsvolle lokale besluiten 
 * Gelinkt publiceren en melden zorgt voor doorzoekbare besluitinformatie 
 * Gestroomlijnd communiceren tussen Vlaanderen en lokale besturen 
-* Toegankelijkheidsinfo laat museumbezoekers hun bezoek gerust voorbereiden en beleven 
+* Vereenvoudigde en interactieve toegankelijkheidsinformatie leidt tot meer data en een groter inclusiviteitsbewustzijn 
 * Het duurzaam, betrouwbaar en herbruikbaar open stellen van \(contact\)gegevens van lokale besturen 
 * Het beleid rond geloofsgemeenschappen steunt op duurzame, betrouwbare en herbruikbare informatie 
 * Kennisgedreven digitale end-to-end dossierbehandeling
 
-Een nieuw **idee** past altijd in een bestaande of nieuwe waardestroom.
+_Ondersteunende waardeketens_
 
-Waardestromen worden op Portfolio-niveau opgevolgd en afgestemd.
+* De IT-dienstverlening wordt op een duurzame, kwaliteitsvolle en efficiënte manier ontwikkeld en ondersteund
+
+Een nieuw **idee** past altijd in een bestaande of nieuwe waardeketen.
+
+Waardeketens worden op Solution-niveau opgevolgd en afgestemd.
 
 {% hint style="info" %}
-Idealiter heeft iedere waardestroom een duidelijke beschrijving.
+Idealiter heeft iedere waardeketen een duidelijke beschrijving.
 {% endhint %}
 
 ### Oplossingen \(Hoe?\)
 
-Een oplossing is de manier waarop het Digiteam bijdraagt tot het verbeteren of mogelijk maken van een waardestroom. Iedere oplossing die binnen het Digiteam wordt gebouwd moet bijdragen tot een waardestroom.
+Een oplossing is de manier waarop het Digiteam bijdraagt tot het verbeteren of mogelijk maken van een waardeketen. Iedere oplossing die binnen het Digiteam wordt gebouwd moet bijdragen tot een waardeketen.
 
 Een oplossing kan ontwikkeling in één of meerdere producten vergen. Als er meerdere producten betrokken zijn,  is de afstemming des te belangrijker om de oplossing op te kunnen leveren in de [ontwikkelcadans](de-ontwikkelcadans.md).
 

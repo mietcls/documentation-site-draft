@@ -14,7 +14,7 @@ Deze pagina is nog in opbouw. Lees je iets raar? Vraag er even naar! [david.suij
 Alle rollen binnen de SAFe-werking binnen het projectteam staan zo dicht mogelijk bij de eindklant\(en\). De focus verschilt wel afhankelijk van het stadium waar een oplossing zich in bevindt. Iedereen moet zijn/haar focus kunnen houden om zo goed en snel mogelijk oplossingen en dus waarde te kunnen leveren.
 {% endhint %}
 
-## Ondersteunde rollen op Portfolio en Solution niveau
+## Ondersteunde rollen op Solution-niveau
 
 ### Product Manager
 
@@ -37,9 +37,9 @@ Daarnaast begeleidt de treinbegeleider het leren en continue verbeteren van de S
 * zorgt dat de waardestromen en roadmap up-to-date en gekend zijn;
 * organiseert en faciliteert belangrijke overlegmomenten \(Centrale Planningsdag, Communities of Practises, Solution Stand-ups\);
 * organiseert periodieke retrospectieves en zorgt dat verbeteringen o.b.v. de inzichten tot stand komen;
-* ondersteuning en eerste hulp bieden rond Agile werken van product- tot portfolioniveau.
+* ondersteuning en eerste hulp bieden rond Agile werken van product- tot solution-niveau.
 
-### Service Delivery Manager
+### Solution Delivery Manager
 
 Bewaakt de effectieve waarderealisatie van uit oplossingen door
 
@@ -47,7 +47,7 @@ Bewaakt de effectieve waarderealisatie van uit oplossingen door
 * stimuleren en ondersteunen van contact tussen projectteam en \(eind\)gebruikers;
 * lanceren van oplossingen binnen en buiten ABB.
 
-### Andere rollen op portfolio en solutionniveau
+### Andere rollen op Solution-niveau
 
 * De **manager Digitale Oplossingen** incorporeert oplossingen in Solution Roadmap. Coördineert informatie, middelen en capaciteit zodat oplossingen ontwikkeld kunnen worden.
 * De **ICT architect** bepaalt de architecturale roadmap en technologiestrategie. Binnen dit kader bewaakt die de beste fit van oplossing met technologie.
@@ -75,7 +75,7 @@ De Product Owner vertaalt de visie voor de klanten op het product naar functione
 
 ### Ontwikkelteam
 
-Het ontwikkelteam is multidisciplinair en bestaat dus niet enkel uit ontwikkelaars, ook designers, analisten, testers en architecten kunnen er deel van uitmaken. Deze zijn bij ABB vaak niet exclusief voor één product.
+Het ontwikkelteam is multidisciplinair en bestaat dus niet enkel uit ontwikkelaars, ook [designers](../analysis-design-and-communication/design/werken-als-designer-bij-abb.md), [analisten](../analysis-design-and-communication/analysis.md), [testers](../testing/testing.md) en architecten kunnen er deel van uitmaken. Deze zijn bij ABB vaak niet exclusief voor één product.
 
 ![Visualisatie Agile product teams](../.gitbook/assets/image%20%286%29.png)
 
