@@ -23,10 +23,10 @@ De Product Manager definieert op een strategisch niveau de visie voor de klanten
 * werkt nauw samen met een breed scala aan mensen om de behoeften van belanghebbenden te identificeren en de oplossingscontext te begrijpen;
 * stimuleert en organiseert de samenwerking binnen het team zodat het product waarde creëert voor de belanghebbenden;
 * ontwikkelt visie op het product, stelt een roadmap op en vertaalt deze in oplossingen waar het team verder aan werkt;
-* toont aan hoe een oplossing waarde kan bieden voor interne en externe klanten;
+* toont aan hoe een oplossing een positief effect heeft op een [waardestroom](niveaus-in-de-werking.md#waardestromen-waarom) en dus waarde kan bieden voor interne en externe klanten;
 * boort nieuwe domeinen aan waarvoor het product waarde kan leveren;
 * identificeert en contacteert potentiële gebruikers en integratie-partners;
-* werkt in tandem samen met de [Product Owner](rollen.md#product-owner) die de visie vertaalt naar concrete taken voor het [productteam](rollen.md#product-teams). 
+* werkt in tandem samen met de [Product Owner](rollen.md#product-owner) die de visie vertaalt naar concrete Epics en stories voor het [productteam](rollen.md#product-teams). 
 
 ### Treinbegeleider
 
@@ -57,13 +57,13 @@ Bewaakt de effectieve waarderealisatie van uit oplossingen door
 
 ![](../.gitbook/assets/productteam.png)
 
-Een Product team bestaat uit een Product Owner, Scrum Master en Developers. Op basis van Scrum worden door de product teams nieuwe functionaliteiten en oplossingen opgeleverd in de [ontwikkelcadans](de-ontwikkelcadans.md). 
+Een Product team bestaat uit een Product Owner, Scrum Master en ontwikkelteam. Op basis van Scrum worden door de product teams nieuwe functionaliteiten en oplossingen opgeleverd in de [ontwikkelcadans](de-ontwikkelcadans.md). 
 
 Product teams hebben alle benodigde vaardigheden  om elke Sprint waarde te creëren. Ze zijn dus **multidisciplinair**. Daarnaast is het Scrum Team **zelfsturend** en bepalen ze dus onderling wie wat opneemt.
 
 ### Product Owner
 
-De Product Owner vertaalt de visie voor de klanten op het product naar functionele acties **met als doel** samen met inhoudelijke business experten en IT-technische collega’s te komen tot processen, diensten en toepassingen die beantwoorden aan de noden en zo waarde te leveren binnen de beleidsvelden waarvoor ABB verantwoordelijk is. Dit gebeurt volgens de overeengekomen normen in termen van tijd, kwaliteit en kosten. 
+De Product Owner vertaalt de visie voor de klanten op het product naar functionele acties **met als doel** samen met inhoudelijke business experten en IT-technische collega’s te komen tot processen, diensten en toepassingen die beantwoorden aan de noden en zo waarde te leveren binnen de [waardestromen](niveaus-in-de-werking.md#waardestromen-waarom) van ABB. Dit gebeurt volgens de overeengekomen normen in termen van tijd, kwaliteit en kosten. 
 
 * vormt een tandem met de [Product Manager](rollen.md#product-manager);
 * vertaalt de visie op het product naar functionele acties om zo de doelstellingen te garanderen;
