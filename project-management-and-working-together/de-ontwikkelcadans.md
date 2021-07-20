@@ -78,7 +78,7 @@ De centrale planningsdag is een essentieel terugblik- en planningsmoment tussen 
 Tijd voor … 
 
 * Delen van gerealiseerde oplossingen a.h.v. demo’s
-* Plannen van de volgende Spurt o.b.v. voorbereide Epics die uiteindelijk tot [oplossingen](niveaus-in-de-werking.md#oplossingen-hoe) zullen leiden.
+* Plannen van de volgende Spurt o.b.v. voorbereide Epics die uiteindelijk tot [oplossingen](levensloop-van-een-oplossing.md#oplossingen-hoe) zullen leiden.
 * Afstemming tussen verschillende producten om tot gedeelde oplossingen te komen
 
 Wanneer? De Centrale Planningsdag \(CPD\) gebeurt steeds tijdens de IPI op het einde van een Spurt.
