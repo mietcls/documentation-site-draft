@@ -55,7 +55,7 @@ Een sprint is een afgebakende periode van twee weken waarin een productteam aan 
 
 ![](../.gitbook/assets/ipi.png)
 
-Naast het ontwikkelen van functionaliteiten is er ook nood aan andere activiteiten om een product\(team\) verder te laten groeien. Daarom is de vijfde en laatste sprint van een groeispurt steeds een speciale sprint omdat het expliciet ruimte biedt voor voor … 
+Naast het ontwikkelen van functionaliteiten is er ook nood aan andere activiteiten om een product\(team\) verder te laten groeien. Daarom is de vijfde en laatste twee weken van een groeispurt steeds speciaal omdat het expliciet ruimte biedt voor … 
 
 * Innovatie en experimenten
 * Training
@@ -73,12 +73,12 @@ De capaciteit van de IPI mag niet worden ingecalculeerd voor het halen van de Sp
 
 ![](../.gitbook/assets/cpd.png)
 
-De centrale planningsdag is een essentieel inspectie en planningsmoment tussen twee groeispurten in.
+De centrale planningsdag is een essentieel terugblik- en planningsmoment tussen twee groeispurten in.
 
 Tijd voor … 
 
 * Delen van gerealiseerde oplossingen a.h.v. demo’s
-* Plannen van de volgende Spurt o.b.v. voorbereide Epics die uiteindelijk tot oplossingen zullen leiden
+* Plannen van de volgende Spurt o.b.v. voorbereide Epics die uiteindelijk tot [oplossingen](niveaus-in-de-werking.md#oplossingen-hoe) zullen leiden.
 * Afstemming tussen verschillende producten om tot gedeelde oplossingen te komen
 
 Wanneer? De Centrale Planningsdag \(CPD\) gebeurt steeds tijdens de IPI op het einde van een Spurt.
