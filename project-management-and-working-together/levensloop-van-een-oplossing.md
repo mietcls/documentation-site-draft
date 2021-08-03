@@ -22,7 +22,7 @@ _Ondersteunende waardeketens_
 
 * De IT-dienstverlening wordt op een duurzame, kwaliteitsvolle en efficiënte manier ontwikkeld en ondersteund
 
-Een nieuw **idee** past altijd in een bestaande of nieuwe waardeketen.
+Een nieuw **idee voor oplossing** past altijd in een bestaande of nieuwe waardeketen.
 
 Waardeketens worden op Solution-niveau opgevolgd en afgestemd.
 
