@@ -1,8 +1,6 @@
 # Tools om mee samen te werken
 
-## Scaled Agile Framework
 
-{% embed url="https://www.scaledagileframework.com/" %}
 
 {% embed url="https://www.scaledagileframework.com/design-thinking/" %}
 
