@@ -77,7 +77,7 @@ De centrale planningsdag is een essentieel terugblik- en planningsmoment tussen 
 
 Tijd voor … 
 
-* Delen van gerealiseerde oplossingen a.h.v. demo’s
+* Delen van gerealiseerde oplossingen a.h.v. demo’s in een plenaire sessie.
 * Plannen van de volgende Spurt o.b.v. voorbereide Epics die uiteindelijk tot [oplossingen](levensloop-van-een-oplossing.md#oplossingen-hoe) zullen leiden.
 * Afstemming tussen verschillende producten om tot gedeelde oplossingen te komen
 
