@@ -71,7 +71,23 @@ Voorbeeldactiviteiten: testen nieuwe technologieën, breder delen van nieuwe fun
 
 Deze kalender ziet er momenteel zo uit:
 
+_**WEEK 1 IPI: FOCUS op sprintplanning IPI - Innovatie - Inspect and asdapt**_
 
+| Dag/Deel | Maandag | Dinsdag | Woensdag | Donderdag | Vrijdag |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| AM | Sprintplanning IPI | Innovatie | Innovatie | Innovatie | Inspect and Adapt |
+| AM | \(Retrospectieve\) | Capacity check DEV en Design |  |  |  |
+| PM | Innovatie | Innovatie | Innovatie | Innovatie | Inspect and Adapt |
+| PM | \(Retrospectieve\) |  |  |  |  |
+
+_**WEEK 2 IPI: Focus op Groeispurtplanning - Retrospectieve en Sprintdemo IPI**_
+
+| Dag/Deel | Maandag | Dinsdag | Woensdag | Donderdag | Vrijdag |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| AM | Impact Mapping | Impact Mapping | Capacity Check PM's ifv planning | CPD | Retrospectieve |
+| AM | Story Mapping | Story Mapping |  |  |  |
+| PM | Impact Mapping | Impact Mapping |  | CPD | Sprintdemo IPI |
+| PM | Story Mapping | Story Mapping |  |  | Klaarzetten sprint 1 |
 
 {% hint style="warning" %}
 De capaciteit van de IPI mag niet worden ingecalculeerd voor het halen van de Spurt-doelen. Het niet gewoon een 'extra' sprint.
