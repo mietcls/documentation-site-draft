@@ -84,9 +84,9 @@ _**WEEK 2 IPI: Focus op Groeispurtplanning - Retrospectieve en Sprintdemo IPI**_
 
 | Dag/Deel | Maandag | Dinsdag | Woensdag | Donderdag | Vrijdag |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| AM | Impact Mapping | Impact Mapping | Capacity Check PM's ifv planning | CPD | Retrospectieve |
-| AM | Story Mapping | Story Mapping |  |  |  |
-| PM | Impact Mapping | Impact Mapping |  | CPD | Sprintdemo IPI |
+| AM | Impact Mapping | Impact Mapping | Story Mapping | CPD | Retrospectieve |
+| AM | Story Mapping | Story Mapping | Impact Mapping |  |  |
+| PM | Impact Mapping | Impact Mapping | Capacity Check PM's ifv planning | CPD | Sprintdemo IPI |
 | PM | Story Mapping | Story Mapping |  |  | Klaarzetten sprint 1 |
 
 {% hint style="warning" %}
