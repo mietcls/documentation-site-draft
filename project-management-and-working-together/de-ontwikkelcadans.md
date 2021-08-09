@@ -1,4 +1,4 @@
-# Ontwikkelcadans
+# Ontwikkelcadans voor producten Digiteam
 
 De werking is gebaseerd op de [Scaled Agile Framework \(SAFe\)](https://www.scaledagileframework.com) maar aangepast voor het ABB Digiteam projectwerking.
 
@@ -63,7 +63,15 @@ Naast het ontwikkelen van functionaliteiten is er ook nood aan andere activiteit
 
 Wanneer? De Innovatie en Planning \(IPI\) iteratie gebeurt steeds op het einde van een Spurt.
 
+#### Stramien voor de invulling van de IPI bij Digiteam ABB
+
+Om de activiteiten die typisch in de IPI plaatsvinden te kunnen organiseren werd een kalender opgemaakt waarin elk van de typische activiteiten een plaats kreeg. Deze kalender wordt gebruikt om bij de betrokken teams placeholders in de agenda te zetten zodat de nodige tijd wordt gevrijwaard in elke IPI.
+
 Voorbeeldactiviteiten: testen nieuwe technologieën, breder delen van nieuwe functionaliteiten, kennisoverdracht, scoping sessies & brainstormen, retrospectieves, manier van werken herbekijken, …
+
+Deze kalender ziet er momenteel zo uit:
+
+
 
 {% hint style="warning" %}
 De capaciteit van de IPI mag niet worden ingecalculeerd voor het halen van de Spurt-doelen. Het niet gewoon een 'extra' sprint.
