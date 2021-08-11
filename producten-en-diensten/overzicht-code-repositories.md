@@ -91,8 +91,7 @@ Development: [https://dev.toevla.org/](https://dev.toevla.org/)
 
 ### Ontwikkeling
 
-Development: [http://contacthub-dev.lblod.info](http://contacthub-dev.lblod.info)  
-Quality assurance: 
+Development: [http://contacthub-dev.lblod.info](http://contacthub-dev.lblod.info)
 
 ## **Publieke databank: Mandatendatabank**
 
