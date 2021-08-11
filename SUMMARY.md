@@ -20,7 +20,7 @@
   * [Form Builder](producten-en-diensten/loket-voor-lokale-besturen/form-builder.md)
   * [Klachtenformulier](producten-en-diensten/loket-voor-lokale-besturen/klachtenformulier.md)
 * [Gelinkt Publiceren en Melden](producten-en-diensten/melden.md)
-* [Publieke databanken - Public databases](producten-en-diensten/wikis-and-publieke-databanken-public-databases/README.md)
+* [Publieke databanken](producten-en-diensten/wikis-and-publieke-databanken-public-databases/README.md)
   * [Mandatendatabank](producten-en-diensten/wikis-and-publieke-databanken-public-databases/mandatendatabank.md)
   * [Leidinggevendendatabank](producten-en-diensten/wikis-and-publieke-databanken-public-databases/leidinggevendendatabank.md)
   * [Publicatiepagina Gelinkt Notuleren](producten-en-diensten/wikis-and-publieke-databanken-public-databases/publicatiepagina-gelinkt-notuleren.md)
@@ -32,7 +32,7 @@
 * [Toegang krijgen tot producten en diensten via Gebruikersbeheer Vlaanderen](producten-en-diensten/toegang-krijgen-tot-producten-en-diensten-via-gebruikersbeheer-vlaanderen/README.md)
   * [Aanmelden](producten-en-diensten/toegang-krijgen-tot-producten-en-diensten-via-gebruikersbeheer-vlaanderen/aanmelden.md)
   * [Afmelden of wisselen van bestuurseenheid](producten-en-diensten/toegang-krijgen-tot-producten-en-diensten-via-gebruikersbeheer-vlaanderen/afmelden-of-wisselen-van-bestuurseenheid.md)
-* [Overzicht applicaties, repositories en handleidingen](producten-en-diensten/overzicht-code-repositories.md)
+* [Overzicht applicaties, handleidingen en ontwikkelomgevingen](producten-en-diensten/overzicht-code-repositories.md)
 
 ## Ontwikkeling
 

@@ -1,31 +1,108 @@
-# Overzicht applicaties, repositories en handleidingen
+---
+description: Een overzicht
+---
 
-**Gelinkt Notuleren**
+# Overzicht applicaties, handleidingen en ontwikkelomgevingen
 
-**Front-end applicatie voor Gelinkt Notuleren** [**https://github.com/lblod/frontend-gelinkt-notuleren**](https://github.com/lblod/frontend-gelinkt-notuleren)
+## Gelinkt Notuleren
 
-* **De editor die in Gelinkt Notuleren ingeladen wordt** [**https://github.com/lblod/ember-rdfa-editor**](https://github.com/lblod/ember-rdfa-editor) ****
-* **Plugins**
-  * **Citatenplugin \(link naar de Vlaamse Codex in notulen\)** [**https://github.com/lblod/ember-rdfa-editor-citaten-plugin**](https://github.com/lblod/ember-rdfa-editor-citaten-plugin) ****
-  * **To fill out**
-* **Publieke pagina’s**
-  * **Mandatendatabank** [**https://github.com/lblod/frontend-mandatendatabank**](https://github.com/lblod/frontend-mandatendatabank)
-  * **Leidinggevendendatabank** [**https://github.com/lblod/frontend-leidinggevenden-databank**](https://github.com/lblod/frontend-leidinggevenden-databank) ****
-* **Intern toezicht**
-  * [**https://github.com/lblod/frontend-toezicht-abb**](https://github.com/lblod/frontend-toezicht-abb) ****
-* **Webuniversum repo’s**
-  * **Huidige componenten en css** [**https://github.com/lblod/ember-vo-webuniversum**](https://github.com/lblod/ember-vo-webuniversum) ****
-  * **Toekomstige componenten en css \(maybe this will change with “YGDIR” not sure\)** [**https://github.com/lblod/say-wu-style**](https://github.com/lblod/say-wu-style) ****
-* **Manual**
-  * [**https://github.com/lblod/handleiding-gelinkt-notuleren**](https://github.com/lblod/handleiding-gelinkt-notuleren) ****
-* **Metis**
-  * **Voorbeeld van lokale url voor mandataris** [**http://localhost:4200/id/mandatarissen/bd406c352ae2cde6ccdba46d7854bde21fd666eb92b038d87c6eadf00507c5e7**](http://localhost:4200/id/mandatarissen/bd406c352ae2cde6ccdba46d7854bde21fd666eb92b038d87c6eadf00507c5e7) ****
-  * **Voorbeeld van lokale url voor persoon** [**http://localhost:4200/id/personen/4d4bd5325600db059b4a6441d07375f4a6ba3e1f9d3b204f4a466217b4a827c0**](http://localhost:4200/id/personen/4d4bd5325600db059b4a6441d07375f4a6ba3e1f9d3b204f4a466217b4a827c0) ****
+### Applicatie
 
-## **Repo’s Loket**
+{% embed url="http://gelinkt-notuleren.vlaanderen.be" %}
 
-* **Loket algemene front-end** [**https://github.com/lblod/frontend-loket**](https://github.com/lblod/frontend-loket) ****
-* **Toezicht algemene front-end** [**https://github.com/lblod/app-toezicht-abb**](https://github.com/lblod/app-toezicht-abb) ****
-* **Manual**
-  * [**https://github.com/lblod/handleiding-digitaal-loket**](https://github.com/lblod/handleiding-digitaal-loket) ****
+### Handleiding
+
+{% embed url="https://abb-vlaanderen.gitbook.io/gelinkt-notuleren-handleiding/" %}
+
+### Ontwikkeling
+
+#### Repositories
+
+Front-end [https://github.com/lblod/frontend-gelinkt-notuleren](https://github.com/lblod/frontend-gelinkt-notuleren)
+
+#### Testing & Development
+
+Gebruikerssessies: [https://gebruikerssessie.gelinkt-notuleren.lblod.info/login](https://gebruikerssessie.gelinkt-notuleren.lblod.info/login)  
+Development: [https://dev.gelinkt-notuleren.lblod.info/login](https://dev.gelinkt-notuleren.lblod.info/login)
+
+#### **Plug-ins**
+
+* Citatenplugin \(link naar de Vlaamse Codex in notulen\) [https://github.com/lblod/ember-rdfa-editor-citaten-plugin](https://github.com/lblod/ember-rdfa-editor-citaten-plugin) 
+
+## Publicatieomgeving notulen
+
+### Applicatie
+
+{% embed url="https://publicatie.gelinkt-notuleren.vlaanderen.be" %}
+
+### Ontwikkeling
+
+Gebruikerssessies: [https://publicatie.gebruikerssessie.gelinkt-notuleren.lblod.info/](https://publicatie.gebruikerssessie.gelinkt-notuleren.lblod.info/)  
+Development: [https://publicatie.dev.gelinkt-notuleren.lblod.info/](https://publicatie.dev.gelinkt-notuleren.lblod.info/)
+
+## Editor
+
+### Ontwikkeling
+
+De editor die in Gelinkt Notuleren ingeladen wordt [https://github.com/lblod/ember-rdfa-editor](https://github.com/lblod/ember-rdfa-editor)
+
+## Loket Lokaal Bestuur
+
+### Applicatie
+
+{% embed url="http://loket.lokaalbestuur.vlaanderen.be" %}
+
+### Handleiding
+
+{% embed url="https://abb-vlaanderen.gitbook.io/handleiding-loket/" %}
+
+### Ontwikkeling
+
+Front-end [https://github.com/lblod/frontend-loket](https://github.com/lblod/frontend-loket) 
+
+## **Toezicht**
+
+### Ontwikkeling
+
+Back-end [https://github.com/lblod/app-toezicht-abb](https://github.com/lblod/app-toezicht-abb)  
+Front-end [https://github.com/lblod/frontend-toezicht-abb](https://github.com/lblod/frontend-toezicht-abb) 
+
+## Toegankelijk Vlaanderen
+
+### Applicatie
+
+{% embed url="https://toegankelijk.vlaanderen.be" %}
+
+### Ontwikkeling
+
+Quality Assurance [https://qa.toegankelijk.vlaanderen.be/](https://qa.toegankelijk.vlaanderen.be/)  
+Quality Assurance intern: [https://qa.toevla.org/](https://qa.toevla.org/)  
+Development: [https://dev.toevla.org/](https://dev.toevla.org/)
+
+## Organisatieportaal
+
+### Applicatie \(in opbouw\)
+
+{% embed url="https://organisaties.abb.vlaanderen.be/" %}
+
+### Handleiding \(in opbouw\)
+
+{% embed url="https://abb-vlaanderen.gitbook.io/handleiding-organisatieportaal/" %}
+
+### Ontwikkeling
+
+Development: [http://contacthub-dev.lblod.info](http://contacthub-dev.lblod.info)  
+Quality assurance: 
+
+## **Publieke databank: Mandatendatabank**
+
+### Ontwikkeling
+
+Front-end [**https://github.com/lblod/frontend-mandatendatabank**](https://github.com/lblod/frontend-mandatendatabank)
+
+## **Publieke databank: Leidinggevendendatabank**
+
+### Ontwikkeling
+
+Front-end [https://github.com/lblod/frontend-leidinggevenden-databank](https://github.com/lblod/frontend-leidinggevenden-databank) 
 
