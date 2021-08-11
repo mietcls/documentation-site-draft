@@ -22,7 +22,7 @@ Om dat te laten gebeuren, doen we het volgende:
 
 Lokale besturen krijgen toegang door eenmalig toegang te vragen via het [Toegangs- \(ACM\) en Gebruikersbeheer \(IDM\)](https://gebruikersbeheer.vlaanderen.be/) van de Vlaamse overheid. [Meer informatie over ACM-IDM](../../ontwikkeling/architectuur/rechtenbeheer-and-inloggen.md).
 
-**Handleiding instellen gebruikersbeheer loket**: [https://abb-vlaanderen.gitbook.io/handleiding-loket/toegang/gebruikersbeheer](https://abb-vlaanderen.gitbook.io/handleiding-loket/toegang/gebruikersbeheer)
+{% page-ref page="../toegang-krijgen-tot-producten-en-diensten-via-gebruikersbeheer-vlaanderen/" %}
 
 * Het gebruikersrecht dat gebruikt wordt om in te loggen voor het Loket voor Lokale Besturen is "Loket Lokaal Bestuur Gebruiker".
 * Per gebruiker kan ingesteld worden welke modules ze zien. De keuze bestaat momenteel uit: Toezicht, berichtencentrum, leidinggevenden, mandatenbeheer, personeelsbeheer, BBC-DR, subsidies. Dit kan later nog uitgebreid worden.
@@ -31,5 +31,5 @@ Lokale besturen krijgen toegang door eenmalig toegang te vragen via het [Toegang
   * Economische actoren​
   * Lokale Besturen.​ _De doelgroepverantwoordelijke voor Lokale Besturen is ABB._
 
-**Handleiding aanmelden**: [https://abb-vlaanderen.gitbook.io/handleiding-loket/toegang/aanmelden\#voorpagina](https://abb-vlaanderen.gitbook.io/handleiding-loket/toegang/aanmelden#voorpagina)
+{% page-ref page="../toegang-krijgen-tot-producten-en-diensten-via-gebruikersbeheer-vlaanderen/aanmelden.md" %}
 

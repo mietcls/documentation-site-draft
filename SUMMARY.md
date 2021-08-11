@@ -29,7 +29,8 @@
 * [Organisatieportaal](producten-en-diensten/organisatieportaal.md)
 * [Erediensten](producten-en-diensten/erediensten.md)
 * [Toegankelijk Vlaanderen](producten-en-diensten/toegankelijk-vlaanderen.md)
-* [Toegang krijgen tot producten en diensten via Gebruikersbeheer Vlaanderen](producten-en-diensten/toegang-krijgen-tot-producten-en-diensten-via-gebruikersbeheer-vlaanderen.md)
+* [Toegang krijgen tot producten en diensten via Gebruikersbeheer Vlaanderen](producten-en-diensten/toegang-krijgen-tot-producten-en-diensten-via-gebruikersbeheer-vlaanderen/README.md)
+  * [Aanmelden](producten-en-diensten/toegang-krijgen-tot-producten-en-diensten-via-gebruikersbeheer-vlaanderen/aanmelden.md)
 * [Overzicht applicaties, repositories en handleidingen](producten-en-diensten/overzicht-code-repositories.md)
 
 ## Ontwikkeling
