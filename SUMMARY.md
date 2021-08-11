@@ -30,6 +30,7 @@
   * [Centrale Vindplaats](products-and-services/wikis-and-publieke-databanken-public-databases/centrale-vindplaats.md)
   * [Metis](products-and-services/wikis-and-publieke-databanken-public-databases/metis.md)
 * [Toegankelijk Vlaanderen](products-and-services/toegankelijk-vlaanderen.md)
+* [Access Products and Services Via Gebruikersbeheer Vlaanderen](products-and-services/access-products-and-services-via-gebruikersbeheer-vlaanderen.md)
 
 ## Development
 
