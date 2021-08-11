@@ -73,6 +73,10 @@ Front-end [https://github.com/lblod/frontend-toezicht-abb](https://github.com/lb
 
 {% embed url="https://toegankelijk.vlaanderen.be" %}
 
+### Handleiding
+
+{% embed url="https://abb-vlaanderen.gitbook.io/handleiding-toegankelijk-vlaanderen-invoerapp" %}
+
 ### Ontwikkeling
 
 Quality Assurance [https://qa.toegankelijk.vlaanderen.be/](https://qa.toegankelijk.vlaanderen.be/)  
