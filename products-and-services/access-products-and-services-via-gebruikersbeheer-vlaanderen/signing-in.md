@@ -26,39 +26,34 @@ Signing up is done through the familiar user management Flanders.
 
 All of our applications have a blue button with "Sign Up" on their landing page. Click on this button to continue. View all web applications of the Domestic Administration Agency.
 
-![Voorbeeld inloggen met blauwe knop: Loket Lokaal Bestuur](../../.gitbook/assets/login-voorpagina.png)
+![Example of logging in with the blue button: Loket Lokaal Bestuur](../../.gitbook/assets/login-voorpagina.png)
 
 ## Pop-up
 
-Vervolgens verschijnt er een pop-up, die u enkele veilige opties voorstelt om u mee aan te melden.
+A pop-up will then appear, presenting you with some secure options to sign in with.
 
-![Keuzes aanmelden](../../.gitbook/assets/login-aanmelden.png)
+![Choices for signing in](../../.gitbook/assets/login-aanmelden.png)
 
-### Kiezen van een bestuurseenheid
+### Choosing an Administrative Unit
 
-Indien u toegang heeft tot meerdere bestuurseenheden, krijgt u in de pop-up de optie om een bestuurseenheid te kiezen.
+If you have access to administrative units, the pop-up will give you the option to choose one.
 
 ![Voorbeeld bestuurseenheid kiezen: Loket Lokaal Bestuur](../../.gitbook/assets/login-orgaan.png)
 
-### Verschijnt de pop-up niet?
+### In Case the Pop-Up Does Not Appear
 
-Zorg dat de instellingen van uw browser goed staan.
+Make sure your browser settings are correct.
 
-* **Firefox**
-
-  Bezoek deze link [https://support.mozilla.org/nl/kb/instellingen-pop-upblokkering-uitzonderingen-probleemoplossing](https://support.mozilla.org/nl/kb/instellingen-pop-upblokkering-uitzonderingen-probleemoplossing) en kies **Pop-upblokkeringsinstellingen**.
-
-* **Chrome**
-
-  Bezoek deze link [https://support.google.com/chrome/answer/95472?co=GENIE.Platform%3DDesktop&hl=nl](https://support.google.com/chrome/answer/95472?co=GENIE.Platform%3DDesktop&hl=nl) en zoek naar **Pop-ups van een specifieke site blokkeren of toestaan**. Klik daarna op **Pop-ups van een bepaalde site toestaan**.
+* **Firefox** Visit this link [https://support.mozilla.org/en-US/kb/pop-blocker-settings-exceptions-troubleshooting\#w\_pop-up-blocker-settings](https://support.mozilla.org/en-US/kb/pop-blocker-settings-exceptions-troubleshooting#w_pop-up-blocker-settings) and choose Pop-up blocker settings.
+* **Chrome** Visit this link [https://support.google.com/chrome/answer/95472?co=GENIE.Platform%3DDesktop&hl=en](https://support.google.com/chrome/answer/95472?co=GENIE.Platform%3DDesktop&hl=en).
 
 {% hint style="info" %}
-Krijgt u geen toegang tot de applicatie? Ga naar [Gebruikersbeheer](../toegankelijk-vlaanderen.md) voor meer informatie.
+Not getting access to the application? Go to [Gebruikersbeheer Vlaanderen](../toegankelijk-vlaanderen.md) for more information.
 {% endhint %}
 
-## Aangemeld
+## Logged in.
 
-Na het kiezen van een bestuurseenheid, bent u ingelogd. U krijgt nu toegang tot de modules waar u voor gekend staat bij het [Gebruikersbeheer]().
+After choosing an administrative unit, you are logged in. You will now have access to the modules you are known for in [Gebruikersbeheer](./).
 
-![Voorbeeld van een applicatie na aanmelden: Loket Lokaal Bestuur](../../.gitbook/assets/startscherm.png)
+![Example of an app after signing in: Loket Lokaal Bestuur](../../.gitbook/assets/startscherm.png)
 

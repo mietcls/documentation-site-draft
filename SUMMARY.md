@@ -32,6 +32,7 @@
 * [Toegankelijk Vlaanderen](products-and-services/toegankelijk-vlaanderen.md)
 * [Access Products and Services Via Gebruikersbeheer Vlaanderen](products-and-services/access-products-and-services-via-gebruikersbeheer-vlaanderen/README.md)
   * [Signing in](products-and-services/access-products-and-services-via-gebruikersbeheer-vlaanderen/signing-in.md)
+  * [Signing Off and Switching Administrative Units](products-and-services/access-products-and-services-via-gebruikersbeheer-vlaanderen/signing-off-and-switching-administrative-units.md)
 * [Overview of Applications, Manuals and Development Environments](products-and-services/overview-of-applications-manuals-and-development-environments.md)
 
 ## Development
