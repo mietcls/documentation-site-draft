@@ -32,6 +32,7 @@
 * [Toegang krijgen tot producten en diensten via Gebruikersbeheer Vlaanderen](producten-en-diensten/toegang-krijgen-tot-producten-en-diensten-via-gebruikersbeheer-vlaanderen/README.md)
   * [Aanmelden](producten-en-diensten/toegang-krijgen-tot-producten-en-diensten-via-gebruikersbeheer-vlaanderen/aanmelden.md)
   * [Afmelden of wisselen van bestuurseenheid](producten-en-diensten/toegang-krijgen-tot-producten-en-diensten-via-gebruikersbeheer-vlaanderen/afmelden-of-wisselen-van-bestuurseenheid.md)
+  * [Ondersteunende functie: Printen](producten-en-diensten/toegang-krijgen-tot-producten-en-diensten-via-gebruikersbeheer-vlaanderen/ondersteunende-functie-printen.md)
 * [Overzicht applicaties, handleidingen en ontwikkelomgevingen](producten-en-diensten/overzicht-code-repositories.md)
 
 ## Ontwikkeling
