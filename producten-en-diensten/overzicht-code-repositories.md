@@ -1,4 +1,4 @@
-# Overzicht Code Repositories
+# Overzicht applicaties, repositories en handleidingen
 
 **Gelinkt Notuleren**
 
