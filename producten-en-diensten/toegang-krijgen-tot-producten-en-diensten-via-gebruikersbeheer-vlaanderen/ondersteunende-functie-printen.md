@@ -7,6 +7,10 @@ description: >-
 
 # Ondersteunende functie: Printen
 
+{% hint style="success" %}
+Onze toepassing is geoptimaliseerd voor de browsers **Chrome** en **Firefox**. Wij raden dan ook aan een van deze browsers te gebruiken.
+{% endhint %}
+
 ## Algemeen
 
 U kan informatie op webapplicaties printen naar een fysieke printer en/of een .pdf document.
