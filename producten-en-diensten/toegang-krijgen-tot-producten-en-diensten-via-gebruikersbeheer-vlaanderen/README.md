@@ -34,7 +34,7 @@ U krijgt een overzicht te zien, waar u kan zoeken naar de juiste persoon.
 
 ## Zoeken naar de juiste rechten
 
-Vervolgens kan u voor de geselecteerde persoon de juiste rechten zoeken. Afhankelijk van de applicatie waar u voor kiest, is dat een nader recht.
+Vervolgens kan u voor de geselecteerde persoon de juiste rechten zoeken. Afhankelijk van de applicatie waar u voor kiest, is dat een ander recht.
 
 ![Overzicht rechten](../../.gitbook/assets/6-gebruikersbeheer-7-overzicht-rechten%20%281%29.png)
 
@@ -42,7 +42,7 @@ Vervolgens kan u voor de geselecteerde persoon de juiste rechten zoeken. Afhanke
 
 * Gelinkt Notuleren: **kies Gelinkt Notuleren**
 * Loket Lokaal Bestuur: **kies Loket voor Lokale Besturen**
-* Organisatieportaal: 
+* Organisatieportaal: **kies ABB OrganisatiePortaal Gebruiker**
 
 #### Voorbeeld "Gelinkt Notuleren".
 
