@@ -113,11 +113,19 @@ Development: [http://contacthub-dev.lblod.info](http://contacthub-dev.lblod.info
 
 ## **Public Database:** Mandate Database
 
+### **Application**
+
+{% embed url="http://mandaten.lokaalbestuur.vlaanderen.be" %}
+
 ### Development
 
 Front-end [**https://github.com/lblod/frontend-mandatendatabank**](https://github.com/lblod/frontend-mandatendatabank)
 
 ## **Public Database: Executives Database**
+
+### **Application**
+
+{% embed url="https://leidinggevenden.lokaalbestuur.vlaanderen.be" %}
 
 ### Development
 
