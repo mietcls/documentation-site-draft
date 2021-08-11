@@ -109,7 +109,16 @@ Development: [https://dev.toevla.org/](https://dev.toevla.org/)
 
 ### Ontwikkeling
 
-Development: [http://contacthub-dev.lblod.info](http://contacthub-dev.lblod.info)
+#### Testen
+
+Development: [http://contacthub-dev.lblod.info](http://contacthub-dev.lblod.info)  
+Quality Assurance: [https://contacthub-qa.lblod.info](https://contacthub-qa.lblod.info)
+
+#### Code
+
+Front-end: [https://github.com/lblod/frontend-contact-hub](https://github.com/lblod/frontend-contact-hub)  
+Back-end: [https://github.com/lblod/app-contact-hub](https://github.com/lblod/app-contact-hub)  
+More information: [https://abb-vlaanderen.gitbook.io/doc-organisatieportaal/code](https://abb-vlaanderen.gitbook.io/doc-organisatieportaal/code)
 
 ## **Publieke databank: Mandatendatabank**
 
@@ -119,7 +128,7 @@ Development: [http://contacthub-dev.lblod.info](http://contacthub-dev.lblod.info
 
 ### Ontwikkeling
 
-Front-end [**https://github.com/lblod/frontend-mandatendatabank**](https://github.com/lblod/frontend-mandatendatabank)
+Front-end [https://github.com/lblod/frontend-mandatendatabank](https://github.com/lblod/frontend-mandatendatabank)
 
 ## **Publieke databank: Leidinggevendendatabank**
 
