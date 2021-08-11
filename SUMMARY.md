@@ -29,6 +29,7 @@
 * [Organisatieportaal](producten-en-diensten/organisatieportaal.md)
 * [Erediensten](producten-en-diensten/erediensten.md)
 * [Toegankelijk Vlaanderen](producten-en-diensten/toegankelijk-vlaanderen.md)
+* [Toegang krijgen tot producten en diensten via Gebruikersbeheer Vlaanderen](producten-en-diensten/toegang-krijgen-tot-producten-en-diensten-via-gebruikersbeheer-vlaanderen.md)
 * [\[verouderd\] "How To" Handleidingen – Manuals](producten-en-diensten/handleidingen-manuals/README.md)
   * [Overzicht Code Repositories](producten-en-diensten/handleidingen-manuals/overzicht-code-repositories.md)
   * [\[verouderd\] De HTML van de handleiding aanpassen zonder HTML editor of gebruik van Terminal](producten-en-diensten/handleidingen-manuals/de-html-van-de-handleiding-aanpassen-zonder-html-editor-of-gebruik-van-terminal.md)
