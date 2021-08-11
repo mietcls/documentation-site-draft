@@ -107,5 +107,5 @@ You will be asked to confirm the assignment of permissions, after which a messag
 
 ![Example successfully granted right](../../.gitbook/assets/12-gebruikersbeheer-14-success.png)
 
-The person can now log in with the assigned roles or contexts for the chosen application.
+The person can now[ sign in](signing-in.md) with the assigned roles or contexts for the chosen application.
 
