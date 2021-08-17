@@ -109,5 +109,9 @@ U wordt gevraagd om het toekennen van rechten te bevestigen, waarna een boodscha
 
 ![Voorbeeld succesvol toegekend recht](../../.gitbook/assets/12-gebruikersbeheer-14-success.png)
 
-De persoon kan zich nu aanmelden met de toegekende rollen of contexten voor de gekozen applicatie.
+De persoon kan zich nu [aanmelden](aanmelden.md) met de toegekende rollen of contexten voor de gekozen applicatie.
+
+{% hint style="info" %}
+Er is een vertraging van 5 à 10 minuten tussen het toekennen/afnemen van het recht en de effectieve toegang voor de gebruiker.
+{% endhint %}
 
