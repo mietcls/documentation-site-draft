@@ -170,9 +170,11 @@ Ontdek hoe we onze applicaties ontwikkelen onder [ONTWIKKELING &gt; Architectuur
 
 {% embed url="https://github.com/lblod/ember-submission-form-fields" %}
 
-### Manual 
+### Handleding 
 
 {% embed url="https://abb-vlaanderen.gitbook.io/handleiding-loket/" %}
 
-\[Deprecated\] [https://github.com/lblod/handleiding-digitaal-loket](https://github.com/lblod/handleiding-digitaal-loket)
+Bovenstaande handleiding zal deze vervangen:  
+Handleiding [https://loket.lokaalbestuur.vlaanderen.be/handleiding/](https://loket.lokaalbestuur.vlaanderen.be/handleiding/)  
+Code[ https://github.com/lblod/handleiding-digitaal-loket](https://github.com/lblod/handleiding-digitaal-loket)
 
