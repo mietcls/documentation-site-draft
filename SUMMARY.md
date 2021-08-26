@@ -29,10 +29,11 @@
 * [Organisatieportaal](producten-en-diensten/organisatieportaal.md)
 * [Erediensten](producten-en-diensten/erediensten.md)
 * [Toegankelijk Vlaanderen](producten-en-diensten/toegankelijk-vlaanderen.md)
-* [Toegang krijgen tot producten en diensten via Gebruikersbeheer Vlaanderen](producten-en-diensten/toegang-krijgen-tot-producten-en-diensten-via-gebruikersbeheer-vlaanderen/README.md)
-  * [Aanmelden](producten-en-diensten/toegang-krijgen-tot-producten-en-diensten-via-gebruikersbeheer-vlaanderen/aanmelden.md)
-  * [Afmelden of wisselen van bestuurseenheid](producten-en-diensten/toegang-krijgen-tot-producten-en-diensten-via-gebruikersbeheer-vlaanderen/afmelden-of-wisselen-van-bestuurseenheid.md)
-  * [Ondersteunende functie: Printen](producten-en-diensten/toegang-krijgen-tot-producten-en-diensten-via-gebruikersbeheer-vlaanderen/ondersteunende-functie-printen.md)
+* [Toegang krijgen tot de producten en diensten van ABB](producten-en-diensten/toegang-krijgen-tot-de-producten-en-diensten-van-abb/README.md)
+  * [Aanmelden](producten-en-diensten/toegang-krijgen-tot-de-producten-en-diensten-van-abb/aanmelden.md)
+  * [Afmelden of wisselen van bestuurseenheid](producten-en-diensten/toegang-krijgen-tot-de-producten-en-diensten-van-abb/afmelden-of-wisselen-van-bestuurseenheid.md)
+  * [Ondersteunende functie: Printen](producten-en-diensten/toegang-krijgen-tot-de-producten-en-diensten-van-abb/ondersteunende-functie-printen.md)
+  * [Toegang verlenen aan gebruikers tot producten en diensten via Gebruikersbeheer Vlaanderen](producten-en-diensten/toegang-krijgen-tot-de-producten-en-diensten-van-abb/toegang-verlenen-aan-gebruikers-tot-producten-en-diensten-via-gebruikersbeheer-vlaanderen.md)
 * [Overzicht applicaties, handleidingen en ontwikkelomgevingen](producten-en-diensten/overzicht-code-repositories.md)
 
 ## Ontwikkeling

@@ -12,7 +12,7 @@ Een lijst met alle relevante links voor elk product is hier te vinden, om produc
 
 ### Handleidingen
 
-Elk product en elke dienst heeft zijn eigen handleiding, maar het aanmelden en het gebruikersbeheer is voor de meeste producten hetzelfde. Er is [een aparte handleiding die uitlegt hoe u gebruikers aanmeldt en beheert](toegang-krijgen-tot-producten-en-diensten-via-gebruikersbeheer-vlaanderen/).
+Elk product en elke dienst heeft zijn eigen handleiding, maar het aanmelden en het gebruikersbeheer is voor de meeste producten hetzelfde. Er is [een aparte handleiding die uitlegt hoe u gebruikers aanmeldt en beheert](toegang-krijgen-tot-de-producten-en-diensten-van-abb/toegang-verlenen-aan-gebruikers-tot-producten-en-diensten-via-gebruikersbeheer-vlaanderen.md).
 
 ### Paswoorden
 
