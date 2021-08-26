@@ -14,7 +14,7 @@ Vervolgens verschijnt er een pop-up, die u enkele veilige opties voorstelt om u 
 
 ### Selecteer namens wie je wil aanmelden
 
-Je kiest 'een entitiet van de Vlaamse overheid'
+Je kiest voor de optie 'een entiteit van de Vlaamse overheid'.
 
 ![](../../.gitbook/assets/gebruikersbeheer_mijnprofiel_02_acm-idm.png)
 
