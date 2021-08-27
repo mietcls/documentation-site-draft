@@ -1,38 +1,29 @@
 # Toegang krijgen tot de producten en diensten van ABB
 
-## Wat zijn mijn gebruikersrechten?
+## Toegang krijgen
 
-Bekijk hier tot welke producten en diensten u toegang heeft:
+{% hint style="success" %}
+**Om toegang te krijgen tot onze applicaties, moet u als gebruiker gekend zijn bij Gebruikersbeheer Vlaanderen.**  
+Onze applicaties zijn voorzien om u veilig aan te melden via Gebruikersbeheer Vlaanderen.
+{% endhint %}
 
-{% embed url="https://mijnprofiel-gebruikersbeheer.vlaanderen.be/" %}
+### Lokale besturen: Toegang krijgen
 
-### Pop-up
+Bekijk hier hoe aanmelden, afmelden en wisselen van bestuurseenheid in elkaar zit:
 
-Vervolgens verschijnt er een pop-up, die u enkele veilige opties voorstelt om u mee aan te melden op het gebruikersbeheer.
+{% page-ref page="aanmelden.md" %}
 
-![Keuzes aanmelden](../../.gitbook/assets/login-aanmelden.png)
+{% page-ref page="afmelden-of-wisselen-van-bestuurseenheid.md" %}
 
-### Selecteer namens wie je wil aanmelden
+Krijg je geen toegang? Kijk of je gebruikersrechten goed zitten.
 
-Je kiest voor de optie 'een entiteit van de Vlaamse overheid'.
+{% page-ref page="gebruikersrechten-bekijken.md" %}
 
-![](../../.gitbook/assets/gebruikersbeheer_mijnprofiel_02_acm-idm.png)
+### Lokale beheerders: Toegang verlenen
 
-## Hoofdpagina van Mijn Profiel
+De **lokale beheerder** die in elk bestuur aanwezig is kan u hier toegang tot geven. Meestal is dit de secretaris/algemeen directeur, griffier of iemand die door de organisatie werd aangeduid. U gaat dus best bij hen ten rade als u niet weet wie uw lokale beheerder is. [Meer informatie over gebruikersbeheer](toegang-verlenen-aan-gebruikers-tot-producten-en-diensten-via-gebruikersbeheer-vlaanderen.md).
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+{% page-ref page="toegang-verlenen-aan-gebruikers-tot-producten-en-diensten-via-gebruikersbeheer-vlaanderen.md" %}
 
-### Mijn gebruikersrechten
-
-#### Werkrelatie
-
-In de sectie 'Mijn gebruikersrechten' vind je in het tabblad "Werkrelatie" een overzicht met al je gebruiksrechten voor verschillende toepassingen". Wens je toegang tot een toepassing contacteer dan één van de Hoofd Lokale beheerders van ABB.
-
-![](../../.gitbook/assets/image%20%288%29.png)
-
-#### Mijn Lokale Beheerders
-
-In het tabblad 'Mijn Lokale Beheerders' vind je de contactgegevens van de collega's van ABB die je toegang kunnen geven tot een toepassing binnen de VO.
-
-![](../../.gitbook/assets/image%20%289%29.png)
+![Gebruikersbeheer Vlaanderen](../../.gitbook/assets/gebruikersbeheer-vlaanderen%20%282%29.png)
 

@@ -30,6 +30,7 @@
 * [Erediensten](producten-en-diensten/erediensten.md)
 * [Toegankelijk Vlaanderen](producten-en-diensten/toegankelijk-vlaanderen.md)
 * [Toegang krijgen tot de producten en diensten van ABB](producten-en-diensten/toegang-krijgen-tot-de-producten-en-diensten-van-abb/README.md)
+  * [Gebruikersrechten bekijken](producten-en-diensten/toegang-krijgen-tot-de-producten-en-diensten-van-abb/gebruikersrechten-bekijken.md)
   * [Aanmelden](producten-en-diensten/toegang-krijgen-tot-de-producten-en-diensten-van-abb/aanmelden.md)
   * [Afmelden of wisselen van bestuurseenheid](producten-en-diensten/toegang-krijgen-tot-de-producten-en-diensten-van-abb/afmelden-of-wisselen-van-bestuurseenheid.md)
   * [Ondersteunende functie: Printen](producten-en-diensten/toegang-krijgen-tot-de-producten-en-diensten-van-abb/ondersteunende-functie-printen.md)

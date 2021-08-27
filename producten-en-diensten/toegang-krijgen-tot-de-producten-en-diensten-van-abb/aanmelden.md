@@ -8,18 +8,6 @@ Om optimaal gebruik te maken van onze applicaties, gebruikt u best [**Firefox**]
 Het kan echter dat bepaalde functionaliteiten niet werken zoals het hoort. Mocht u dit opmerken, kunt u ons dit altijd laten weten via: [DigitaalABB@vlaanderen.be](mailto:DigitaalABB@vlaanderen.be).
 {% endhint %}
 
-## Zorg dat u gekend bent als gebruiker bij de Vlaamse Overheid
-
-{% hint style="success" %}
-Onze applicaties zijn voorzien om u veilig aan te melden via Gebruikersbeheer Vlaanderen.
-{% endhint %}
-
-**Om toegang te krijgen tot onze applicaties, moet u als gebruiker gekend zijn in** [**gebruikersbeheer lokale besturen**](toegang-verlenen-aan-gebruikers-tot-producten-en-diensten-via-gebruikersbeheer-vlaanderen.md)**.**
-
-De **lokale beheerder** die in elk bestuur aanwezig is kan u hier toegang tot geven. Meestal is dit de secretaris/algemeen directeur, griffier of iemand die door de organisatie werd aangeduid. U gaat dus best bij hen ten rade als u niet weet wie uw lokale beheerder is. [Meer informatie over gebruikersbeheer](toegang-verlenen-aan-gebruikers-tot-producten-en-diensten-via-gebruikersbeheer-vlaanderen.md).
-
-![Gebruikersbeheer Vlaanderen](../../.gitbook/assets/gebruikersbeheer-vlaanderen%20%282%29.png)
-
 ## Aanmelden via de landingspagina
 
 Aanmelden verloopt via het gekende gebruikersbeheer Vlaanderen.
@@ -39,6 +27,12 @@ Vervolgens verschijnt er een pop-up, die u enkele veilige opties voorstelt om u 
 Indien u toegang heeft tot meerdere bestuurseenheden, krijgt u in de pop-up de optie om een bestuurseenheid te kiezen.
 
 ![Voorbeeld bestuurseenheid kiezen: Loket Lokaal Bestuur](../../.gitbook/assets/login-orgaan.png)
+
+### Krijgt u geen toegang?
+
+Indien u een foutmelding krijgt, met de boodschap: "**U beschikt niet over de rechten om aant e melden op deze toepassing.**"
+
+![](../../.gitbook/assets/screenshot-2021-08-26-at-10.19.51.png)
 
 ### Verschijnt de pop-up niet?
 
