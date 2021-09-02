@@ -75,19 +75,19 @@ _**WEEK 1 IPI: FOCUS on sprintplanning IPI - Innovation - Inspect and adapt**_
 
 | Day/Part | Monday | Tuesday | Wednesday | Thursday | Friday |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| AM | Sprintplanning IPI | Innovation | Innovation | Innovation | Inspect and Adapt |
-| AM | \(Retrospectieve\) | Capacity check DEV + Design |  |  |  |
-| PM | Innovation | Innovation | Innovation | Innovation | Inspect and Adapt |
-| PM | \(Retrospective\) |  |  |  |  |
+| AM | Sprintplanning IPI | [Innovation](innovation.md) | [Innovation](innovation.md) | [Innovation](innovation.md) | [Inspect and Adapt](inspect-and-adapt.md) |
+| AM | \([Retrospectieve](retrospective.md)\) | [Capacity check](capacity-check.md) DEV + Design |  |  |  |
+| PM | [Innovation](innovation.md) | [Innovation](innovation.md) | [Innovation](innovation.md) | [Innovation](innovation.md) | [Inspect and Adapt](inspect-and-adapt.md) |
+| PM | \([Retrospective](retrospective.md)\) |  |  |  |  |
 
 _**WEEK 2 IPI: Focus on Groeispurtplanning \(CPD and prep\) - Retrospective and Sprintdemo IPI**_
 
 | Dag/Deel | Maandag | Dinsdag | Woensdag | Donderdag | Vrijdag |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| AM | Impact Mapping | Impact Mapping | Story Mapping | CPD | Retrospective |
-| AM | Story Mapping | Story Mapping | Impact Mapping |  |  |
-| PM | Impact Mapping | Impact Mapping | Capacity Check PM's ifv planning | CPD | Sprintdemo IPI |
-| PM | Story Mapping | Story Mapping |  |  | Prepare backlog for sprint 1 |
+| AM | [Impact Mapping](impact-mapping.md) | [Impact Mapping](impact-mapping.md) | [Story Mapping](story-mapping.md) | [CPD](./#centrale-planningsdag-cpd) | [Retrospective](retrospective.md) |
+| AM | [Story Mapping](story-mapping.md) | [Story Mapping](story-mapping.md) | [Impact Mapping](impact-mapping.md) |  |  |
+| PM | [Impact Mapping](impact-mapping.md) | [Impact Mapping](impact-mapping.md) | [Capacity Check](capacity-check.md) PM's ifv planning | [CPD](./#centrale-planningsdag-cpd) | Sprintdemo IPI |
+| PM | [Story Mapping](story-mapping.md) | [Story Mapping](story-mapping.md) |  |  | Prepare backlog for sprint 1 |
 
 {% hint style="warning" %}
 The capacity of an IPI can not be used to reach the Groeispurt targets and thus may not be considered as an extra sprint to build product features. The sprint should be used to give the teams time to work on innovation for future purposes, to document what was built, to prepare and plan the next Groeispurt and to look back on how the team performed in the Groeispurt that is approaching its end.
@@ -106,45 +106,4 @@ It provides time for all actors involved in our agile product development to …
 * align with other product teams to realise shared solutions. 
 
 When? De Centrale Planningsdag \(CPD\) is organised every second Thursday of the IPI.
-
-### Typical IPI-activities explained
-
-#### Retrospective
-
-The sprint retrospective is a recurring meeting held at the end of a Groeispurt and is used to discuss what went well during the previous Groeispurt cycle and what can be improved in the next Groeispurt. The Agile sprint retrospective is an essential part of the Agile Scrum way of working. At Digiteam ABB we agreed to do a retrospective at the end of four sprints and not at the end of every sprint. Issues that arise during the sprint and that have a \(severe\) impact on the collaboration of the product teams or on their efficiency are of course dealt with immediately by the team and the scrum master\(s\) and do not wait until the retrospective at the end of the Groeispurt. Consequently and ad hoc retrospective is possible.
-
-#### Inspect and Adapt
-
-Currently, the Inspect and Adapt workshop is a new element in the scaled agile method of building and delivering products at Digiteam ABB. Therefore it is not applied to the fullest extend it is being described by[ the Scaled Agile Framework](https://www.scaledagileframework.com/inspect-and-adapt/). 
-
-According to the Scaled Agile Framework, the Inspect and Adapt event typically consists of 3 parts:  
-1. PI System Demo   
-2. Quantitative and qualitative measurement  
-3. Retrospective and problem-solving workshop
-
-Currently at Digiteam the Inspect and Adapt - where organized - focusses on a retrospective and problem solving/ inventory workshop with the product team to determine what needs to be further taken up in an upcoming Groeispurt.  
-
-#### Capacity check
-
-The capacity check\(s\) performed during the IPI are a moment to gather information on the availability of team members during the upcoming Groeispurt. The check is necessary to prevent team members being "overplannend" in one or more product teams leading to frustration and ultimately sprint targets not being reached. A capacity check with the developers, designers and analysts is followed by a capacity check with Product Managers and Product Owners on the day before the CPD. The outcome of the check is a view on the available mandays per team member per sprint. This info is then used to plan work during the planning session of the CPD.
-
-#### Impact Mapping
-
-The technique of Impact mapping helps the producteams at Digiteam ABB and their stakeholders not only to visualise the product roadmaps but also to explain how deliverables connect to user needs, and communicate how user outcomes relate to higher level solutions and value streams.
-
-For our impact mappings we use a technique of impact maps, described by [Neuri Consulting LLP](https://www.impactmapping.org). In making and updating the impact maps of a product the teams think about behaviour changes that would have a big impact on the users of the product. Next, we write them down in the impact map and group the impacts by actors, personas or user categories using branches. Next, per branch \(impact per group\) we add deliverables that could support those behaviour changes and target dates we aim for to realize the impact. Subsequently we include the organizational goals supported by those impacts in the mindmap. 
-
-#### Story Mapping
-
-A user story map helps you arrange user stories into a useful model for understanding the functionality of a system, identifying holes and omissions in your backlog, and effectively plan  releases that deliver the best possible value to users and business at the time through releases.
-
-User Story Map is becoming a popular user story management technique through the efforts of [**Jeff Patton**](http://jpattonassociates.com/blog/) and others. The user story tool allows you to establish multiple levels and dimensions for a product backlog through the breakdown of user needs as user activities, user tasks, epics and user stories. Typically, an agile development team makes use of story map in collaborative meetings in identifying the desired results the end users want to achieve.
-
-
-
-
-
-
-
-
 
