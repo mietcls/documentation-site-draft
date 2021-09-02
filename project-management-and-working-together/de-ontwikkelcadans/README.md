@@ -17,9 +17,9 @@ Big challenges are broken down in smaller, manageable parts. In doing so a const
 
 ## We try to keep a constant pace on three levels:
 
-* Our Rolling Wave based[ **roadmap**](de-ontwikkelcadans.md#roadmap) looks ahead for at least one year.
-* The ****[**Groeispurts**](de-ontwikkelcadans.md#groeispurt) of ten weeks systematically end with a [**Centrale Planningsdag**](de-ontwikkelcadans.md#centrale-planningsdag).
-* Every Groeispurt consists out of four [**sprints**](de-ontwikkelcadans.md#ontwikkelsprint) ****and one[ **IPI**](de-ontwikkelcadans.md#innovatie-en-planning-iteratie-ipi).
+* Our Rolling Wave based[ **roadmap**](./#roadmap) looks ahead for at least one year.
+* The ****[**Groeispurts**](./#groeispurt) of ten weeks systematically end with a [**Centrale Planningsdag**](./#centrale-planningsdag).
+* Every Groeispurt consists out of four [**sprints**](./#ontwikkelsprint) ****and one[ **IPI**](./#innovatie-en-planning-iteratie-ipi).
 
 {% hint style="info" %}
 The release of product features that have been developed and tested is not necessarily linked to the pace we follow at our three levels. 
@@ -33,7 +33,7 @@ The release of product features that have been developed and tested is not neces
 
 #### Groeispurt
 
-![](../.gitbook/assets/sprint+ipi.png)
+![](../../.gitbook/assets/sprint+ipi.png)
 
 A groeispurt has a duration of ten weeks. It contains four development sprints and one Innovation and Planning Iteration. During the last week of a groeispurt a Centrale Planningsdag \(CPD\) is held where the goals for the next groeispurt are being determined and feature planning for the products are made and agreed upon. 
 
@@ -41,7 +41,7 @@ Because we all work in periods of ten weeks, we keep sufficient focus on setting
 
 #### \(Development\) Sprint
 
-![](../.gitbook/assets/sprint.png)
+![](../../.gitbook/assets/sprint.png)
 
 A sprint is well defined period of two weeks in which the product team starts working together to achieve a clear sprint goal. Sprints are following each other immediately and have fixed elements/ rituals: 
 
@@ -53,7 +53,7 @@ A sprint is well defined period of two weeks in which the product team starts wo
 
 #### Innovatie en Planning Iteratie \(IPI\)
 
-![](../.gitbook/assets/ipi.png)
+![](../../.gitbook/assets/ipi.png)
 
 Next to the development of features, which is a core focus for every product scrum team, there is a need as well for other activities that make product teams grow. For that reason every last two weeks of a Groeispurt are atypical because it explicitly makes room for … 
 
@@ -95,25 +95,19 @@ The capacity of an IPI can not be used to reach the Groeispurt targets and thus 
 
 ### Centrale Planningsdag - CPD
 
-![](../.gitbook/assets/cpd.png)
+![](../../.gitbook/assets/cpd.png)
 
 The central planningsday is a crucial moment to look back at the Groeispurt that is ending and to look ahead and plan for the next Groeispurt. Therefore it is situated inbetween two Groeispurts. 
 
 It provides time for all actors involved in our agile product development to … 
 
 * show wat has been realised in a series of plenary product demo's.
-* plan the next Groeispurt using the preparation that has been made in the days proceeding the CPD. Ultimately epics \(product features\) will be planned for execution. Their execution will contribute to the  [oplossingen](levensloop-van-een-oplossing.md#oplossingen-hoe) they are linked to.
+* plan the next Groeispurt using the preparation that has been made in the days proceeding the CPD. Ultimately epics \(product features\) will be planned for execution. Their execution will contribute to the  [oplossingen](../levensloop-van-een-oplossing.md#oplossingen-hoe) they are linked to.
 * align with other product teams to realise shared solutions. 
 
 When? De Centrale Planningsdag \(CPD\) is organised every second Thursday of the IPI.
 
 ### Typical IPI-activities explained
-
-#### Innovation
-
-One of the pillars of the SAFe Lean-Agile Mindset is innovation, but finding time for ideation and change in the midst of delivery deadlines can be difficult. To this end, many enterprises use IP iterations for research and design activities such as hackathons. There are two simple rules for hackathons: People can work on whatever they want, with whomever they want, so long as the work reflects the mission of the company The teams demo their work to others at the end of the hackathon The learnings from hackathons routinely make their way into Program Backlogs and often help drive innovation.
-
-© Scaled Agile, Inc.
 
 #### Retrospective
 

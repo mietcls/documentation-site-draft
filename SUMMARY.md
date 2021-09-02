@@ -71,7 +71,9 @@
 
 ## Project Management & Samenwerking <a id="project-management-and-working-together"></a>
 
-* [Agile product development at ABB](project-management-and-working-together/de-ontwikkelcadans.md)
+* [Agile product development at ABB](project-management-and-working-together/de-ontwikkelcadans/README.md)
+  * [Retrospective](project-management-and-working-together/de-ontwikkelcadans/retrospective.md)
+  * [Innovation](project-management-and-working-together/de-ontwikkelcadans/innovation.md)
 * [Levensloop van een oplossing](project-management-and-working-together/levensloop-van-een-oplossing.md)
 * [Rollen](project-management-and-working-together/rollen.md)
 * [Tools to collaborate at Digital](project-management-and-working-together/working-together-and-product/README.md)

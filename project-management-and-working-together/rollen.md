@@ -19,7 +19,7 @@ Alle rollen binnen de SAFe-werking binnen het projectteam staan zo dicht mogelij
 * 
 ![](../.gitbook/assets/productteam.png)
 
-Een Product team bestaat uit een Product Owner, Scrum Master en ontwikkelteam. Op basis van Scrum worden door de product teams nieuwe functionaliteiten en oplossingen opgeleverd in de [ontwikkelcadans](de-ontwikkelcadans.md). 
+Een Product team bestaat uit een Product Owner, Scrum Master en ontwikkelteam. Op basis van Scrum worden door de product teams nieuwe functionaliteiten en oplossingen opgeleverd in de [ontwikkelcadans](de-ontwikkelcadans/). 
 
 Product teams hebben alle benodigde vaardigheden  om elke Sprint waarde te creëren. Ze zijn dus **multidisciplinair**. Daarnaast is het Scrum Team **zelfsturend** en bepalen ze dus onderling wie wat opneemt.
 
@@ -69,7 +69,7 @@ De Product Manager definieert op een strategisch niveau de visie voor de klanten
 
 ### Treinbegeleider
 
-De treinbegeleider zorgt ervoor dat de nodige procesmatige en technische afstemming \(tussen producten\) gebeurt en jaagt dit zelfs aan. Hiervoor start die idealiter vanuit de [roadmap](de-ontwikkelcadans.md#roadmap) en de [waardestromen](levensloop-van-een-oplossing.md#waardestromen-waarom).  
+De treinbegeleider zorgt ervoor dat de nodige procesmatige en technische afstemming \(tussen producten\) gebeurt en jaagt dit zelfs aan. Hiervoor start die idealiter vanuit de [roadmap](de-ontwikkelcadans/#roadmap) en de [waardestromen](levensloop-van-een-oplossing.md#waardestromen-waarom).  
 Daarnaast begeleidt de treinbegeleider het leren en continue verbeteren van de SAFe-werking. Dit zowel binnen het Project Team als ruimer in heel ABB.
 
 * werkt nauw samen met de Product Owners en Product Managers om afstemming te stimuleren en begeleiden;
