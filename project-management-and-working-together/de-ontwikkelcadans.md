@@ -35,9 +35,7 @@ The release of product features that have been developed and tested is not neces
 
 ![](../.gitbook/assets/sprint+ipi.png)
 
-A groeispurt has a duration of ten weeks. It contains four development sprints and one Innovation and Planning Iteration. During the last week of a groeispurt a Centrale Planningsdag \(CPD\) is held where the targets for the next groeispurt are being determined and feature planning for the products are made and agreed upon. 
-
-
+A groeispurt has a duration of ten weeks. It contains four development sprints and one Innovation and Planning Iteration. During the last week of a groeispurt a Centrale Planningsdag \(CPD\) is held where the goals for the next groeispurt are being determined and feature planning for the products are made and agreed upon. 
 
 Because we all work in periods of ten weeks, we keep sufficient focus on setting the necessary steps in the development of our products and at the same time we remain agile to cope with ever changing contexts. In doing so the scrum teams have a clear focus on the spurt and sprint goals for the upcoming ten weeks, leaving room for focus shift in the next Groeispurt in case priorities within ABB are all of a sudden changing. 
 
@@ -57,7 +55,7 @@ A sprint is well defined period of two weeks in which the product team starts wo
 
 ![](../.gitbook/assets/ipi.png)
 
-Next to the development of features, which is a core focus for every product scrum team, there is a need as well for other activities that make product teams grow. For that reason every last sprint of a Groeispurt is atypical because it explicitly makes room for … 
+Next to the development of features, which is a core focus for every product scrum team, there is a need as well for other activities that make product teams grow. For that reason every last two weeks of a Groeispurt are atypical because it explicitly makes room for … 
 
 * Innovation and experiments
 * Training
@@ -73,7 +71,7 @@ Typical IPI-activities are: testing new technologies, sharing newly developped f
 
 Our IPI calendar at ABB currently looks like:
 
-_**WEEK 1 IPI: FOCUS onsprintplanning IPI - Innovation - Inspect and adapt**_
+_**WEEK 1 IPI: FOCUS on sprintplanning IPI - Innovation - Inspect and adapt**_
 
 | Day/Part | Monday | Tuesday | Wednesday | Thursday | Friday |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -92,22 +90,22 @@ _**WEEK 2 IPI: Focus on Groeispurtplanning \(CPD and prep\) - Retrospective and 
 | PM | Story Mapping | Story Mapping |  |  | Prepare backlog for sprint 1 |
 
 {% hint style="warning" %}
-The capacity of an IPI can not be used to reach the Groeispurt targets and thus be considerd as an extra sprint to build product features. The sprint should be used to give the teams time to work on innovation for future purposes, to document what was built, to prepare and plan the next Groeispurt and to look back on how the team performed in the Groeispurt that is approaching its end.
+The capacity of an IPI can not be used to reach the Groeispurt targets and thus may not be considered as an extra sprint to build product features. The sprint should be used to give the teams time to work on innovation for future purposes, to document what was built, to prepare and plan the next Groeispurt and to look back on how the team performed in the Groeispurt that is approaching its end.
 {% endhint %}
 
 ### Centrale Planningsdag - CPD
 
 ![](../.gitbook/assets/cpd.png)
 
-The central planningsday is an crucial moment to look back at the Groeispurt that is ending and to look ahead and plan for the next Groeispurt. Therefore it is situated inbetween two Groeispurts. 
+The central planningsday is a crucial moment to look back at the Groeispurt that is ending and to look ahead and plan for the next Groeispurt. Therefore it is situated inbetween two Groeispurts. 
 
 It provides time for all actors involved in our agile product development to … 
 
 * show wat has been realised in a series of plenary product demo's.
 * plan the next Groeispurt using the preparation that has been made in the days proceeding the CPD. Ultimately epics \(product features\) will be planned for execution. Their execution will contribute to the  [oplossingen](levensloop-van-een-oplossing.md#oplossingen-hoe) they are linked to.
-* align with other product teams to realize shared solutions. 
+* align with other product teams to realise shared solutions. 
 
-When? De Centrale Planningsdag \(CPD\) is organized every second Thursday of the IPI.
+When? De Centrale Planningsdag \(CPD\) is organised every second Thursday of the IPI.
 
 ### Typical IPI-activities explained
 
