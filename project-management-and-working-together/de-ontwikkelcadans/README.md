@@ -27,7 +27,13 @@ The release of product features that have been developed and tested is not neces
 
 ### Roadmap
 
-@Heidi Vul jij dit aan met een beschrijving? Afbeelding en link naar de roadmap?
+We gebruiken een vrij uitgebreide roadmap. Daarbij vinden we het belangrijk dat we concreet definiëren voor welke doelgroep de desbetreffende functionaliteit meerwaarde oplevert. Deze bijgewerkte roadmap op middellange termijn vindt u in onze [online-tool](https://digiteamabb.airfocus.com/share/e10b08ccff8cb4548c5c5c7525caf368)\[1\] die gelinkt is aan de JIRA-tool die het hele productteam gebruikt voor de planning en opvolging van de sprints & spurts in de scaled agile werking.
+
+![](../../.gitbook/assets/image%20%2812%29.png)
+
+Het opstellen en bijsturen van de roadmap is een continue gegeven: deze wordt elke groeispurt bijgestuurd in functie van de resultaten en ervaringen van de afgelopen groeispurt en eventuele bijkomende doelen of gewijzigde prioriteiten.
+
+\[1\] [https://digiteamabb.airfocus.com/share/e10b08ccff8cb4548c5c5c7525caf368](https://digiteamabb.airfocus.com/share/e10b08ccff8cb4548c5c5c7525caf368)
 
 ### Spurten and Sprinten?
 
