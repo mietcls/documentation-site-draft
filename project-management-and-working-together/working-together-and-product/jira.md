@@ -32,7 +32,33 @@ As long as we need to 'think' about the content of a user story we are refining 
 
 **Meeting stories** are sometimes used by teams to capture work for long meetings \(e.g. the central planning day\) to make sure capacity is attributed to them. Some product teams use them, other just take into account a 'buffer' of time for meetings while planning tickets in a new sprint.
 
+## Issue statusses and workflows in Jira
 
+When tickets are part of a sprint and they begin to be worked on, their statusses obviously change. In our Jira configuration we defined meaningful statusses and transitions between statusses. Once a ticket is in a particular status, it is showed on one or more boards in a column that contains all tickets in the particular status. In this part we provide you an overview of the statusses and the flow behind them. It will help you understand their lifecycle from creation, refinement, development, testing and release. 
 
+### Workflow and status transitions for user stories
 
+User stories have the most elaborate status transitions flow since they are also used 'as vehicle' in the test and release process. Logically they contain functionalities of the product that need to be tested, \(bugfixed\) and released.
+
+The entire flow from initial status 'BACKLOG' until the final status 'RELEASED TO PRD' looks like this:
+
+![](../../.gitbook/assets/schermafbeelding-2021-09-10-om-09.25.21.png)
+
+#### From backlog into development
+
+Once a user story is planned into a sprint, the user story takes the initial status 'TE DOEN'. As soon as the team starts developing the elements described in the user story the story moves to ACTIEF. In case a \(code\) review is needed after the development is done, the status transitions to PEER REVIEW. Finally, when the team thinks the development of the user story is complete, the status is set to GEREED.
+
+#### From development into \(release and\) testing on TEST
+
+User stories can be submitted for testing. Once one or more stories are completed and the code deployments and configuration changes have been carried out on a testing environment, the dev team \(dev lead - deployment coordinator - individual developer\) changes the status of the user story to 'RELEASED TO TEST'. By changing the status, the user story ticket will appear on a testing board used by our testers. From there on the tester takes it over.
+
+While testing the user story the tester changes the status of the user stories to 'WORDT GETEST'. The result of the testing can either be ok -&gt; status 'GETEST OP TEST' or not ok -&gt; status 'HEROPEND'. If testing is not ok, feedback is provided by the tester in the comment section of the user story and one or more bugs are logged and linked to this user story. The bugs are put in the backlog and await a decision by the product owner and the team on priority and on the question of they need to be taken up in the active sprint or not. The user story remains in the status HEROPEND until all bugs linked to the user story are resolved.
+
+Once all the bugs are resolved the status of the user story can be changed from 'HEROPEND' to 'RERELEASE OP TEST'. This action makes the user story with linked bugs reappear on the testboard of the test team. From here on the same flow applies as described for the initial testing of the user story.
+
+#### Acceptance testing by business stakeholders
+
+After the user stories have been sucessfully tested and validated  on the test environment, they can be tested/ validated for acceptance on a QA or ACC environment. This is an environment that acts as a representative staging area for the production environment where the code ultimately needs to be released and found to be working as expected.
+
+A similar flow is being used as for the initial testing of the user story on the \(first\) TEST environment but with ACC instead of TEST. Once the acceptance testing of the user stories is completed on ACC, the status of the user story is changed - by the tester/ business stakeholder to 'GETEST op ACC'. This leaves the user story in the final but one state. It is up to the release coordinator, changeman to bring the code into production and after doing so change the status to 'RELEASED TO PRD'.
 
