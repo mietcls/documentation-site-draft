@@ -62,3 +62,9 @@ After the user stories have been sucessfully tested and validated  on the test e
 
 A similar flow is being used as for the initial testing of the user story on the \(first\) TEST environment but with ACC instead of TEST. Once the acceptance testing of the user stories is completed on ACC, the status of the user story is changed - by the tester/ business stakeholder to 'GETEST op ACC'. This leaves the user story in the final but one state. It is up to the release coordinator, changeman to bring the code into production and after doing so change the status to 'RELEASED TO PRD'.
 
+### Workflows and statusses for all other issue types in Jira
+
+All other issue types in Jira, described above, share the same process flow. This process flow is less elaborate than the one being used for user stories. This is because we do not expect any testing to be done on other issue types so we do not need the issues to evolve to a status after 'GEREED'. Therefore the share flow and statusses for all other issue types in Jira looks like:
+
+![](../../.gitbook/assets/schermafbeelding-2021-09-10-om-12.42.27.png)
+
