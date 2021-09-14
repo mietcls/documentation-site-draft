@@ -77,7 +77,7 @@ Deze kalender ziet er momenteel zo uit:
 
 _**WEEK 1 IPI: FOCUS op sprintplanning IPI - Innovatie - Inspect and adapt**_
 
-| Day/Part | Monday | Tuesday | Wednesday | Thursday | Friday |
+| Day/Part | Maandag | Dinsdag | Woensdag | Donderdag | Vrijdag |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | AM | Sprintplanning IPI | [Innovation](innovation.md) | [Innovation](innovation.md) | [Innovation](innovation.md) | [Inspect and Adapt](inspect-and-adapt.md) |
 | AM | \([Retrospectieve](retrospective.md)\) | [Capacity check](capacity-check.md) DEV + Design |  |  |  |
