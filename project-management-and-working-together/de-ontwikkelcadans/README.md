@@ -1,33 +1,33 @@
 # Agile product development at ABB
 
-The way we develop our products and collaborate together is based on the [Scaled Agile Framework \(SAFe\)](https://www.scaledagileframework.com), be it with some adaptations to better match our ABB Digiteam way of doing things and the number of people in our team.
+De manier waarop we onze producten ontwikkelen en samenwerken is gebaseerd op de  [Scaled Agile Framework \(SAFe\)](https://www.scaledagileframework.com) maar aangepast om beter te werken met de ABB Digiteam manier om dingen te doen en het aantal mensen in ons team.
 
 {% hint style="danger" %}
-This page is under construction. Do you read something weird? Please get in touch! [david.suijkerbuijk@vlaanderen.be](mailto:david.suijkerbuijk@vlaanderen.be)
+Deze pagina is nog in opbouw. Lees je iets raar? Vraag er even naar! [david.suijkerbuijk@vlaanderen.be](mailto:david.suijkerbuijk@vlaanderen.be)
 {% endhint %}
 
-## Agile product development! Why?
+## Agile ontwikkelen! Waarom?
 
-Big challenges are broken down in smaller, manageable parts. In doing so a constant flow emerges and as a team we can see our solutions grow.
+Grote uitdagingen worden in kleine, concrete stappen ontwikkeld. Zo ontstaat er een constante flow en zien we het geheel groeien.
 
-* Transparent overview on the work done and to be done
-* Divide our work in manageable parts
-* Plan enough and plan in a flexible way
-* Getting the responsabilities in the right place
+* Transparant overzicht houden op het werk 
+* Werken in behapbare blokken
+* Voldoende en flexibel plannen 
+* Verantwoordelijkheden op de juiste plaats
 
-## We try to keep a constant pace on three levels:
+## Vaste cadans op drie niveaus
 
-* Our Rolling Wave based[ **roadmap**](./#roadmap) looks ahead for at least one year.
-* The ****[**Groeispurts**](./#groeispurt) of ten weeks systematically end with a [**Centrale Planningsdag**](./#centrale-planningsdag).
-* Every Groeispurt consists out of four [**sprints**](./#ontwikkelsprint) ****and one[ **IPI**](./#innovatie-en-planning-iteratie-ipi).
+* Rollende [roadmap](./#roadmap) die minstens één jaar vooruit kijkt. 
+* [Groeispurts](./#groeispurt) van 10 weken eindigend met een [Centrale Planningsdag](./#centrale-planningsdag-cpd). 
+* Iedere Spurt bestaat uit [vier sprints](./#development-sprint) en [één IPI](./#innovatie-en-planning-iteratie-ipi).
 
 {% hint style="info" %}
-The release of product features that have been developed and tested is not necessarily linked to the pace we follow at our three levels. 
+Het releasen van ontwikkelingen is niet per definitie gekoppeld aan de cadans.
 {% endhint %}
 
 ### Roadmap
 
-We gebruiken een vrij uitgebreide roadmap. Daarbij vinden we het belangrijk dat we concreet definiëren voor welke doelgroep de desbetreffende functionaliteit meerwaarde oplevert. Deze bijgewerkte roadmap op middellange termijn vindt u in onze [online-tool](https://digiteamabb.airfocus.com/share/e10b08ccff8cb4548c5c5c7525caf368)\[1\] die gelinkt is aan de JIRA-tool die het hele productteam gebruikt voor de planning en opvolging van de sprints & spurts in de scaled agile werking.
+We gebruiken een vrij uitgebreide roadmap. Daarbij vinden we het belangrijk dat we concreet definiëren voor welke doelgroep de desbetreffende functionaliteit meerwaarde oplevert. Deze bijgewerkte roadmap op middellange termijn vind je in onze [online-tool](https://digiteamabb.airfocus.com/share/e10b08ccff8cb4548c5c5c7525caf368)\[1\] die gelinkt is aan de JIRA-tool die het hele productteam gebruikt voor de planning en opvolging van de sprints & spurts in de scaled agile werking.
 
 ![](../../.gitbook/assets/image%20%2812%29.png)
 
