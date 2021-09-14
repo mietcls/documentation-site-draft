@@ -2,12 +2,12 @@
 
 ## Microsoft Teams
 
-Microsoft Teams is used as the central communication tool for online communication. All classic agile scrum 'ceremonies' are held using Microsoft Teams \(e.g. sprint planning. stand-up, Backlog Refinement, Sprint demo's\) as well as the Groeispurt Preparation activities such as Impact- and Story Mapping, Spurt Planning and Spurt Retrospectives.
+Microsoft Teams wordt gebruikt als het centrale communicatiemiddel voor online communicatie. Alle klassieke agile scrum 'ceremonies' worden gehouden met behulp van Microsoft Teams \(o.a. sprintplanning, stand-up, Backlog Refinement, Sprint demo's\) evenals de Groeispurt Voorbereidingsactiviteiten zoals Impact- en Story Mapping, Spurt Planning en Spurt Retrospectives. 
 
-Furthermore, a number of products use Teams Channels to communicate efficiently on certain relevant topics related to builing, testing, releasing and operating the application\(s\).
+Verder gebruiken een aantal producten Teams Channels om efficiënt te communiceren over bepaalde relevante onderwerpen met betrekking tot het bouwen, testen, vrijgeven en bedienen van de applicatie\(s\).
 
 {% hint style="info" %}
-Questions? Contact Serge [serge.gillebeert@vlaanderen.be](mailto:serge.gillebeert@vlaanderen.be)
+Vragen? Contacteer Serge [serge.gillebeert@vlaanderen.be](mailto:serge.gillebeert@vlaanderen.be)
 {% endhint %}
 
 ## Sharepoint
