@@ -33,21 +33,21 @@ Het releasen van ontwikkelingen is niet per definitie gekoppeld aan de cadans.
 
 Het opstellen en bijsturen van de roadmap is een continue gegeven: deze wordt elke groeispurt bijgestuurd in functie van de resultaten en ervaringen van de afgelopen groeispurt en eventuele bijkomende doelen of gewijzigde prioriteiten.
 
-### Spurten and Sprinten?
+### Spurten en Sprinten?
 
 #### Groeispurt
 
 ![](../../.gitbook/assets/sprint+ipi.png)
 
-A groeispurt has a duration of ten weeks. It contains four development sprints and one Innovation and Planning Iteration. During the last week of a groeispurt a Centrale Planningsdag \(CPD\) is held where the goals for the next groeispurt are being determined and feature planning for the products are made and agreed upon. 
+Een groeispurt heeft steeds een duur van 10 weken. Het omvat vier ontwikkelsprints en een Innovatie en Planning Iteratie. In de laatste week van de een groeispurt is er een Centrale Planningsdag \(CPD\) waar de doelen voor de volgende groeispurt wordt vastgelegd.
 
-Because we all work in periods of ten weeks, we keep sufficient focus on setting the necessary steps in the development of our products and at the same time we remain agile to cope with ever changing contexts. In doing so the scrum teams have a clear focus on the spurt and sprint goals for the upcoming ten weeks, leaving room for focus shift in the next Groeispurt in case priorities within ABB are all of a sudden changing. 
+Door in periodes van 10 weken te werken is er voldoende focus om stappen te zetten maar niet te veel rigiditeit om met een steeds veranderende context om te gaan. Het geeft de ontwikkelteams een duidelijke focus voor 10 weken maar wel de mogelijkheid om met de volgende groeispurt in te spelen op \(veranderde\) prioriteiten uit de organisatie. 
 
-#### \(Development\) Sprint
+#### \(Ontwikkel\) Sprint
 
 ![](../../.gitbook/assets/sprint.png)
 
-A sprint is well defined period of two weeks in which the product team starts working together to achieve a clear sprint goal. Sprints are following each other immediately and have fixed elements/ rituals: 
+Een sprint is een afgebakende periode van twee weken waarin een productteam aan de slag gaat om een duidelijk sprintdoel te bereiken. Sprints volgen elkaar steeds direct op en hebben een aantal vaste elementen/rituelen: 
 
 * Sprint Planning
 * Standup
@@ -59,13 +59,13 @@ A sprint is well defined period of two weeks in which the product team starts wo
 
 ![](../../.gitbook/assets/ipi.png)
 
-Next to the development of features, which is a core focus for every product scrum team, there is a need as well for other activities that make product teams grow. For that reason every last two weeks of a Groeispurt are atypical because it explicitly makes room for … 
+Naast het ontwikkelen van functionaliteiten is er ook nood aan andere activiteiten om een product\(team\) verder te laten groeien. Daarom zijn de laatste twee weken van een groeispurt steeds speciaal omdat het expliciet ruimte biedt voor ... 
 
-* Innovation and experiments
-* Training
-* Planning activities for the next Groeispurt
+* Innovatie en experimenten 
+* Training 
+* Planningsactiviteiten voor volgende groeispurt
 
-When? The Innovation and Planning \(IPI\) iteration is organized at the end of a Groeispurt.
+Wanneer? De Innovatie en Planning \(IPI\) iteratie gebeurt steeds op het einde van een Spurt.
 
 #### Common structure for organizing the IPI at Digiteam ABB
 
