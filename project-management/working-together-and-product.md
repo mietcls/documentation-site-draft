@@ -18,6 +18,12 @@ Sharepoint is used to properly and securely capture administrative matters of th
 Questions? Sarah Macquoy [sarah.macquoy@vlaanderen.be](mailto:sarah.macquoy@vlaanderen.be)
 {% endhint %}
 
+## Miro
+
+We us Miro for various purposes. Product teams engage in Impact Mappings and Story Mappings at various times. During the Central Planning Day we prepare the product planning on Spurt level using a Miro board for every product. During the IPI Miro is also used to carry out Spurt retrospectives where needed.
+
+Some product teams make an even greater use of Miro also preparing product roadmaps and product releases in Miro. 
+
 ## Feature Passports
 
 A Feature Passport contains all the information to describe a specific functionality of a product. In this way we ensure that everyone understands what we are going to build and what its status is.
