@@ -38,26 +38,6 @@ Een Feature Passport bevat alle informatie om een bepaalde functionaliteit van e
 
 {% embed url="https://docs.google.com/document/d/1dlmUfAjWKNk3aZLs-m7P5bVMLUgE0FSW8B3atvqQtV4/edit\#heading=h.dyrpugldkvr8" %}
 
-## \(Agile\) Workshop Methods
-
-## \(Agile\) Workshop Methods
-
-### Story mapping
-
-Aligning priorities + defining MVP + defining future steps
-
-### Scoping workshop
-
-Gathering features, aligning priorities + defining MVP
-
-### Impact mapping
-
-Setting milestones, realistic goals, keeping track of goals
-
-### Retrospectives
-
-Setting milestones, realistic goals, keeping track of goals
-
 ## Inspiring books & studies on working together
 
 {% embed url="https://basecamp.com/shapeup" %}
