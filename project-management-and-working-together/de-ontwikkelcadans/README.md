@@ -67,13 +67,13 @@ Naast het ontwikkelen van functionaliteiten is er ook nood aan andere activiteit
 
 Wanneer? De Innovatie en Planning \(IPI\) iteratie gebeurt steeds op het einde van een Spurt.
 
-#### Common structure for organizing the IPI at Digiteam ABB
+#### Stramien voor de invulling van de IPI bij Digiteam ABB
 
-To organize the activities that are typically done in the IPI we made a calendar and plotted the must-have activities on that calendar. In plotting the activities we took into account some preferences of the team regarding meeting days and tried to group the innovation activities as one block to prevent focus drift between innovation and planning meetings. This calendar is being used as well to put placeholders for certain IPI activities in the personal calendars of people who need to attend. 
+Om de activiteiten die typisch in de IPI plaatsvinden te kunnen organiseren werd een kalender opgemaakt waarin elk van de noodzakelijke activiteiten een plaats kreeg.  Bij het uitzetten van de activiteiten hebben we rekening gehouden met enkele voorkeuren van het team met betrekking tot vergaderdagen en hebben we geprobeerd de innovatie-activiteiten als één blok te groeperen om focusverschuiving tussen innovatie en planningsvergaderingen te voorkomen. Deze kalender wordt gebruikt om bij de betrokken teams placeholders in de agenda te zetten zodat de nodige tijd wordt gevrijwaard in elke IPI.
 
-Typical IPI-activities are: testing new technologies, sharing newly developped functionalities with other teams, knowledge transfer, scoping sessions & brainstorms, retrospectives,  …
+Voorbeeldactiviteiten: testen nieuwe technologieën, breder delen van nieuwe functionaliteiten, kennisoverdracht, scoping sessies & brainstormen, retrospectieves, manier van werken herbekijken, ...
 
-Our IPI calendar at ABB currently looks like:
+Deze kalender ziet er momenteel zo uit: 
 
 _**WEEK 1 IPI: FOCUS on sprintplanning IPI - Innovation - Inspect and adapt**_
 
