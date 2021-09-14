@@ -20,9 +20,9 @@ Vragen? Contacteer Sarah Macquoy [sarah.macquoy@vlaanderen.be](mailto:sarah.macq
 
 ## Miro
 
-We us Miro for various purposes. Product teams engage in Impact Mappings and Story Mappings at various times. During the Central Planning Day we prepare the product planning on Spurt level using a Miro board for every product. During the IPI Miro is also used to carry out Spurt retrospectives where needed.
+Wij gebruiken Miro voor verschillende doeleinden. Productteams houden zich op verschillende momenten bezig met Impact Mappings en Story Mappings. Tijdens de Centrale Planningsdag stellen we de productplanning op Spurt-niveau op met behulp van een Miro-bord voor elk product. Tijdens de IPI wordt Miro ook gebruikt om Spurt retrospectives uit te voeren waar nodig. 
 
-Some product teams make an even greater use of Miro also preparing product roadmaps and product releases in Miro. 
+Sommige productteams maken nog meer gebruik van Miro en bereiden ook productroadmaps en productreleases voor in Miro.
 
 ## Figma
 
@@ -32,7 +32,13 @@ The prototyping tool Figma is used for [user interface](https://en.wikipedia.org
 
 Miet?
 
+## Feature Passports
 
+Een Feature Passport bevat alle informatie om een bepaalde functionaliteit van een product te berschrijven. Zo zorgen we ervoor dat iedereen begrijpt wat we gaan bouwen en wat de status daarvan is.
+
+{% embed url="https://docs.google.com/document/d/1dlmUfAjWKNk3aZLs-m7P5bVMLUgE0FSW8B3atvqQtV4/edit\#heading=h.dyrpugldkvr8" %}
+
+## \(Agile\) Workshop Methods
 
 ## \(Agile\) Workshop Methods
 
