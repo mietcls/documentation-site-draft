@@ -44,11 +44,3 @@ Een Feature Passport bevat alle informatie om een bepaalde functionaliteit van e
 
 {% embed url="https://opensource.guide" %}
 
-
-
-
-
-
-
-
-
