@@ -75,7 +75,7 @@ Voorbeeldactiviteiten: testen nieuwe technologieën, breder delen van nieuwe fu
 
 Deze kalender ziet er momenteel zo uit: 
 
-_**WEEK 1 IPI: FOCUS on sprintplanning IPI - Innovation - Inspect and adapt**_
+_**WEEK 1 IPI: FOCUS op sprintplanning IPI - Innovatie - Inspect and adapt**_
 
 | Day/Part | Monday | Tuesday | Wednesday | Thursday | Friday |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -84,7 +84,7 @@ _**WEEK 1 IPI: FOCUS on sprintplanning IPI - Innovation - Inspect and adapt**_
 | PM | [Innovation](innovation.md) | [Innovation](innovation.md) | [Innovation](innovation.md) | [Innovation](innovation.md) | [Inspect and Adapt](inspect-and-adapt.md) |
 | PM | \([Retrospective](retrospective.md)\) |  |  |  |  |
 
-_**WEEK 2 IPI: Focus on Groeispurtplanning \(CPD and prep\) - Retrospective and Sprintdemo IPI**_
+_**WEEK 2 IPI: Focus op Groeispurtplanning - Retrospectieve en Sprintdemo IPI**_
 
 | Dag/Deel | Maandag | Dinsdag | Woensdag | Donderdag | Vrijdag |
 | :--- | :--- | :--- | :--- | :--- | :--- |
