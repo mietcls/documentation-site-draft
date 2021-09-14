@@ -12,8 +12,10 @@ Vragen? Contacteer Serge [serge.gillebeert@vlaanderen.be](mailto:serge.gillebeer
 
 ## Sharepoint
 
+Sharepoint wordt gebruikt om administratieve zaken van de werking en documenten die persoonsinformatie bevatten goed en veilig te capteren. Bijvoorbeeld de aanwezigheidskalender en contracten worden op deze manier bijgehouden.
+
 {% hint style="info" %}
-Questions? Sarah Macquoy [sarah.macquoy@vlaanderen.be](mailto:sarah.macquoy@vlaanderen.be)
+Vragen? Contacteer Sarah Macquoy [sarah.macquoy@vlaanderen.be](mailto:sarah.macquoy@vlaanderen.be)
 {% endhint %}
 
 ## Miro
