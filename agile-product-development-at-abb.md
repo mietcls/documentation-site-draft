@@ -29,5 +29,7 @@ The release of product features that have been developed and tested is not neces
 
 We use a comprehensive roadmap. We find it important to define for who a specific functionality will provide value. This roadmap can be found in our [online-tool](https://digiteamabb.airfocus.com/share/e10b08ccff8cb4548c5c5c7525caf368) which is linked to JIRA. JIRA is used by the productteams to plan and follow-up sprints and spurts.
 
+![](.gitbook/assets/image%20%2812%29.png)
+
 Creating and adjusting the roadmap is a continuous process: this is adjusted every spurt in function of the results and experiences of the past spurt and any additional goals or changed priorities.
 
