@@ -71,3 +71,7 @@
 * [Working Together & Product](project-management/working-together-and-product.md)
 * [Feature Passports](project-management/feature-passports.md)
 
+---
+
+* [Agile product development at ABB](agile-product-development-at-abb.md)
+
