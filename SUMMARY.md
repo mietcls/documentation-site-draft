@@ -80,7 +80,7 @@
   * [Inspect and Adapt](project-management-and-working-together/de-ontwikkelcadans/inspect-and-adapt.md)
 * [Levensloop van een oplossing](project-management-and-working-together/levensloop-van-een-oplossing.md)
 * [Rollen](project-management-and-working-together/rollen.md)
-* [Tools to collaborate at Digital](project-management-and-working-together/working-together-and-product/README.md)
+* [Tools om samen te werken](project-management-and-working-together/working-together-and-product/README.md)
   * [Jira](project-management-and-working-together/working-together-and-product/jira.md)
   * [Feature Passports](project-management-and-working-together/working-together-and-product/feature-passports.md)
 
