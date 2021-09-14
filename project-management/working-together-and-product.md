@@ -20,7 +20,7 @@ Questions? Sarah Macquoy [sarah.macquoy@vlaanderen.be](mailto:sarah.macquoy@vlaa
 
 ## Feature Passports
 
-Making sure everyone understands what we are going to build, and what the status is.
+A Feature Passport contains all the information to describe a specific functionality of a product. In this way we ensure that everyone understands what we are going to build and what its status is.
 
 {% embed url="https://docs.google.com/document/d/1dlmUfAjWKNk3aZLs-m7P5bVMLUgE0FSW8B3atvqQtV4/edit\#heading=h.dyrpugldkvr8" %}
 
