@@ -46,11 +46,3 @@ A Feature Passport contains all the information to describe a specific functiona
 
 {% embed url="https://opensource.guide" %}
 
-
-
-
-
-
-
-
-
