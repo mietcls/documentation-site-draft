@@ -27,7 +27,7 @@ Het releasen van ontwikkelingen is niet per definitie gekoppeld aan de cadans.
 
 ### Roadmap
 
-We gebruiken een vrij uitgebreide roadmap. Daarbij vinden we het belangrijk dat we concreet definiëren voor welke doelgroep de desbetreffende functionaliteit meerwaarde oplevert. Deze bijgewerkte roadmap op middellange termijn vind je in onze [online-tool](https://digiteamabb.airfocus.com/share/e10b08ccff8cb4548c5c5c7525caf368)\[1\] die gelinkt is aan de JIRA-tool die het hele productteam gebruikt voor de planning en opvolging van de sprints & spurts in de scaled agile werking.
+We gebruiken een vrij uitgebreide roadmap. Daarbij vinden we het belangrijk dat we concreet definiëren voor welke doelgroep de desbetreffende functionaliteit meerwaarde oplevert. Deze bijgewerkte roadmap op middellange termijn vind je in onze [online-tool](https://digiteamabb.airfocus.com/share/e10b08ccff8cb4548c5c5c7525caf368) die gelinkt is aan de JIRA-tool die het hele productteam gebruikt voor de planning en opvolging van de sprints & spurts in de scaled agile werking.
 
 ![](../../.gitbook/assets/image%20%2812%29.png)
 
