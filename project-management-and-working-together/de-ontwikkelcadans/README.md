@@ -101,13 +101,13 @@ De capaciteit van de IPI mag niet worden ingecalculeerd voor het halen van de Sp
 
 ![](../../.gitbook/assets/cpd.png)
 
-The central planningsday is a crucial moment to look back at the Groeispurt that is ending and to look ahead and plan for the next Groeispurt. Therefore it is situated inbetween two Groeispurts. 
+De centrale planningsdag is een essentieel terugblikmoment om terug te kijken naar de Groeispurt die eindigt en te plannen voor de volgende Groeispurt. Daarom vindt deze plaats tussen twee groeispurten in.
 
-It provides time for all actors involved in our agile product development to … 
+Het geeft tijd aan alle actoren in onze agile productontwikkeling om  ...
 
-* show wat has been realised in a series of plenary product demo's.
-* plan the next Groeispurt using the preparation that has been made in the days proceeding the CPD. Ultimately epics \(product features\) will be planned for execution. Their execution will contribute to the  [oplossingen](../levensloop-van-een-oplossing.md#oplossingen-hoe) they are linked to.
-* align with other product teams to realise shared solutions. 
+* Delen van gerealiseerde oplossingen a.h.v. demo’s in een plenaire sessie.
+* Plannen van de volgende Spurt o.b.v. de voorbereiding die vooraf gemaakt werd tijdens de IPI. Epics \(productfunctionaliteiten\) worden gepland om uit te voeren. Hun implementatie draagt uiteindelijk bij  tot [oplossingen](../levensloop-van-een-oplossing.md#oplossingen-hoe) waaraan ze gelinkt zijn.
+*  Afstemming tussen verschillende producten om tot gedeelde oplossingen te komen
 
-When? De Centrale Planningsdag \(CPD\) is organised every second Thursday of the IPI.
+Wanneer? De Centrale Planningsdag \(CPD\) gebeurt steeds tijdens de IPI op laatste donderdag van een Spurt.
 
