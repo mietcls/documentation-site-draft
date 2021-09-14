@@ -33,8 +33,6 @@ Het releasen van ontwikkelingen is niet per definitie gekoppeld aan de cadans.
 
 Het opstellen en bijsturen van de roadmap is een continue gegeven: deze wordt elke groeispurt bijgestuurd in functie van de resultaten en ervaringen van de afgelopen groeispurt en eventuele bijkomende doelen of gewijzigde prioriteiten.
 
-\[1\] [https://digiteamabb.airfocus.com/share/e10b08ccff8cb4548c5c5c7525caf368](https://digiteamabb.airfocus.com/share/e10b08ccff8cb4548c5c5c7525caf368)
-
 ### Spurten and Sprinten?
 
 #### Groeispurt
