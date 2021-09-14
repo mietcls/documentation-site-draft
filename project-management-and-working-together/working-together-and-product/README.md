@@ -1,11 +1,5 @@
 # Tools om samen te werken
 
-
-
-{% embed url="https://www.scaledagileframework.com/design-thinking/" %}
-
-
-
 ## Microsoft Teams
 
 Microsoft Teams is used as the central communication tool for online communication. All classic agile scrum 'ceremonies' are held using Microsoft Teams \(e.g. sprint planning. stand-up, Backlog Refinement, Sprint demo's\) as well as the Groeispurt Preparation activities such as Impact- and Story Mapping, Spurt Planning and Spurt Retrospectives.
