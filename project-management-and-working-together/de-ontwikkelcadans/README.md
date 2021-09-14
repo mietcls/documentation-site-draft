@@ -94,7 +94,7 @@ _**WEEK 2 IPI: Focus op Groeispurtplanning - Retrospectieve en Sprintdemo IPI**_
 | PM | [Story Mapping](story-mapping.md) | [Story Mapping](story-mapping.md) |  |  | Prepare backlog for sprint 1 |
 
 {% hint style="warning" %}
-The capacity of an IPI can not be used to reach the Groeispurt targets and thus may not be considered as an extra sprint to build product features. The sprint should be used to give the teams time to work on innovation for future purposes, to document what was built, to prepare and plan the next Groeispurt and to look back on how the team performed in the Groeispurt that is approaching its end.
+De capaciteit van de IPI mag niet worden ingecalculeerd voor het halen van de Spurt-doelen. Het niet gewoon een 'extra' sprint.
 {% endhint %}
 
 ### Centrale Planningsdag - CPD
