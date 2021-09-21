@@ -68,3 +68,45 @@ All other issue types in Jira, described above, share the same process flow. Thi
 
 ![](../../.gitbook/assets/schermafbeelding-2021-09-10-om-12.42.27.png)
 
+## Template for a user story
+
+A user story is a short, well described element - part of an epic - in which a certain change in the functionality\(ies\) of a product is being recorded. It is very tangible, i.e, the scrum team understand what is asked and how to build it, the tester understands what was asked and can test the delivered functionality accordingly. 
+
+**ABB-template for a user story**
+
+**Short title** 
+
+Korte, kernachtige titel die de \(User\) Story in treffend verwoord. Deze korte titel is nodig in functie van de weergave in Jira waar slechts een beperkt aantal karakters waarmee de \(User\) Story begint worden getoond. Doel van de korte titel is de \(User\) Story makkelijk terug vinden in overzichtslijsten getoond in JIRA. 
+
+**Long title**
+
+Volledige titel van de \(User\) Story. Deze titel kan de klassieke \(User\) Story terminologie bevatten zoals “ Als gebruiker van de toepassing kan ik … zodat… ”  
+
+**Link to the epic**
+
+A user story is \(always linked\) to an epic. All the user stories that are linked to an epic \(as children of the epic\) form the 'feature' of the application part that will be built and released. When a user story is **ready** it can or may be tested. When all the user stories of an epic are completed the entire feature must be tested and validated before the epic can be marked as **done**.
+
+**Context**
+
+De context rubriek geeft meer achtergrond en duiding bij de \(User\) Story. Hiervoor kan verwezen worden naar de beschrijving van de Epic waar de \(User\) Story toe behoort. Klassiek wordt in de Epic de reden toegelicht waarom de \(User\) Stories werden gecreëerd. Daarnaast kan de context ook informatie bevatten hoe de \(User\) Story in kwestie zich verhoudt tot andere \(User\) Stories, al of niet in dezelfde Epic. De context bevat nuttige informatie voor de lezer van de \(User\) Story over het waarom \(van waar komt de vraag?\) en de prioriteit die aan de \(User\) Story werd gegeven door de Product Manager.
+
+**Decription**
+
+De beschrijving van de \(User\) Story bevat alle nodige informatie voor het team dat de \(User\) Story dient uit te voeren. Deze informatie verschilt naargelang het type \(User\) Story en de specifieke inhoud ervan. Enige vereiste daar is dat de informatie die hierin wordt opgenomen op zijn minst een keer werd nagelezen door het team dat de \(User\) Story moet uitvoeren. In de beschrijving komt een duidelijke beschrijving van de scope met daarnaast de nodige inhoudelijke informatie zoals gebruikersbehoeften, schermontwerpen, sequentiediagrammen, informatiemodellen, niet-functionele vereisten, contextdiagrammen, ...
+
+**Definition of Ready**
+
+Deze rubriek bevat een duidelijke omschrijving van alle voorwaarden waaraan de uitvoering van de \(User\) Story moet voldoen om deze als klaar te kunnen aanduiden. Het is als het ware een controlelijst om bij oplevering van de \(User\) Story te kunnen beoordelen of de \(User\) Story helemaal afgewerkt is. 
+
+**Out of Scope**
+
+In vele gevallen is het - naast het uitdrukkelijk omschrijven van wat er in scope zit van de \(User\) Story - ook nuttig om expliciet neer te schrijven wat er niet in scope is. Dit moet vrije interpretaties van de scope tijdens de uitvoeringsfase vermijden, zeker in geval de beschrijving van wat er in scope is ruimte voor interpretatie zou laten.
+
+**Attachments**
+
+Eventuele documenten of externe informatiebronnen waar naar verwezen wordt in de \(User\) Story, dit kunnen bijvoorbeeld technische standaarden zijn of verslagen, gebruikersbevragingen, onderzoeken, mock-up schermen, user flows, etc. 
+
+**Labels** \(= trefwoorden of tags\)
+
+Trefwoorden toekennen \(uit een voorafbepaalde lijst bij ABB of zelf bedacht\) biedt het voordeel dat hierop filters kunnen toegepast worden wat het bundelen en opzoeken van \(User\) Stories en het communiceren over \(User\) Stories met anderen vergemakkelijkt. Verder in dit document is een ABB-trefwoordenlijst voor \(User\) Stories opgenomen waar trefwoorden uit gebruikt kunnen worden.
+
