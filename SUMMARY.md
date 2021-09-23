@@ -68,10 +68,7 @@
 
 ## Project management & working together <a id="project-management"></a>
 
+* [Agile product development at ABB](project-management/agile-product-development-at-abb.md)
 * [Tools to wor together](project-management/working-together-and-product.md)
 * [Feature Passports](project-management/feature-passports.md)
-
----
-
-* [Agile product development at ABB](agile-product-development-at-abb.md)
 

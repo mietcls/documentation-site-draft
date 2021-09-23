@@ -29,7 +29,7 @@ The release of product features that have been developed and tested is not neces
 
 We use a comprehensive roadmap. We find it important to define for who a specific functionality will provide value. This roadmap can be found in our [online-tool](https://digiteamabb.airfocus.com/share/e10b08ccff8cb4548c5c5c7525caf368) which is linked to JIRA. JIRA is used by the productteams to plan and follow-up sprints and spurts.
 
-![](.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 Creating and adjusting the roadmap is a continuous process: this is adjusted every spurt in function of the results and experiences of the past spurt and any additional goals or changed priorities.
 
@@ -37,7 +37,7 @@ Creating and adjusting the roadmap is a continuous process: this is adjusted eve
 
 #### Groeispurt
 
-![](.gitbook/assets/sprint+ipi.png)
+![](../.gitbook/assets/sprint+ipi.png)
 
 A groeispurt has a duration of ten weeks. It contains four development sprints and one Innovation and Planning Iteration. During the last week of a groeispurt a Centrale Planningsdag \(CPD\) is held where the goals for the next groeispurt are being determined and feature planning for the products are made and agreed upon. 
 
@@ -45,7 +45,7 @@ Because we all work in periods of ten weeks, we keep sufficient focus on setting
 
 #### \(Development\) Sprint
 
-![](.gitbook/assets/sprint.png)
+![](../.gitbook/assets/sprint.png)
 
 A sprint is well defined period of two weeks in which the product team starts working together to achieve a clear sprint goal. Sprints are following each other immediately and have fixed elements/ rituals: 
 
@@ -57,7 +57,7 @@ A sprint is well defined period of two weeks in which the product team starts wo
 
 #### Innovatie en Planning Iteratie \(IPI\)
 
-![](.gitbook/assets/ipi.png)
+![](../.gitbook/assets/ipi.png)
 
 Next to the development of features, which is a core focus for every product scrum team, there is a need as well for other activities that make product teams grow. For that reason every last two weeks of a Groeispurt are atypical because it explicitly makes room for … 
 
@@ -99,7 +99,7 @@ The capacity of an IPI can not be used to reach the Groeispurt targets and thus 
 
 ### Centrale Planningsdag - CPD
 
-![](.gitbook/assets/cpd.png)
+![](../.gitbook/assets/cpd.png)
 
 The central planningsday is a crucial moment to look back at the Groeispurt that is ending and to look ahead and plan for the next Groeispurt. Therefore it is situated inbetween two Groeispurts. 
 
