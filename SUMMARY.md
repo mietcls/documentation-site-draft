@@ -76,7 +76,7 @@
   * [Innovation](project-management-and-working-together/de-ontwikkelcadans/innovation.md)
   * [Story Mapping](project-management-and-working-together/de-ontwikkelcadans/story-mapping.md)
   * [Impact mapping](project-management-and-working-together/de-ontwikkelcadans/impact-mapping.md)
-  * [Capacity check](project-management-and-working-together/de-ontwikkelcadans/capacity-check.md)
+  * [Capaciteit check](project-management-and-working-together/de-ontwikkelcadans/capacity-check.md)
   * [Inspect and Adapt](project-management-and-working-together/de-ontwikkelcadans/inspect-and-adapt.md)
 * [Levensloop van een oplossing](project-management-and-working-together/levensloop-van-een-oplossing.md)
 * [Rollen](project-management-and-working-together/rollen.md)
