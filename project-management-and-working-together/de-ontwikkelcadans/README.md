@@ -1,4 +1,4 @@
-# Agile product development at ABB
+# Agile productontwikkeling bij ABB
 
 De manier waarop we onze producten ontwikkelen en samenwerken is gebaseerd op de  [Scaled Agile Framework \(SAFe\)](https://www.scaledagileframework.com) maar aangepast om beter te werken met de ABB Digiteam manier om dingen te doen en het aantal mensen in ons team.
 
