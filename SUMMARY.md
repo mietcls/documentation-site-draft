@@ -11,7 +11,7 @@
     * [Phase 2: Agenda](products-and-services/gelinkt-notuleren/gelinkt-notuleren-app/phase-2-agenda.md)
     * [Phase 3: Completing the Meeting Minutes](products-and-services/gelinkt-notuleren/gelinkt-notuleren-app/phase-3-completing-the-meeting-minutes.md)
     * [Phase 4 & 5: Sign, Publish & Report](products-and-services/gelinkt-notuleren/gelinkt-notuleren-app/phase-4-and-5-sign-publish-and-report.md)
-    * [Terminologies \(in progress\)](products-and-services/gelinkt-notuleren/gelinkt-notuleren-app/terminologies-in-progress.md)
+    * [Terminologies (in progress)](products-and-services/gelinkt-notuleren/gelinkt-notuleren-app/terminologies-in-progress.md)
   * [Embeddable & Say-Editor](products-and-services/gelinkt-notuleren/embeddable.md)
 * [Register of Measures: Signs & Markings – Register van Maatregelen: Borden & Markeringen](products-and-services/register-of-measures-signs-and-markings-register-van-maatregelen-borden-and-markeringen.md)
 * [Loket voor Lokale Besturen](products-and-services/loket-voor-lokale-besturen/README.md)
@@ -22,7 +22,7 @@
   * [Subsidiebeheer](products-and-services/loket-voor-lokale-besturen/subsidiebeheer.md)
   * [Form Builder](products-and-services/loket-voor-lokale-besturen/form-builder.md)
 * [Erediensten](products-and-services/erediensten.md)
-* [ContactHUB](products-and-services/contacthub.md)
+* [Organization Portal](products-and-services/contacthub.md)
 * [Publieke databanken - Public databases](products-and-services/wikis-and-publieke-databanken-public-databases/README.md)
   * [Mandatendatabank](products-and-services/wikis-and-publieke-databanken-public-databases/mandatendatabank.md)
   * [Leidinggevendendatabank](products-and-services/wikis-and-publieke-databanken-public-databases/leidinggevendendatabank.md)
@@ -38,7 +38,7 @@
 ## Development
 
 * [Architecture](development/architecture/README.md)
-  * [Semantic Works Application Framework \(FKA mu.semte.ch\)](development/architecture/semantic-works-application-framework.md)
+  * [Semantic Works Application Framework (FKA mu.semte.ch)](development/architecture/semantic-works-application-framework.md)
   * [Docker](development/architecture/docker.md)
   * [Linked Data & SPARQL](development/architecture/linked-data/README.md)
     * [SPARQL & Virtuoso](development/architecture/linked-data/sparql-and-virtuoso-in-depth.md)
@@ -47,12 +47,12 @@
   * [Ember.js](development/architecture/ember.js.md)
   * [Templates & Conventions](development/architecture/templates-and-conventions.md)
   * [\[NL\] Data Models](development/architecture/nl-data-models.md)
-* [Front-end \(HTML, CSS, JS\)](development/front-end/README.md)
+* [Front-end (HTML, CSS, JS)](development/front-end/README.md)
   * [Appuniversum](development/front-end/css.md)
   * [Ember](development/front-end/ember.md)
   * [Accessibility](development/front-end/accessibility.md)
 
-## Analysis, Design & Communication <a id="design-and-communication"></a>
+## Analysis, Design & Communication <a href="#design-and-communication" id="design-and-communication"></a>
 
 * [Analysis](design-and-communication/analysis.md)
 * [Communication](design-and-communication/communication.md)
@@ -66,9 +66,8 @@
 * [User Interviews & Testing](testing/user-interviews-and-testing.md)
 * [Testing](testing/testing.md)
 
-## Project management & working together <a id="project-management"></a>
+## Project management & working together <a href="#project-management" id="project-management"></a>
 
 * [Agile product development at ABB](project-management/agile-product-development-at-abb.md)
 * [Tools to wor together](project-management/working-together-and-product.md)
 * [Feature Passports](project-management/feature-passports.md)
-
