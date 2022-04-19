@@ -66,8 +66,13 @@
 * [User Interviews & Testing](testing/user-interviews-and-testing.md)
 * [Testing](testing/testing.md)
 
-## Project management & working together <a href="#project-management" id="project-management"></a>
+## Product management & working together <a href="#project-management" id="project-management"></a>
 
 * [Agile product development at ABB](project-management/agile-product-development-at-abb.md)
-* [Tools to wor together](project-management/working-together-and-product.md)
+* [Solution life cycle](project-management/solution-life-cycle.md)
+* [Roles](project-management/roles.md)
+* [Tools to work together](project-management/working-together-and-product.md)
+* [Jira](project-management/jira.md)
 * [Feature Passports](project-management/feature-passports.md)
+* [Growthspurts calendar](project-management/growthspurts-calendar.md)
+* [Hybrid work/ collaboration at Digiteam ABB](project-management/hybrid-work-collaboration-at-digiteam-abb.md)
