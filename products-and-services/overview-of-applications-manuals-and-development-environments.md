@@ -24,7 +24,7 @@ You can ask product managers how to access development environments.
 
 {% embed url="http://gelinkt-notuleren.vlaanderen.be" %}
 
-### Manual \(Dutch\)
+### Manual (Dutch)
 
 {% embed url="https://abb-vlaanderen.gitbook.io/gelinkt-notuleren-handleiding/" %}
 
@@ -36,12 +36,12 @@ Front-end [https://github.com/lblod/frontend-gelinkt-notuleren](https://github.c
 
 #### Testing & Development
 
-Gebruikerssessies: [https://gebruikerssessie.gelinkt-notuleren.lblod.info/login](https://gebruikerssessie.gelinkt-notuleren.lblod.info/login)  
+Gebruikerssessies: [https://gebruikerssessie.gelinkt-notuleren.lblod.info/login](https://gebruikerssessie.gelinkt-notuleren.lblod.info/login)\
 Development: [https://dev.gelinkt-notuleren.lblod.info/login](https://dev.gelinkt-notuleren.lblod.info/login)
 
 #### **Plug-ins**
 
-* Citatenplugin \(link naar de Vlaamse Codex in notulen\) [https://github.com/lblod/ember-rdfa-editor-citaten-plugin](https://github.com/lblod/ember-rdfa-editor-citaten-plugin) 
+* Citatenplugin (link naar de Vlaamse Codex in notulen) [https://github.com/lblod/ember-rdfa-editor-citaten-plugin](https://github.com/lblod/ember-rdfa-editor-citaten-plugin)&#x20;
 
 ## Publication Environment for Meeting Minutes
 
@@ -51,8 +51,8 @@ Development: [https://dev.gelinkt-notuleren.lblod.info/login](https://dev.gelink
 
 ### Development
 
-Gebruikerssessies: [https://publicatie.gebruikerssessie.gelinkt-notuleren.lblod.info/](https://publicatie.gebruikerssessie.gelinkt-notuleren.lblod.info/)  
-Development: [https://publicatie.dev.gelinkt-notuleren.lblod.info/](https://publicatie.dev.gelinkt-notuleren.lblod.info/)
+Gebruikerssessies: [https://publicatie.gebruikerssessie.gelinkt-notuleren.lblod.info/](https://publicatie.gebruikerssessie.gelinkt-notuleren.lblod.info)\
+Development: [https://publicatie.dev.gelinkt-notuleren.lblod.info/](https://publicatie.dev.gelinkt-notuleren.lblod.info)
 
 ## Editor
 
@@ -66,20 +66,20 @@ De editor die in Gelinkt Notuleren ingeladen wordt [https://github.com/lblod/emb
 
 {% embed url="http://loket.lokaalbestuur.vlaanderen.be" %}
 
-### Manual \(Dutch\)
+### Manual (Dutch)
 
 {% embed url="https://abb-vlaanderen.gitbook.io/handleiding-loket/" %}
 
 ### Development
 
-Front-end [https://github.com/lblod/frontend-loket](https://github.com/lblod/frontend-loket) 
+Front-end [https://github.com/lblod/frontend-loket](https://github.com/lblod/frontend-loket)&#x20;
 
 ## **Toezicht**
 
 ### Development
 
-Back-end [https://github.com/lblod/app-toezicht-abb](https://github.com/lblod/app-toezicht-abb)  
-Front-end [https://github.com/lblod/frontend-toezicht-abb](https://github.com/lblod/frontend-toezicht-abb) 
+Back-end [https://github.com/lblod/app-toezicht-abb](https://github.com/lblod/app-toezicht-abb)\
+Front-end [https://github.com/lblod/frontend-toezicht-abb](https://github.com/lblod/frontend-toezicht-abb)&#x20;
 
 ## Toegankelijk Vlaanderen
 
@@ -87,23 +87,23 @@ Front-end [https://github.com/lblod/frontend-toezicht-abb](https://github.com/lb
 
 {% embed url="https://toegankelijk.vlaanderen.be" %}
 
-### Manual \(Dutch\)
+### Manual (Dutch)
 
 {% embed url="https://abb-vlaanderen.gitbook.io/handleiding-toegankelijk-vlaanderen-invoerapp" %}
 
 ### Development
 
-Quality Assurance [https://qa.toegankelijk.vlaanderen.be/](https://qa.toegankelijk.vlaanderen.be/)  
-Quality Assurance intern: [https://qa.toevla.org/](https://qa.toevla.org/)  
-Development: [https://dev.toevla.org/](https://dev.toevla.org/)
+Quality Assurance [https://qa.toegankelijk.vlaanderen.be/](https://qa.toegankelijk.vlaanderen.be)\
+Quality Assurance intern: [https://qa.toevla.org/](https://qa.toevla.org)\
+Development: [https://dev.toevla.org/](https://dev.toevla.org)
 
 ## Organisatieportaal
 
-### Application \(under construction\)
+### Application (under construction)
 
 {% embed url="https://organisaties.abb.vlaanderen.be/" %}
 
-### Manual \(under construction\)
+### Manual (under construction)
 
 {% embed url="https://abb-vlaanderen.gitbook.io/handleiding-organisatieportaal/" %}
 
@@ -111,13 +111,13 @@ Development: [https://dev.toevla.org/](https://dev.toevla.org/)
 
 #### Testing
 
-Development: [http://contacthub-dev.lblod.info](http://contacthub-dev.lblod.info)  
-Quality Assurance: [https://contacthub-qa.lblod.info](https://contacthub-qa.lblod.info)
+Development: [https://dev.organisaties.abb.lblod.info](https://dev.organisaties.abb.lblod.info)\
+Quality Assurance: [https://organisaties.abb.lblod.info](https://organisaties.abb.lblod.info)
 
 #### Code
 
-Front-end: [https://github.com/lblod/frontend-contact-hub](https://github.com/lblod/frontend-contact-hub)  
-Back-end: [https://github.com/lblod/app-contact-hub](https://github.com/lblod/app-contact-hub)  
+Front-end: [https://github.com/lblod/frontend-organization-portal](https://github.com/lblod/frontend-organization-portal)\
+Back-end: [https://github.com/lblod/app-organization-portal](https://github.com/lblod/app-organization-portal)\
 More information: [https://abb-vlaanderen.gitbook.io/doc-organisatieportaal/code](https://abb-vlaanderen.gitbook.io/doc-organisatieportaal/code)
 
 ## **Public Database:** Mandate Database
@@ -138,5 +138,4 @@ Front-end [**https://github.com/lblod/frontend-mandatendatabank**](https://githu
 
 ### Development
 
-Front-end [https://github.com/lblod/frontend-leidinggevenden-databank](https://github.com/lblod/frontend-leidinggevenden-databank) 
-
+Front-end [https://github.com/lblod/frontend-leidinggevenden-databank](https://github.com/lblod/frontend-leidinggevenden-databank)&#x20;
