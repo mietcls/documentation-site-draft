@@ -4,7 +4,7 @@
 
 {% embed url="https://gelinkt-notuleren.vlaanderen.be/" %}
 
-Gelinkt Notuleren gives **local governments the opportunity to** [**publish and report decisions in a linked way**](https://lokaalbestuur.vlaanderen.be/lokale-besluiten-als-gelinkte-open-data) **\[Dutch\]** - even if they do not have a software vendor, or work with a software vendor that cannot meet the decree obligation to use open standards. Linked minutes also shows software vendors how to [comply with the decree obligations](https://lokaalbestuur.vlaanderen.be/lokale-besluiten-als-gelinkte-open-data/open-standaarden-en-technische-specificaties) \[Dutch\].
+Gelinkt Notuleren gives **local governments the opportunity to** [**publish and report decisions in a linked way**](https://lokaalbestuur.vlaanderen.be/lokale-besluiten-als-gelinkte-open-data) **\[Dutch]** - even if they do not have a software vendor, or work with a software vendor that cannot meet the decree obligation to use open standards. Linked minutes also shows software vendors how to [comply with the decree obligations](https://lokaalbestuur.vlaanderen.be/lokale-besluiten-als-gelinkte-open-data/open-standaarden-en-technische-specificaties) \[Dutch].
 
 Linked minutes also shows software vendors _how_ to comply with the decree obligations.
 
@@ -17,8 +17,8 @@ Read about how they work: [https://abb-vlaanderen.gitbook.io/gelinkt-notuleren-h
 ### Goal: support, don't disrupt
 
 {% hint style="info" %}
-**Support Linked Decision Making**  
-Gelinkt Notuleren aims to support decision making, but does not exist to disrupt the market.
+**Support Linked Decision Making**\
+****Gelinkt Notuleren aims to support decision making, but does not exist to disrupt the market.
 
 The functionalities we offer exist to **enable linked decision making**
 {% endhint %}
@@ -29,17 +29,24 @@ The functionalities we offer exist to **enable linked decision making**
 
 {% embed url="https://www.figma.com/file/kYcCsAHp7rbvrsRE2w1NC0/GN-brainstorm?node-id=579%3A443" %}
 
-### The Process of a Meeting \[Dutch\]
+### The Process of a Meeting \[Dutch]
 
 {% embed url="https://www.figma.com/file/kYcCsAHp7rbvrsRE2w1NC0/GN-brainstorm?node-id=533%3A295" %}
 
 ### Discover how we make notetaking possible in Gelinkt Notuleren:
 
-{% page-ref page="phase-1-prepare-agenda-items.md" %}
+{% content-ref url="phase-1-prepare-agenda-items.md" %}
+[phase-1-prepare-agenda-items.md](phase-1-prepare-agenda-items.md)
+{% endcontent-ref %}
 
-{% page-ref page="phase-2-agenda.md" %}
+{% content-ref url="phase-2-agenda.md" %}
+[phase-2-agenda.md](phase-2-agenda.md)
+{% endcontent-ref %}
 
-{% page-ref page="phase-3-completing-the-meeting-minutes.md" %}
+{% content-ref url="phase-3-completing-the-meeting-minutes.md" %}
+[phase-3-completing-the-meeting-minutes.md](phase-3-completing-the-meeting-minutes.md)
+{% endcontent-ref %}
 
-{% page-ref page="phase-4-and-5-sign-publish-and-report.md" %}
-
+{% content-ref url="phase-4-and-5-sign-publish-and-report.md" %}
+[phase-4-and-5-sign-publish-and-report.md](phase-4-and-5-sign-publish-and-report.md)
+{% endcontent-ref %}

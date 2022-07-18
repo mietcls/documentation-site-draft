@@ -68,8 +68,9 @@
 
 ## Product management & working together <a href="#project-management" id="project-management"></a>
 
-* [Agile product development at ABB](project-management/agile-product-development-at-abb.md)
 * [Solution life cycle](project-management/solution-life-cycle.md)
+* [Agile product development at ABB](project-management/agile-product-development-at-abb.md)
+* [Acceptance Criteria](project-management/acceptance-criteria.md)
 * [Roles](project-management/roles.md)
 * [Tools to work together](project-management/working-together-and-product.md)
 * [Jira](project-management/jira.md)

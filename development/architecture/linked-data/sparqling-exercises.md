@@ -16,7 +16,7 @@
 
 _No video available._
 
-{% embed url="https://docs.google.com/presentation/d/1s9\_ioaMDCeCIE4Tr9BNvpX2DhjLl39eAagj\_Cir8Nio/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/1s9_ioaMDCeCIE4Tr9BNvpX2DhjLl39eAagj_Cir8Nio/edit?usp=sharing" %}
 
 ### Virtuoso Wikipedia
 
@@ -25,6 +25,4 @@ _No video available._
 ### De geschiedenis van SPARQL
 
 {% embed url="https://www.w3.org/TR/2013/REC-sparql11-query-20130321/" %}
-
-
 

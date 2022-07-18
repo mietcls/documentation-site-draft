@@ -2,7 +2,7 @@
 description: Building Applications with Linked Data & Microservices
 ---
 
-# Semantic Works Application Framework \(FKA mu.semte.ch\)
+# Semantic Works Application Framework (FKA mu.semte.ch)
 
 ## Introduction
 
@@ -13,7 +13,7 @@ An application framework to build web applications that run on linked data, awar
 * Single page apps with Ember.js
 * Standard requirements: HTTP, JSON, SPARQL
 
-The project 
+The project&#x20;
 
 ## Framework & Docs
 
@@ -35,7 +35,7 @@ The project
 
 ### Part 2: Values
 
-{% embed url="https://drive.google.com/file/d/106TlJY7L0F3bJGu5PYgac2TdUmKP2\_zj/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/106TlJY7L0F3bJGu5PYgac2TdUmKP2_zj/view?usp=sharing" %}
 
 ### Part 3: Extra
 
@@ -43,7 +43,7 @@ The project
 
 ### Full presentation
 
-{% embed url="https://docs.google.com/presentation/d/1jFafwXl16gKHAnyQHFMO4Y\_C0qDASWpukKL\_nEG4geY/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/1jFafwXl16gKHAnyQHFMO4Y_C0qDASWpukKL_nEG4geY/edit?usp=sharing" %}
 
 ### Guide for a Microservices Environment
 
@@ -65,9 +65,9 @@ Bootstrap a mu.semte.ch microservices environment in three easy steps.
 
 {% embed url="https://drive.google.com/file/d/1YGFYkVESSc45ms3oNG945B14hyXLfmF9/view?usp=sharing" %}
 
-### Part 4: 
+### Part 4:&#x20;
 
-{% embed url="https://drive.google.com/file/d/1h7JV86zvFP\_3vvcH56pkgQOxr4Cth-79/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1h7JV86zvFP_3vvcH56pkgQOxr4Cth-79/view?usp=sharing" %}
 
 ### Part 5: Extra's
 
@@ -76,4 +76,3 @@ _No video available, but you can discover more in the full presentation below._
 ### Full presentation
 
 {% embed url="https://docs.google.com/presentation/d/1JjGMHcJBK22yP5dTxwSJrkwtnQDLLswQepBURk2D9vA/edit?usp=sharing" %}
-

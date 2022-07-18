@@ -6,7 +6,5 @@
 
 ## Full Presentation
 
-{% embed url="https://docs.google.com/presentation/d/1gaMpgqB7wo\_zAlyU-lYjMJIe0iJ8TSKML1WjgjGUG\_w/edit?usp=sharing" %}
-
-
+{% embed url="https://docs.google.com/presentation/d/1gaMpgqB7wo_zAlyU-lYjMJIe0iJ8TSKML1WjgjGUG_w/edit?usp=sharing" %}
 

@@ -4,7 +4,7 @@
 
 ### General introduction of Virtuoso
 
-{% embed url="https://drive.google.com/file/d/1tfygu8O7A7XQQFAExzussndqGmf9J\_\_L/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1tfygu8O7A7XQQFAExzussndqGmf9J__L/view?usp=sharing" %}
 
 ### Basic querying and exploration in Virtuoso
 
@@ -12,7 +12,5 @@
 
 ### Full presentation
 
-{% embed url="https://docs.google.com/presentation/d/1\_ESHtpwxudMXmV7oQMj6SouCCksksfSonL5SSzasr2g/edit?usp=sharing" %}
-
-
+{% embed url="https://docs.google.com/presentation/d/1_ESHtpwxudMXmV7oQMj6SouCCksksfSonL5SSzasr2g/edit?usp=sharing" %}
 

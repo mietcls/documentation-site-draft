@@ -8,11 +8,11 @@ A good guide would be [https://guides.emberjs.com/release/](https://guides.ember
 
 ## An introduction to Ember.js
 
-{% embed url="https://drive.google.com/file/d/1ogmc8xUXZwA89rCHPP2wQ4X5cls2\_\_Kj/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1ogmc8xUXZwA89rCHPP2wQ4X5cls2__Kj/view?usp=sharing" %}
 
 ## Full presentation
 
-{% embed url="https://docs.google.com/presentation/d/1s9fwwAM\_PH6XXGKpWCnobQgTjzoCSoneyS7Z6tLY9uc/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/1s9fwwAM_PH6XXGKpWCnobQgTjzoCSoneyS7Z6tLY9uc/edit?usp=sharing" %}
 
 ## Useful links
 
@@ -28,5 +28,4 @@ Compare here what the old and the new syntax look like.
 
 You can test your components here:
 
-{% embed url="https://ember-twiddle.com/bc4e11d5efdc25c742972256ffe9b6a3?openFiles=components.accordion\\.js,templates.components.accordion\\.hbs" %}
-
+{% embed url="https://ember-twiddle.com/bc4e11d5efdc25c742972256ffe9b6a3?openFiles=components.accordion\.js,templates.components.accordion\.hbs" %}

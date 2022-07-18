@@ -18,7 +18,7 @@ To access our applications, you must be known as a user in Gebruikersbeheer Vlaa
 
 The **local administrator** who is on each board can give you access to this. Usually this is the secretary/general manager, clerk or someone designated by the organization. So it's best to check with them if you don't know who your local administrator is. [More information about user management.](./)
 
-![Gebruikersbeheer Vlaanderen](../../.gitbook/assets/gebruikersbeheer-vlaanderen%20%282%29.png)
+![Gebruikersbeheer Vlaanderen](<../../.gitbook/assets/gebruikersbeheer-vlaanderen (2).png>)
 
 ## Signing in via the Landing Page
 
@@ -44,8 +44,10 @@ If you have access to administrative units, the pop-up will give you the option 
 
 Make sure your browser settings are correct.
 
-* **Firefox** Visit this link [https://support.mozilla.org/en-US/kb/pop-blocker-settings-exceptions-troubleshooting\#w\_pop-up-blocker-settings](https://support.mozilla.org/en-US/kb/pop-blocker-settings-exceptions-troubleshooting#w_pop-up-blocker-settings) and choose Pop-up blocker settings.
-* **Chrome** Visit this link [https://support.google.com/chrome/answer/95472?co=GENIE.Platform%3DDesktop&hl=en](https://support.google.com/chrome/answer/95472?co=GENIE.Platform%3DDesktop&hl=en).
+* **Firefox**\
+  Visit this link [https://support.mozilla.org/en-US/kb/pop-blocker-settings-exceptions-troubleshooting#w\_pop-up-blocker-settings](https://support.mozilla.org/en-US/kb/pop-blocker-settings-exceptions-troubleshooting#w\_pop-up-blocker-settings) and choose Pop-up blocker settings.
+* **Chrome**\
+  ****Visit this link [https://support.google.com/chrome/answer/95472?co=GENIE.Platform%3DDesktop\&hl=en](https://support.google.com/chrome/answer/95472?co=GENIE.Platform%3DDesktop\&hl=en).
 
 {% hint style="info" %}
 Not getting access to the application? Go to [Gebruikersbeheer Vlaanderen](../toegankelijk-vlaanderen.md) for more information.
@@ -56,4 +58,3 @@ Not getting access to the application? Go to [Gebruikersbeheer Vlaanderen](../to
 After choosing an administrative unit, you are logged in. You will now have access to the modules you are known for in [Gebruikersbeheer](./).
 
 ![Example of an app after signing in: Loket Lokaal Bestuur](../../.gitbook/assets/startscherm.png)
-

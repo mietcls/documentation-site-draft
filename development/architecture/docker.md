@@ -12,7 +12,7 @@ description: Orchestrate the Stack
 
 ### Full presentation
 
-{% embed url="https://docs.google.com/presentation/d/1\_IeefsUmyvOSHIBr2c0-d5Z2iIy6KvVJtQZZ-KF1pEE/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/1_IeefsUmyvOSHIBr2c0-d5Z2iIy6KvVJtQZZ-KF1pEE/edit?usp=sharing" %}
 
 ## In-depth Docker
 
@@ -22,7 +22,7 @@ description: Orchestrate the Stack
 
 ### Part 2: Running multi-container applications
 
-{% embed url="https://drive.google.com/file/d/1KI\_axwhxqltqSrTKgD7tO-dNJuOUTQY0/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1KI_axwhxqltqSrTKgD7tO-dNJuOUTQY0/view?usp=sharing" %}
 
 ### Part 3: Interactive Docker
 
@@ -32,7 +32,5 @@ description: Orchestrate the Stack
 
 ### Full presentation
 
-{% embed url="https://docs.google.com/presentation/d/1vSrC8JRIdNd7RAwO-VjJgj71doGCwrVnC\_3QyJSPu8Q/edit?usp=sharing" %}
-
-
+{% embed url="https://docs.google.com/presentation/d/1vSrC8JRIdNd7RAwO-VjJgj71doGCwrVnC_3QyJSPu8Q/edit?usp=sharing" %}
 

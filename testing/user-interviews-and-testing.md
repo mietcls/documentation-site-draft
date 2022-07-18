@@ -10,11 +10,13 @@ Since 2020 we have been conducting remote, online, user tests and interviews. We
 
 ## Template
 
-{% file src="../.gitbook/assets/user-testing-template \(1\).xlsx" caption="Remote user interview & testing template \[dutch\]" %}
+{% file src="../.gitbook/assets/user-testing-template (1).xlsx" %}
+Remote user interview & testing template \[dutch]
+{% endfile %}
 
 ## Prepare & Execute
 
-### Scope & Overview \[scope-interview\]
+### Scope & Overview \[scope-interview]
 
 `scope` Decide with your **team members** what you are going to test and why. This will dictate what questions you'll ask, what type of test you'll conduct and who you will contact.
 
@@ -25,11 +27,11 @@ Since 2020 we have been conducting remote, online, user tests and interviews. We
 * Who
   * Who can answer these questions for you? Who will work with the application? Who do you need to convince to get the entire team to work with your app?
 * How
-  * How you're going to test is going to depend on what you are testing. If you are testing raw ideas, you'll probably share wireframes \(via screen sharing for example\). If you are testing an application, you'll need a dev environment ready and you'll probably want people to share their screen with you.
+  * How you're going to test is going to depend on what you are testing. If you are testing raw ideas, you'll probably share wireframes (via screen sharing for example). If you are testing an application, you'll need a dev environment ready and you'll probably want people to share their screen with you.
 * Why
   * What do you want to do with these answers afterwards? Do you want to make sure you know what new features to develop, or which ones to improve? Or would you want to set up webinars afterwards to get people to use it? Many options.
 
-![Tab one: Scope &amp; Overview](../.gitbook/assets/screenshot-2021-04-07-at-13.57.30.png)
+![Tab one: Scope & Overview](../.gitbook/assets/screenshot-2021-04-07-at-13.57.30.png)
 
 #### Overview
 
@@ -47,7 +49,7 @@ Since 2020 we have been conducting remote, online, user tests and interviews. We
 
 No clue how to time it? Do an internal pre-test with some colleagues to give yourself a better idea.
 
-### Attendees \[deelnemers-locatie\]
+### Attendees \[deelnemers-locatie]
 
 ![](../.gitbook/assets/screenshot-2021-04-07-at-17.04.14.png)
 
@@ -57,32 +59,32 @@ No clue how to time it? Do an internal pre-test with some colleagues to give you
 
 Get an overview of who you need to talk to to get the relevant information for your project – and what steps you can undertake if you cannot find those people right away.
 
-Usually the product manager sets up the meetings via personal contacts, or partnerships that are relevant to the product or via the client \(VVSG – Vereniging van Vlaamse Steden en Gemeenten, Inter, Klankbordgroep Gent\).
+Usually the product manager sets up the meetings via personal contacts, or partnerships that are relevant to the product or via the client (VVSG – Vereniging van Vlaamse Steden en Gemeenten, Inter, Klankbordgroep Gent).
 
-Fill out their `name`, `type of participant` \(think of which type of people you need to see to get a good grasp on your answers, broad and diverse enough\), `organisation` and `type of organisation`\(also relevant for your end results\) and who the `contact person` is \(probably your product manager; this is helpful during the introduction or when someone does not show up\). The `tag` can help you to anonymise information later on, but is optional.
+Fill out their `name`, `type of participant` (think of which type of people you need to see to get a good grasp on your answers, broad and diverse enough), `organisation` and `type of organisation`(also relevant for your end results) and who the `contact person` is (probably your product manager; this is helpful during the introduction or when someone does not show up). The `tag` can help you to anonymise information later on, but is optional.
 
 #### Planning the meetings
 
 `date`, `time`, `location`
 
 * Before anyone starts contacting interviewees, make sure you block out enough placeholder time ahead with the appointed team members; so the product manager can align agenda's with the interviewees.
-* Make sure you have a bit more time allocated to the meeting than you planned for in the interview / test \(because things will go wrong\).
+* Make sure you have a bit more time allocated to the meeting than you planned for in the interview / test (because things will go wrong).
 * Location: make sure everyone knows up front where the meeting will take place. Add them to the document to make sure you can switch easily.
 
 #### Interviewers & Notes
 
 `interviewer`, `notulist`, `specialist`
 
-* Appoint an `interviewer`, and someone that takes notes \(`notulist`\). If they switch, it'll be different every session; just make sure everyone knows up front.
-* Sometimes it's helpful to have a `specialist` on board \(like a jurist\) to answer specific questions about the topic you're dealing with. Try answering these questions at the end of the session, because it's easy to get lost in details and go off-topic.
+* Appoint an `interviewer`, and someone that takes notes (`notulist`). If they switch, it'll be different every session; just make sure everyone knows up front.
+* Sometimes it's helpful to have a `specialist` on board (like a jurist) to answer specific questions about the topic you're dealing with. Try answering these questions at the end of the session, because it's easy to get lost in details and go off-topic.
 
 _More than 2 people can be overwhelming to the test subject, so find out what's the best for the outcome._
 
 {% hint style="info" %}
-Consider turning off camera's for people that are not taking the interview, but do involve everyone in the introduction _\(smile & wave\)_ and when saying goodbye.
+Consider turning off camera's for people that are not taking the interview, but do involve everyone in the introduction _(smile & wave)_ and when saying goodbye.
 {% endhint %}
 
-### Setting the Scene \[introductie\]
+### Setting the Scene \[introductie]
 
 The goal of the introduction is to make people feel at home and set expectations.
 
@@ -90,7 +92,7 @@ The goal of the introduction is to make people feel at home and set expectations
 
 #### Introduce everyone
 
-The interviewer takes te lead and lets everyone \(including the notetaker, specialist, ...\) introduce themselves briefly. Mention the contact person \(see [attendees](user-interviews-and-testing.md#attendees-deelnemers-locatie)\) if needed to make sure everyone knows why they are here.
+The interviewer takes te lead and lets everyone (including the notetaker, specialist, ...) introduce themselves briefly. Mention the contact person (see [attendees](user-interviews-and-testing.md#attendees-deelnemers-locatie)) if needed to make sure everyone knows why they are here.
 
 {% hint style="info" %}
 A virtual _round of the table_ is hard; you don't know who's next to you. The interviewer calls out everyone one by one to introduce themselves.
@@ -104,15 +106,15 @@ The interviewer goes over the setup.
   * Explain what is going to happen and why; what you want people to **focus** on.
   * Explain the structure of the meeting before they start – so they know what's coming.
   * GDPR: Explain what happens to the notes, and what their rights are.
-* Sometimes interviewees think they have to elaborate, do things differently than usual or "do a good job" \(most of us want to!\) . Try to debunk that.
+* Sometimes interviewees think they have to elaborate, do things differently than usual or "do a good job" (most of us want to!) . Try to debunk that.
   * If something goes **wrong, that's excellent**.
-    * Make sure everyone knows it's okay to make mistakes, be confused and have questions – and that it is valuable information. We are testing the application \(or service or idea or...\), not their skillset.
+    * Make sure everyone knows it's okay to make mistakes, be confused and have questions – and that it is valuable information. We are testing the application (or service or idea or...), not their skillset.
   * **Honesty is key** to get value out of these sessions.
-    * The interviewees should know that they can't insult \(or compliment!\) anyone in the room. 
+    * The interviewees should know that they can't insult (or compliment!) anyone in the room.&#x20;
   * **Their lead**
     * The interviewees don't need to be extra elaborate or extra fast – they can just act the way they would as if they're at home or in the office.
   * Think out **loud**
-    * Urge your test subjects to think out loud \(and show their frustration\) to help the interviewer and notetaker understand what is going on.
+    * Urge your test subjects to think out loud (and show their frustration) to help the interviewer and notetaker understand what is going on.
 * Leave room for questions!
 
 ### Interview
@@ -121,7 +123,7 @@ To understand the feedback you're getting from your interviewees, you need some 
 
 #### General tips:
 
-* Ask targeted questions if there are multiple people in the room, don't leave it open-ended \(in a remote situation this usually causes silence\)
+* Ask targeted questions if there are multiple people in the room, don't leave it open-ended (in a remote situation this usually causes silence)
 * Only ask one question at a time.
   * This is easier to answer
   * You'll most likely get an answer
@@ -137,7 +139,7 @@ Think of what you need to know, and what to leave out. This depends from test to
 
 Some examples:
 
-`Demography & Job` – ask about their function, and what they do on a daily base. This can frame how often they would be interact with your product \(or service or..\).
+`Demography & Job` – ask about their function, and what they do on a daily base. This can frame how often they would be interact with your product (or service or..).
 
 `Digital skills` – if you have little knowledge about your interviewees, it will be helpful to know what their digital skillset is. If they spend a lot of time using their computer during their job, chances are high they'll onboard your application much quicker than someone that only uses their ipad during the weekend; and they might need more guidance.
 
@@ -146,20 +148,20 @@ Some examples:
 `Previous use` - it's possible people have already used your application. You might want to figure out what they think about your application now; and see if it's different after they've seen your new features or adapted features.
 
 {% hint style="info" %}
-These questions will also help you to create archetypes \(persona's\) later on, that can guide you when building features.
+These questions will also help you to create archetypes (persona's) later on, that can guide you when building features.
 {% endhint %}
 
 #### Filling out questions
 
 * Add as many rows as needed to keep an overview.
-* If you are interviewing multiple people at the same time \(depending on your situation this can happen, even if it is not always ideal\) add initials or tag of the person that is giving an answer or to the information you are writing down.
+* If you are interviewing multiple people at the same time (depending on your situation this can happen, even if it is not always ideal) add initials or tag of the person that is giving an answer or to the information you are writing down.
 * If multiple people are editing, make sure you're not overriding what they just wrote down.
 
 #### Timing
 
 Decide **when and how** you're going to ask these questions:
 
-* **Up front \(via mail\)**
+* **Up front (via mail)**
   * Reduces meeting time; which everyone likes.
   * If it's a lot of questions, it can feel like an annoying assignment – chances of it getting completed get lower with every question. This is especially the case with busy people.
   * You can ask "why" or elaborate during the meeting.
@@ -175,7 +177,7 @@ The interviewer and the interviewee are mostly speaking. As little intervention 
 
 #### General tips:
 
-* Ask targeted questions if there are multiple people in the room, don't leave it open-ended \(in a remote situation this usually causes silence\)
+* Ask targeted questions if there are multiple people in the room, don't leave it open-ended (in a remote situation this usually causes silence)
 * Only ask one question at a time.
   * This is easier to answer
   * You'll most likely get an answer
@@ -189,7 +191,7 @@ The interviewer and the interviewee are mostly speaking. As little intervention 
 
 #### Testing with wireframes or mock-ups, or with a local set-up on your machine
 
-If you are testing raw ideas, you'll probably share wireframes \(via screen sharing for example\). 
+If you are testing raw ideas, you'll probably share wireframes (via screen sharing for example).&#x20;
 
 * Make sure people can see the relevant applications on your screen.
 * Turn off notifications to not be disturbed.
@@ -215,8 +217,9 @@ Refrain from giving people answers. If they ask you "is it this button?", you ca
 #### Filling out the fields
 
 * Add as many rows as needed to keep an overview.
-* If you are interviewing multiple people at the same time \(depending on your situation this can happen, even if it is not always ideal\) add initials or tag of the person that is completing the task/answering a question or to the information you are writing down.
-* If multiple people are editing, make sure you're not overriding what they just wrote down. 
+* If you are interviewing multiple people at the same time (depending on your situation this can happen, even if it is not always ideal) add initials or tag of the person that is completing the task/answering a question or to the information you are writing down.
+* If multiple people are editing, make sure you're not overriding what they just wrote down.\
+
 * What to fill out
   * `Opdracht gelukt` Did they succeed?
     * Think of a system up front like "yes / no / almost"
@@ -225,7 +228,7 @@ Refrain from giving people answers. If they ask you "is it this button?", you ca
     * Where did they get stuck?
     * What went well?
     * Add rows if needed
-  * `Opmerkingen` If you have anything to add, like thoughts or suggestions \(from anyone in the room\), you can add it to the comments field.
+  * `Opmerkingen` If you have anything to add, like thoughts or suggestions (from anyone in the room), you can add it to the comments field.
 
 #### Help people think out loud
 
@@ -239,7 +242,7 @@ To make sure you know what's happening inside people's minds, and why they make 
 
 The interviewer and the interviewee are mostly speaking. As little intervention as possible from is expected others. If the notetaker missed something, it's okay to speak up.
 
-If you decide to do a guided test, and **want to teach people how to work with your application \(or service or..\) more than discover what to improve**, you can show them or help them complete a task. Then give them time to try it themselves. After a while you can ask them how it went.
+If you decide to do a guided test, and **want to teach people how to work with your application (or service or..) more than discover what to improve**, you can show them or help them complete a task. Then give them time to try it themselves. After a while you can ask them how it went.
 
 * How did it go for you? Did it work out?
 * If they don't give you a lot of details, you can ask what went well and what did not, and get into a conversation if needed.
@@ -250,7 +253,7 @@ If you decide to do a guided test, and **want to teach people how to work with y
 
 #### The holy grail
 
-The one question that you probably want an answer to is "_**Would you use this application/service/...?**_" You can ask any variety on this, but this will probably give you the best insight. 
+The one question that you probably want an answer to is "_**Would you use this application/service/...?**_" You can ask any variety on this, but this will probably give you the best insight.&#x20;
 
 #### Feedback
 
@@ -274,9 +277,7 @@ When you're done with _all_ the interviews, you can start drawing conclusions. T
 
 ![](../.gitbook/assets/screenshot-2021-04-07-at-18.34.15.png)
 
-### 
-
-
+###
 
 
 

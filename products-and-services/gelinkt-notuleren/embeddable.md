@@ -11,7 +11,7 @@ The Embeddable is a building block of Gelinkt Notuleren. It is a smart, open-sou
 
 Third-party note-taking software that help local boards create minutes, can also reuse this embeddable in their software package to extract the data.
 
-We provide this word processor as an _embeddable_ \(easily plugged in\) for that boards or their software vendors can use in their notetaking packages. We also open up this embeddable under the name of **Say Editor** for anyone who wants to enrich their word processing with knowledge.
+We provide this word processor as an _embeddable_ (easily plugged in) for that boards or their software vendors can use in their notetaking packages. We also open up this embeddable under the name of **Say Editor** for anyone who wants to enrich their word processing with knowledge.
 
 To find more detailed information about Say editor, visit [https://say-editor.com/](https://say-editor.com/).
 
@@ -40,10 +40,10 @@ We have created separate small apps that can be plugged in the text editor.
 * **Citation plugin**: makes use of the Flemish Codex, and you can use it to reference legal grounds in decisions.
 * **Voting**: vote on decisions.
 * **Attendees**: track who was part of the meeting, and was part of certain decisions.
-* **Import – export**: make sure you can import- and export decisions \(in progress\).
+* **Import – export**: make sure you can import- and export decisions (in progress).
 * **Annotations**: annotate text with specific linked information, like mandates
 * **Signing**: signing minutes, excerpts, agendas, decision lists.
-* **Authentication**: log in via [Gebruikersbeheer](https://gebruikersbeheer.vlaanderen.be/) \(user management ACM-IDM\)
+* **Authentication**: log in via [Gebruikersbeheer](https://gebruikersbeheer.vlaanderen.be/) (user management ACM-IDM)
 * **Anonymise**: Remove personal information for public view.
 
 Read the documents of Say Editor to see how they are set up: [https://say-editor.com/docs](https://say-editor.com/docs).
@@ -70,9 +70,10 @@ Add your own text editor in your ember app:
 
 ### Documentation site Say-Editor
 
-{% embed url="https://say-editor.com/docs" caption="Landing page" %}
+{% embed url="https://say-editor.com/docs" %}
+Landing page
+{% endembed %}
 
 {% embed url="https://github.com/lblod/frontend-say-editor-documentation" %}
 
 {% embed url="https://github.com/lblod/app-say-editor-documentation" %}
-

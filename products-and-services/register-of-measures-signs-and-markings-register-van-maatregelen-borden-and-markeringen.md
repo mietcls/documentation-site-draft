@@ -1,10 +1,10 @@
 # Register of Measures: Signs & Markings – Register van Maatregelen: Borden & Markeringen
 
-The Agency of Home Affairs works closely together with the department Mobiliteit en Openbare Werken \(MOW – Mobility and Public Works\) and Agentschap Wegen en Verkeer \(AWV – Roads and Traffic Agency\). Together they are creating a register of measures including signs and markings on the road.
+The Agency of Home Affairs works closely together with the department Mobiliteit en Openbare Werken (MOW – Mobility and Public Works) and Agentschap Wegen en Verkeer (AWV – Roads and Traffic Agency). Together they are creating a register of measures including signs and markings on the road.
 
 ## Concept
 
-![](https://gblobscdn.gitbook.com/assets%2F-MVupYAHNVzLJMwHA9lT%2F-MX2Lj1DOAsM5uzFbY-X%2F-MX2VS3QW_iyx9ZLfKUU%2FvisualisatieRegister_ENG.png?alt=media&token=47148b23-01b1-4ec5-b9da-24a5ca92b63e)
+![](https://gblobscdn.gitbook.com/assets%2F-MVupYAHNVzLJMwHA9lT%2F-MX2Lj1DOAsM5uzFbY-X%2F-MX2VS3QW\_iyx9ZLfKUU%2FvisualisatieRegister\_ENG.png?alt=media\&token=47148b23-01b1-4ec5-b9da-24a5ca92b63e)
 
 ## Architecture
 
@@ -12,9 +12,9 @@ The Agency of Home Affairs works closely together with the department Mobiliteit
 
 ### Setup
 
-Discover how to set up the code under the section [DEVELOPMENT &gt; Architecture](../development/architecture/).
+Discover how to set up the code under the section [DEVELOPMENT > Architecture](../development/architecture/).
 
-### Datamodels \[Dutch\]
+### Datamodels \[Dutch]
 
 #### Policy area MOW implementation model and vocabularies / Beleidsdomein MOW implementatiemodel en vocabularia
 
@@ -42,9 +42,12 @@ Discover how to set up the code under the section [DEVELOPMENT &gt; Architecture
 
 Main feature passports forLBLOD:
 
-{% embed url="https://abb-vlaanderen.gitbook.io/feature-passports-lblod" caption="Written in English for our development teams" %}
+{% embed url="https://abb-vlaanderen.gitbook.io/feature-passports-lblod" %}
+Written in English for our development teams
+{% endembed %}
 
 Find specific feature passports for Register van Maatregelen here:
 
-{% embed url="https://abb-vlaanderen.gitbook.io/feature-passports-lblod/register/register-van-maatregelen-poc" caption="Written in English for our development teams" %}
-
+{% embed url="https://abb-vlaanderen.gitbook.io/feature-passports-lblod/register/register-van-maatregelen-poc" %}
+Written in English for our development teams
+{% endembed %}

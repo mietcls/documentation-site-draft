@@ -2,9 +2,9 @@
 
 ## Branding
 
-We are required to follow the branding of the Flemish Government. They have extensive and transparent guidelines \(colours, logo, fonts, ...\)
+We are required to follow the branding of the Flemish Government. They have extensive and transparent guidelines (colours, logo, fonts, ...)
 
-### General guidelines 
+### General guidelines&#x20;
 
 Guidelines provided in Dutch. Get in touch if you would like to have more information in English.
 
@@ -12,7 +12,9 @@ Guidelines provided in Dutch. Get in touch if you would like to have more inform
 
 ### Custom icons
 
-{% embed url="https://appuniversum.github.io/ember-appuniversum/docs/atoms/au-icon" caption="Our custom icon set" %}
+{% embed url="https://appuniversum.github.io/ember-appuniversum/docs/atoms/au-icon" %}
+Our custom icon set
+{% endembed %}
 
 We do use a different set of icons, because of 2 reasons:
 
@@ -35,9 +37,13 @@ Guide proviced in Dutch. Get in touch if you would like more information in Engl
 
 #### Global Header & Footer
 
-{% embed url="https://appuniversum.github.io/ember-appuniversum/docs/patterns/au-main-header" caption="Header" %}
+{% embed url="https://appuniversum.github.io/ember-appuniversum/docs/patterns/au-main-header" %}
+Header
+{% endembed %}
 
-{% embed url="https://appuniversum.github.io/ember-appuniversum/docs/patterns/au-main-footer" caption="Footer" %}
+{% embed url="https://appuniversum.github.io/ember-appuniversum/docs/patterns/au-main-footer" %}
+Footer
+{% endembed %}
 
 We currently do not use the global header & footer; for tracking and speed reasons.
 
@@ -47,7 +53,7 @@ _Footer:_ The footer has also been recreated. We only use it on log-in pages, be
 
 ## Mock-ups
 
-We are currently using a mix of clickable prototypes in Figma, and real prototypes in HTML and CSS. We are also working with other departments to build a solid component library here, both in vectors \(Figma\) and HTML and CSS.
+We are currently using a mix of clickable prototypes in Figma, and real prototypes in HTML and CSS. We are also working with other departments to build a solid component library here, both in vectors (Figma) and HTML and CSS.
 
 ### Figma
 
@@ -55,7 +61,9 @@ We use Figma, but we do not have a license yet. This is a discussion in progress
 
 In the meantime, we can base ourselves on the Figma library Mono Company created for creating apps for the Flemish Government.
 
-{% page-ref page="feedback-geven-op-figma-mockups.md" %}
+{% content-ref url="feedback-geven-op-figma-mockups.md" %}
+[feedback-geven-op-figma-mockups.md](feedback-geven-op-figma-mockups.md)
+{% endcontent-ref %}
 
 ## Component libraries
 
@@ -74,7 +82,5 @@ To build our applications with, we created an open source component library.
 
 The library is based on the old web components of the Flemish Government, [version 2.0](https://overheid.vlaanderen.be/webuniversum/webcomponenten-versie-2). This is where we built our applications with in the beginning, when they were still published open source. To make sure we could fix bugs, extend the library for specific application components and publish our applications open source, we created Appuniversum. Anyone who wishes to use this library, more specifically in the context of projects for the Flemish Government, may do so.
 
- This component library currently consists of two parts: Appuniversum & Ember-Appuniversum.
-
-
+&#x20;This component library currently consists of two parts: Appuniversum & Ember-Appuniversum.
 

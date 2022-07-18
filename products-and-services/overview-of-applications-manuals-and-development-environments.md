@@ -51,8 +51,8 @@ Development: [https://dev.gelinkt-notuleren.lblod.info/login](https://dev.gelink
 
 ### Development
 
-Gebruikerssessies: [https://publicatie.gebruikerssessie.gelinkt-notuleren.lblod.info/](https://publicatie.gebruikerssessie.gelinkt-notuleren.lblod.info)\
-Development: [https://publicatie.dev.gelinkt-notuleren.lblod.info/](https://publicatie.dev.gelinkt-notuleren.lblod.info)
+Gebruikerssessies: [https://publicatie.gebruikerssessie.gelinkt-notuleren.lblod.info/](https://publicatie.gebruikerssessie.gelinkt-notuleren.lblod.info/)\
+Development: [https://publicatie.dev.gelinkt-notuleren.lblod.info/](https://publicatie.dev.gelinkt-notuleren.lblod.info/)
 
 ## Editor
 
@@ -93,9 +93,9 @@ Front-end [https://github.com/lblod/frontend-toezicht-abb](https://github.com/lb
 
 ### Development
 
-Quality Assurance [https://qa.toegankelijk.vlaanderen.be/](https://qa.toegankelijk.vlaanderen.be)\
-Quality Assurance intern: [https://qa.toevla.org/](https://qa.toevla.org)\
-Development: [https://dev.toevla.org/](https://dev.toevla.org)
+Quality Assurance [https://qa.toegankelijk.vlaanderen.be/](https://qa.toegankelijk.vlaanderen.be/)\
+Quality Assurance intern: [https://qa.toevla.org/](https://qa.toevla.org/)\
+Development: [https://dev.toevla.org/](https://dev.toevla.org/)
 
 ## Organisatieportaal
 
@@ -111,8 +111,8 @@ Development: [https://dev.toevla.org/](https://dev.toevla.org)
 
 #### Testing
 
-Development: [https://dev.organisaties.abb.lblod.info](https://dev.organisaties.abb.lblod.info)\
-Quality Assurance: [https://organisaties.abb.lblod.info](https://organisaties.abb.lblod.info)
+Development: [https://dev.organisaties.abb.lblod.info](https://dev.organisaties.abb.lblod.info/)\
+Quality Assurance: [https://organisaties.abb.lblod.info](https://organisaties.abb.lblod.info/)
 
 #### Code
 
