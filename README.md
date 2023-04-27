@@ -60,6 +60,7 @@ We build services and products to create that value. Linked data is made possibl
 1. We co-created a [Linked Open Data](lblod-lokale-besturen-and-linked-open-data.md) Standard, together with the local governments: a standard way of sharing data between the involved parties.
 2. We validate vendors that provide software that supports note taking for local governments; and make sure they exchange and publish their data in a correct manner. [More info \[Dutch\]](https://lokaalbestuur.vlaanderen.be/lokale-besluiten-als-gelinkte-open-data/validaties-notuleringspakketten).
 3. We created ["Linked Minutes" (Gelink Notuleren)](products-and-services/gelinkt-notuleren/): basic, free decision-making software for local governments without a software vendor – to support linked data.
+4. We are building an innovative open source [linked data text editor](https://say-editor.com) that allows end users to create machine-readable information 'without effort'. We reuse this editor in our own applications and make sure that external parties can also easily reuse it.
 
 This information is captured in the ["Box Office for Local Governments" (Loket voor Lokale besturen)](products-and-services/loket-voor-lokale-besturen/) – a platform for data sharing and communication between local governments and the agency for home affairs.
 
