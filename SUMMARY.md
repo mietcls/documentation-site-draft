@@ -77,3 +77,4 @@
 * [Feature Passports](project-management/feature-passports.md)
 * [Growthspurts calendar](project-management/growthspurts-calendar.md)
 * [Hybrid work/ collaboration at Digiteam ABB](project-management/hybrid-work-collaboration-at-digiteam-abb.md)
+* [List of abbreviations at ABB](project-management/list-of-abbreviations-at-abb.md)
