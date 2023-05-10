@@ -4,9 +4,9 @@ description: >-
   пожаловать!
 ---
 
-# Help Build the Semantische Ecosystem of AHA
+# Help Build the Semantische Ecosystem of ABB
 
-## Agency for Home Affairs
+## ABB - Agentschap Binnenlands Bestuur or Agency for Home Affairs
 
 {% hint style="success" %}
 ABB contributes to sustainable and democratic living together in diversity by connecting and strengthening citizens and authorities

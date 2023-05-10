@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Help Build the Semantische Ecosystem of AHA](README.md)
+* [Help Build the Semantische Ecosystem of ABB](README.md)
 * [LBLOD – Local Governments & Linked Open Data](lblod-lokale-besturen-and-linked-open-data.md)
 
 ## Products & Services
