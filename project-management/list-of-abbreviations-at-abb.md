@@ -23,6 +23,8 @@ description: >-
 
 **BNB: Burgernabije Besluitendatabank/ Public descisions database for civilians** is a public decision database of Agentschap Binnenlands Bestuur that aims at making available all public decisions that were reported or submitted by the local authorities and that are related to themes that concern citizens.
 
+**BRM: the Backlog Refinement Meeting** is a get together of the product team (scum team, product owner, scrum master and product manager eventually) to refine the backlog as a preparation for an upcoming sprint. More information on the BRM is to be found [here](http://localhost:5000/s/-MP9YhmfGLVRY7JjkhY8-887967055/project-management-and-working-together/de-ontwikkelcadans/4-reguliere-sprints/backlog-refinement-meeting).
+
 **BSBVR: Beleid Steden, Brussel & Vlaamse Rand** is a team of Agentschap Binnenlands Bestuur that has [the following tasks and responsibilities](https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-kanselarij-bestuur-buitenlandse-zaken-en-justitie/agentschap-binnenlands-bestuur/beleid-steden-brussel-en-vlaamse-rand).
 
 ## C
@@ -41,7 +43,7 @@ description: >-
 
 ## F
 
-
+**FP: a Feature Passport** is a document that describes one specific feature in a way that is understandable for the (non-technical) stakeholders, the current team members, and potential professionals who will be contributing to the product in the future. It travels with the feature from conception/ design/ development over testing into release. Changing the feature at a later time will go hand in hand with updating the feature passport accordingly.
 
 ## G
 
@@ -86,7 +88,11 @@ description: >-
 
 **LDES: A Linked Data Event Stream** is a new data publishing approach which allows you to publish any dataset as a collection of immutable objects. The focus of an LDES is to allow clients to replicate the history of a dataset and efficiently synchronize with its latest changes.
 
+**LF:** Lokale Financien/ Local Finances is a team of Agentschap Binnenlands Bestuur that has [the following tasks and responsibilities](https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-kanselarij-bestuur-buitenlandse-zaken-en-justitie/agentschap-binnenlands-bestuur/lokale-financien).
+
 **LLB: Loket Lokale Besturen/ Counter for Local Authorities** is an online application of Agentschap Binnenlands Bestuur for data sharing between local authorities and the agency. It consists of different modules used for different communication topics or purposes.
+
+**LOW: Lokale Organisatie & Werking** is a team of Agentschap Binnenlands Bestuur that has [the following tasks and responsibilities](https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-kanselarij-bestuur-buitenlandse-zaken-en-justitie/agentschap-binnenlands-bestuur/lokale-organisatie-en-werking).
 
 **LPDC: Lokale Producten en DienstenCatalogus/ local products and services catalog** is a digital repository that provides an overview of the various services provided by the local governments. The repository is managed by the local authorities through a webapplication built and maintained by ABB. The creation, the update or deletion of services is synced with the IPDC.
 
@@ -95,6 +101,8 @@ description: >-
 ## M
 
 **MDB: Mandatendatabank / Mandates database** is a repository containing contact details of persons who hold leadership positions in Municipalities, Districts, Provinces and OCMW's. Local authorities maintain the data of the mandatees [through a module in the Loket Lokale Besturen of ABB](http://localhost:5000/s/-MUxLEJUEskn-COptDln/modules/mandatenbeheer).
+
+**MVP: Minimum Viable Product** is is a product with enough features to attract early-adopter customers and validate a product idea early in the product development cycle. In industries such as software, the MVP can help the product team receive user feedback as quickly as possible to iterate and improve the product.
 
 ## N
 
@@ -112,6 +120,8 @@ description: >-
 
 **PO: Product Owne**r is an Agile team member primarily responsible for maximizing the value delivered by the team by ensuring that the team backlog is aligned with customer and stakeholder needs.
 
+**POC: a Proof of Concept** is a demonstration of a product in which work is focused on determining whether an idea can be turned into a reality. A POC's goal is not to seek market demand for the concept or choose the best way to produce it. Rather than focusing on building or developing the idea, it tests whether the idea is feasible and viable.
+
 ## Q
 
 
@@ -123,6 +133,8 @@ description: >-
 **RVM: Register van Maatregelen/ Register of measures** is a central digital register for all kinds of measures. Agentschap Binnenlands Bestuur is creating this central repository together with other agencies of the Goverment of Flanders. The register features traffic signs and traffic roadmarks, ...
 
 **Register van Reglementaire Bijlagen en Codelijsten / Register of regulatory attachments and codelists** is - contrary to the RVM - a register that does not contain single measures but entire templates and codelists that come in handy when drawing up regulations.
+
+**RO: Representatief Orgaan/ Representative Organ/ Body** is a formal group of people (e.g. diocese, synod, ...) who have an advisory role towards the worship services that are linked to the representative organ.&#x20;
 
 ## S
 
