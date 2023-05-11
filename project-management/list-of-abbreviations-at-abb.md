@@ -39,7 +39,7 @@ description: >-
 
 **COP: A community of practice** takes place around a certain role in the operation or specific competencies. During these meetings, examples are shared, new techniques are taught or even new practices are developed.
 
-**CVP: Centrale Vindplaats**
+**CVP: Centrale Vindplaats** is a repository for structured information derived from meeting minutes, decisions, codelists etc . The data can be requested using SPARQL queries on endpoints of this centrale vindplaats.
 
 ## D
 
