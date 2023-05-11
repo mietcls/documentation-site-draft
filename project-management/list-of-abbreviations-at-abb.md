@@ -21,17 +21,25 @@ description: >-
 
 **BC\&K: Beleidscoördinatie en Kennisorgansiatie** is a team of Agentschap Binnenlands Bestuur that has [the following tasks and responsibilities](https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-kanselarij-bestuur-buitenlandse-zaken-en-justitie/agentschap-binnenlands-bestuur/beleidscoordinatie-en-kennisorganisatie).&#x20;
 
+**BIM: Building Information Model** is is a digital model of an existing and/or planned construction, made up of objects to which information is linked. In addition to the geometry and position of, for example, a wall, such a model can also contain information such as the building material to be used (masonry or reinforced concrete), costs, the dimensions of an opening for a window frame and the course of the pipework. The object-oriented information can be linked to several things such as phasing, functions, required structural strength, specific connection to surrounding objects, and so on.
+
 **BNB: Burgernabije Besluitendatabank/ Public descisions database for civilians** is a public decision database of Agentschap Binnenlands Bestuur that aims at making available all public decisions that were reported or submitted by the local authorities and that are related to themes that concern citizens.
 
 **BRM: the Backlog Refinement Meeting** is a get together of the product team (scum team, product owner, scrum master and product manager eventually) to refine the backlog as a preparation for an upcoming sprint. More information on the BRM is to be found [here](http://localhost:5000/s/-MP9YhmfGLVRY7JjkhY8-887967055/project-management-and-working-together/de-ontwikkelcadans/4-reguliere-sprints/backlog-refinement-meeting).
 
 **BSBVR: Beleid Steden, Brussel & Vlaamse Rand** is a team of Agentschap Binnenlands Bestuur that has [the following tasks and responsibilities](https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-kanselarij-bestuur-buitenlandse-zaken-en-justitie/agentschap-binnenlands-bestuur/beleid-steden-brussel-en-vlaamse-rand).
 
+**BVR: Besluit van de Vlaamse Regering / Decision of the Flemish Government**
+
 ## C
 
-**CEB:** Centraal Bestuur van de Eredienst&#x20;
+**CEB: Centraal Bestuur van de Eredienst / The central boards of the worship service** mainly have financial tasks. In certain cases, they also stimulate communication and coordination at municipal and provincial level.​​​​​​
 
 **CPD: Centrale PlanningsDag / Central Planning Day**, the core planning and demo event of every growthspurt that takes place every second Thursday of the IPI - Innovation and Planning Iteration. During this event the product teams demo what value has been delivered to the users or ABB as an organization. The demo is being watched by a large number of stakeholders and the various team members. After the demo's the teams gather in breakout sessions to plan the upcoming growthspurt. The CPD is concluded with a plenary session where the results of the planning sessions are being presented. Main focus during this final part of the CPD is on the spurtgoals for every product(team).
+
+**COP: A community of practice** takes place around a certain role in the operation or specific competencies. During these meetings, examples are shared, new techniques are taught or even new practices are developed.
+
+**CVP: Centrale Vindplaats**
 
 ## D
 
@@ -60,6 +68,8 @@ description: >-
 
 
 ## I
+
+**IF: Inspectie Financien m**onitors expenditure and the proper use of government resources, including ABB and more specifically Digiteam. For example, a planned government contract of a certain amount must be submitted to IF for verification, or at certain times reports must be made about what we have done with our resources.
 
 **IGS: InterGemeentelijk Samenwerkingsverband/ Intermunicipal partnership** is a generic term for the joint provision of public services by several municipalities. The cooperating municipalities are usually (but not always) neighboring municipalities.
 
@@ -101,6 +111,8 @@ description: >-
 ## M
 
 **MDB: Mandatendatabank / Mandates database** is a repository containing contact details of persons who hold leadership positions in Municipalities, Districts, Provinces and OCMW's. Local authorities maintain the data of the mandatees [through a module in the Loket Lokale Besturen of ABB](http://localhost:5000/s/-MUxLEJUEskn-COptDln/modules/mandatenbeheer).
+
+**METIS:** the front end of the Centrale Vindplaats&#x20;
 
 **MVP: Minimum Viable Product** is is a product with enough features to attract early-adopter customers and validate a product idea early in the product development cycle. In industries such as software, the MVP can help the product team receive user feedback as quickly as possible to iterate and improve the product.
 
@@ -153,6 +165,10 @@ description: >-
 
 
 ## V
+
+**VDOM: a Virtual document object model** that is used in the rdfa-editor as a programming concept where an ideal, or “virtual”, representation of a UI is kept in memory and synced with the “real” DOM by a library.
+
+**VIP: Vastgoed Informatie Platform or The Property Information Platform** is an initiative of the municipalities, in collaboration with VVSG, the real estate sector (CIB & FedNot) and the Flemish Government. Digital Flanders is responsible for the development of the platform and operational management. The aim of VIP is to become a digital portal where the applicant for real estate information can request the necessary data in the context of a sale or long-term rental in one simple way. The platform then collects all data from the available, connected sources (central registers & municipalities).
 
 **VLOCA: Vlaamse Open City Architectuur/ Flemish Open City Architecture** is a trajectory that offers an initiator of a city project a standardized approach in establishing the architectural elements of an open city project. VLOCA's standardized approach and deliverables ensure that every open city project is formed in the same way, can benefit from each other's achievements and ultimately results in an optimally interoperable solution throughout Flanders.
 
