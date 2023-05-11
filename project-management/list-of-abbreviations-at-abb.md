@@ -9,17 +9,27 @@ description: >-
 
 ## A
 
+**ACM/IDM: Access Management/ Identity Management** is the Access Management of the Flemish government (ACM) and the User Management of the Flemish government (IDM). The ACM-part determines the ways a user can log into an application, the IDM-part determines the access roles granted to a user after being logged in.
+
 **AGB: Autonoom GemeenteBedrijf / Autonomous Municipal Company** is an independent agency of the founding city or municipality and therefore has its own legal identity/ personality. An AGB is always a 100% subsidiary of the founding municipality. An AGB itself can participate in other legal entities in which other (public or private partners) also participate. An AGB is governed by a board of directors. A management committee is responsible for the day-to-day management. The board of directors is composed by the municipal council and consists of a majority of members of the municipal council. Since the composition of the municipal council changes after the six-yearly municipal elections, the board of directors is also reconstituted.
 
 **APB: Autonoom ProvincieBedrijf / Autonomous provincial company (APB**) is a form of provincial external independence. It is set up by the province, has its own legal personality with a public-law status and carries out specific tasks of provincial importance. All tasks of provincial importance are eligible to be taken care of by the APB.​​​​​
 
 ## B
 
+**BBC-DR: Beleids-en Beheerscyclus - Digitale Rapportering** is a module in Loket Lokale Besturen helping local authorities to comply to / fulfill legal requirements with respect to (financial?) reporting over past periods.&#x20;
+
+**BC\&K: Beleidscoördinatie en Kennisorgansiatie** is a team of Agentschap Binnenlands Bestuur that has [the following tasks and responsibilities](https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-kanselarij-bestuur-buitenlandse-zaken-en-justitie/agentschap-binnenlands-bestuur/beleidscoordinatie-en-kennisorganisatie).&#x20;
+
 **BNB: Burgernabije Besluitendatabank/ Public descisions database for civilians** is a public decision database of Agentschap Binnenlands Bestuur that aims at making available all public decisions that were reported or submitted by the local authorities and that are related to themes that concern citizens.
+
+**BSBVR: Beleid Steden, Brussel & Vlaamse Rand** is a team of Agentschap Binnenlands Bestuur that has [the following tasks and responsibilities](https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-kanselarij-bestuur-buitenlandse-zaken-en-justitie/agentschap-binnenlands-bestuur/beleid-steden-brussel-en-vlaamse-rand).
 
 ## C
 
+**CEB:** Centraal Bestuur van de Eredienst&#x20;
 
+**CPD: Centrale PlanningsDag / Central Planning Day**, the core planning and demo event of every growthspurt that takes place every second Thursday of the IPI - Innovation and Planning Iteration. During this event the product teams demo what value has been delivered to the users or ABB as an organization. The demo is being watched by a large number of stakeholders and the various team members. After the demo's the teams gather in breakout sessions to plan the upcoming growthspurt. The CPD is concluded with a plenary session where the results of the planning sessions are being presented. Main focus during this final part of the CPD is on the spurtgoals for every product(team).
 
 ## D
 
@@ -35,13 +45,13 @@ description: >-
 
 ## G
 
+**GKII: Gelijke Kansen, Integratie & Inburgering** is a team of Agentschap Binnenlands Bestuur that has [the following tasks and responsibilities](https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-kanselarij-bestuur-buitenlandse-zaken-en-justitie/agentschap-binnenlands-bestuur/gelijke-kansen-integratie-en-inburgering).
+
 **GN: Gelinkt Notuleren / Linked Minutes** is an application that helps local authorities to create, annotate and publish agendas, decisions and minutes according to the linked open data principle. It builds on information from, among other things, the Flemish Codex, the mandate database and the manager database.
 
 **GSM: Gemeente-stadsmonitor** is is a [digital 'environmental scanning tool'](https://gemeente-stadsmonitor.vlaanderen.be/over-de-gemeente-stadsmonitor) that maps the broad environment of every Flemish municipality and city. The monitor contains more than 300 environmental indicators or series of figures, of which more than 100 are collected by means of a three-yearly citizen survey.
 
 **GZG: Gemeenten Zonder Gemeentehuis/ Municipalities without a town hall** is subsidy program that supports local authorities in Flanders to jointly develop innovative, digital solutions to make their services more efficient and customer-oriented. The first call was opened in September 2021, the last call ran until September 30, 2022. Agentschap Binnenlands Bestuur is closely involved in the management of this program.
-
-
 
 ## H
 
@@ -51,7 +61,9 @@ description: >-
 
 **IGS: InterGemeentelijk Samenwerkingsverband/ Intermunicipal partnership** is a generic term for the joint provision of public services by several municipalities. The cooperating municipalities are usually (but not always) neighboring municipalities.
 
-IPDC:&#x20;
+**IPDC: the Intergovernmental Products and Services Catalog (IPDC)** provides an overview of the various services provided by the local, Flemish and federal government. The IPDC is integrated into the 'Single Digital Gateway' of the European Union making sure that (selected) local, Flemish and Federal services are visible on [https://europa.eu/youreurope/](https://europa.eu/youreurope/)
+
+**IPI: Innovation and Planning Iteration**, the fifth and final sprint of a (growth)spurt in which the team makes time for planning and innovation. The idea is to create a break from delivering product features and deliberatly creating room to plan carefully and try out/ experiment things that might come in handy in the future.
 
 **IRGN: Interactieve Reglementen Gelinkt Notuleren** is [an application aimed at local authorities who need help/ guidance in drawing up additional regulations for road traffic.](https://www.vlaanderen.be/aanvullende-reglementen-ar-op-het-wegverkeer/een-aanvullend-reglement-opmaken-irgn#interactieve-reglementen-gelinkt-notuleren-irgn) The application consists of two modules:
 
@@ -70,15 +82,19 @@ IPDC:&#x20;
 
 **LBLOD: Lokale Besluiten als Linked Open Data /** **Local Decisions as Linked Open Data** (LBLOD) is a program. It includes all ABB projects on linked data and local decision making. By publishing the data in local decisions as linked open data, organisations can reuse that data more easily. Linked data is standardised, making it easy for machines to find and process it. Anyone can work with the information in the local acts thanks to LBLOD.
 
+**LDB: Leidinggevenden DataBank/ Executives Database** is a repository that is maintained by the local authorities [through a module in the Loket Lokale Besturen of ABB (leidinggevendenbeheer)](http://localhost:5000/s/-MUxLEJUEskn-COptDln/modules/leidinggevendenbeheer). It contains (contact)information of persons maintaining executive positions at the local authorities.
+
 **LDES: A Linked Data Event Stream** is a new data publishing approach which allows you to publish any dataset as a collection of immutable objects. The focus of an LDES is to allow clients to replicate the history of a dataset and efficiently synchronize with its latest changes.
 
 **LLB: Loket Lokale Besturen/ Counter for Local Authorities** is an online application of Agentschap Binnenlands Bestuur for data sharing between local authorities and the agency. It consists of different modules used for different communication topics or purposes.
 
-**LPDC: Lokale Producten en DienstenCatalogus/ local products and services catalog** is a digital repository that provides an overview of the various services provided by the local, Flemish and federal government.&#x20;
+**LPDC: Lokale Producten en DienstenCatalogus/ local products and services catalog** is a digital repository that provides an overview of the various services provided by the local governments. The repository is managed by the local authorities through a webapplication built and maintained by ABB. The creation, the update or deletion of services is synced with the IPDC.
+
+**LSVP: Lokale Samenwerking, Verzelfstandiging & Personeel** is a team of Agentschap Binnenlands Bestuur that has [the following tasks and responsibilities](https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-kanselarij-bestuur-buitenlandse-zaken-en-justitie/agentschap-binnenlands-bestuur/lokale-samenwerking-verzelfstandiging-en-personeel).
 
 ## M
 
-
+**MDB: Mandatendatabank / Mandates database** is a repository containing contact details of persons who hold leadership positions in Municipalities, Districts, Provinces and OCMW's. Local authorities maintain the data of the mandatees [through a module in the Loket Lokale Besturen of ABB](http://localhost:5000/s/-MUxLEJUEskn-COptDln/modules/mandatenbeheer).
 
 ## N
 
@@ -88,9 +104,13 @@ IPDC:&#x20;
 
 **OP: Organisatieportaal / Organization Portal** is a web application used by people at Agentschap Binnenlands Bestuur to visualize and edit data about governing public organizations of local authorities and worship services and people linked to these organizations.
 
+**OSLO: Open Standards for Linking Organizations** is an unambiguous standard for the exchange of information brought to life by the Government of Flanders. The intention is to ensure more cohesion, better comprehensibility and better findability of information and services. In this way, everyone can use the data more easily.
+
 ## P
 
+**PM: Product Manager** is responsible for defining desirable, viable, feasible, and sustainable solutions that meet customer needs and supporting development across the product life cycle. He or she works closely together with the Product Owner.
 
+**PO: Product Owne**r is an Agile team member primarily responsible for maximizing the value delivered by the team by ensuring that the team backlog is aligned with customer and stakeholder needs.
 
 ## Q
 
@@ -106,9 +126,11 @@ IPDC:&#x20;
 
 ## S
 
-**SPARQL short for “SPARQL Protocol and RDF Query Language”,** enables users to query information from databases or any data source that can be mapped to [RDF](https://www.ontotext.com/knowledgehub/fundamentals/what-is-rdf/).
+**SAFe: Scaled Agile Framework** is a framework for Business Agility. SAFe combines fundamental practices of Lean, Agile, and DevOps into a theoretical operating system that should help organizations in delivering innovative products and services faster, more predictably, and with higher quality.
 
-The [SPARQL standard](https://www.w3.org/TR/sparql11-overview/) is designed and endorsed by the [W3C](https://www.w3.org/2007/12/sparql-pressrelease) and helps users and developers focus on what they would like to know instead of how a database is organized.
+**SPARQL: “SPARQL Protocol and RDF Query Language”,** enables users to query information from databases or any data source that can be mapped to [RDF](https://www.ontotext.com/knowledgehub/fundamentals/what-is-rdf/). The [SPARQL standard](https://www.w3.org/TR/sparql11-overview/) is designed and endorsed by the [W3C](https://www.w3.org/2007/12/sparql-pressrelease) and helps users and developers focus on what they would like to know instead of how a database is organized.
+
+**SSU Reporting: Solution Stand-Up Reporting** is a biweekly meeting, every first Monday of a sprint, where the product manager and product owners of the various products meet with the members of the Solution Management Team to report on the progress made during the previous sprint in realizing sprint/ spurt objectives and returning value for the organization. &#x20;
 
 ## T
 
@@ -120,7 +142,7 @@ The [SPARQL standard](https://www.w3.org/TR/sparql11-overview/) is designed and 
 
 ## V
 
-
+**VLOCA: Vlaamse Open City Architectuur/ Flemish Open City Architecture** is a trajectory that offers an initiator of a city project a standardized approach in establishing the architectural elements of an open city project. VLOCA's standardized approach and deliverables ensure that every open city project is formed in the same way, can benefit from each other's achievements and ultimately results in an optimally interoperable solution throughout Flanders.
 
 ## W
 
