@@ -15,7 +15,7 @@ description: >-
 
 **APB: Autonoom ProvincieBedrijf / Autonomous provincial company (APB**) is a form of provincial external independence. It is set up by the province, has its own legal personality with a public-law status and carries out specific tasks of provincial importance. All tasks of provincial importance are eligible to be taken care of by the APB.​​​​​
 
-**AVG: Algemene Verordening Gegevensbescherming/ General Data Protection Regulation:** The GDPR stipulates that member states consult the supervisory authority when drawing up draft regulations relating to the processing of personal data. At Flemish level, the VTC is the competent authority from whom such advice should be sought.
+**AVG: Algemene Verordening Gegevensbescherming/ General Data Protection Regulation:** The GDPR stipulates that member states consult the supervisory authority when drawing up draft regulations relating to the processing of personal data. At Flemish level, the VTC is the competent authority from whom such advice should be sought. Every organisation should perform a risk assessment and implement fitting technical and organisation measures for every data processing activity. Refer to DPO and DPIA.
 
 ## B
 
@@ -45,6 +45,10 @@ description: >-
 
 ## D
 
+**DPIA: Data Protection Impact Assessment**, is an assessment which documents the technical and organizational measures (how we build controls into techology or how we organize people against risks) the agency implements to protect personal data processed by the agency. Every application should have a personal data processing risk assessment documenten. If there are significant risks to the protection of personal data, we perform a DPIA, which the DPO must advize on. Management must accept residual risks.
+
+**DPO: Data protection officer**, ensures, in an independent manner, that an organization applies the laws protecting individuals' [personal data](https://en.wikipedia.org/wiki/Personal\_data). (Ref Wikipedia [https://en.wikipedia.org/wiki/Data\_protection\_officer](https://en.wikipedia.org/wiki/Data\_protection\_officer)) In Europe, this is the GDPR [https://en.wikipedia.org/wiki/General\_Data\_Protection\_Regulation](https://en.wikipedia.org/wiki/General\_Data\_Protection\_Regulation) aka AVG, Algemene Verordening Gegevensbescherming.
+
 
 
 ## E
@@ -56,6 +60,8 @@ description: >-
 **FP: a Feature Passport** is a document that describes one specific feature in a way that is understandable for the (non-technical) stakeholders, the current team members, and potential professionals who will be contributing to the product in the future. It travels with the feature from conception/ design/ development over testing into release. Changing the feature at a later time will go hand in hand with updating the feature passport accordingly.
 
 ## G
+
+**GEB: Gegevensbescherminseffectenbeoordeling.** This is a DPIA, a data protection impact assessment. Refer to DPIA.
 
 **GKII: Gelijke Kansen, Integratie & Inburgering** is a team of Agentschap Binnenlands Bestuur that has [the following tasks and responsibilities](https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-kanselarij-bestuur-buitenlandse-zaken-en-justitie/agentschap-binnenlands-bestuur/gelijke-kansen-integratie-en-inburgering).
 
