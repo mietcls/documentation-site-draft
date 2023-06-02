@@ -15,6 +15,8 @@ description: >-
 
 **APB: Autonoom ProvincieBedrijf / Autonomous provincial company (APB**) is a form of provincial external independence. It is set up by the province, has its own legal personality with a public-law status and carries out specific tasks of provincial importance. All tasks of provincial importance are eligible to be taken care of by the APB.​​​​​
 
+**AVG: Algemene Verordening Gegevensbescherming/ General Data Protection Regulation:** The GDPR stipulates that member states consult the supervisory authority when drawing up draft regulations relating to the processing of personal data. At Flemish level, the VTC is the competent authority from whom such advice should be sought.
+
 ## B
 
 **BBC-DR: Beleids-en Beheerscyclus - Digitale Rapportering** is a module in Loket Lokale Besturen helping local authorities to comply to / fulfill legal requirements with respect to (financial?) reporting over past periods.&#x20;
