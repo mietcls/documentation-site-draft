@@ -55,6 +55,8 @@ description: >-
 
 **Embeddable** is a 'stripped' version of the application GN/ Linked Minutes that helps local authorities create, annotate and publish agendas, decisions and minutes according to the linked open data principle. This embeddable version is aimed at software suppliers of local governments. The goal of this tool is that they can easily integrate it into the software they have supplied to their customers (local authorities). In this way they do not have to invest time in developing and maintaining core components. The benefit for us as supervising agency is that the quality of the annotated data in the decisions made with this embeddable is up to our standards guaranteeing the reusability of the data.
 
+**EVA:** Extern Verzelfstandigd Agentschap/ Municipal externally autonomous agency is a services with it's own legal personality. It may take a public or private form.
+
 ## F
 
 **FP: a Feature Passport** is a document that describes one specific feature in a way that is understandable for the (non-technical) stakeholders, the current team members, and potential professionals who will be contributing to the product in the future. It travels with the feature from conception/ design/ development over testing into release. Changing the feature at a later time will go hand in hand with updating the feature passport accordingly.
@@ -135,6 +137,8 @@ description: >-
 **OSLO: Open Standards for Linking Organizations** is an unambiguous standard for the exchange of information brought to life by the Government of Flanders. The intention is to ensure more cohesion, better comprehensibility and better findability of information and services. In this way, everyone can use the data more easily.
 
 ## P
+
+**PEVA: Privaatrechtelijk Extern Verzelfstandigd Agentschap/ Private Law External Independent Agency:** The municipal externally autonomous agencies (EVAs) are services with their own legal personality. They may take a public or private form. The public-law municipal EVAs are autonomous municipal companies (AGBs) and municipal autonomous port companies. Private-law municipal EVAs (PEVAs) are companies, associations (especially non-profit organisations) or foundations.
 
 **PM: Product Manager** is responsible for defining desirable, viable, feasible, and sustainable solutions that meet customer needs and supporting development across the product life cycle. He or she works closely together with the Product Owner.
 
