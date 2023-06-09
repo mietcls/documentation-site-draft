@@ -18,7 +18,7 @@ Read about how they work: [https://abb-vlaanderen.gitbook.io/gelinkt-notuleren-h
 
 {% hint style="info" %}
 **Support Linked Decision Making**\
-****Gelinkt Notuleren aims to support decision making, but does not exist to disrupt the market.
+Gelinkt Notuleren aims to support decision making, but does not exist to disrupt the market.
 
 The functionalities we offer exist to **enable linked decision making**
 {% endhint %}

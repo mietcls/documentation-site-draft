@@ -11,7 +11,7 @@ The general manager is responsible for the general and coordinating management o
 ## Agenda
 
 **Agenda item in draft / draft decision / Agendapunt in concept / ontwerpbesluit**\
-****A draft (possibly to be added to or modified) of the resolution that would result from this agenda item.
+A draft (possibly to be added to or modified) of the resolution that would result from this agenda item.
 
 **Internal agenda / Interne agenda**\
 An agenda (possibly to be added to or modified), which can be reviewed internally.

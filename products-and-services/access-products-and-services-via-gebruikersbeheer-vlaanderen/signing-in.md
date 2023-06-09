@@ -47,7 +47,7 @@ Make sure your browser settings are correct.
 * **Firefox**\
   Visit this link [https://support.mozilla.org/en-US/kb/pop-blocker-settings-exceptions-troubleshooting#w\_pop-up-blocker-settings](https://support.mozilla.org/en-US/kb/pop-blocker-settings-exceptions-troubleshooting#w\_pop-up-blocker-settings) and choose Pop-up blocker settings.
 * **Chrome**\
-  ****Visit this link [https://support.google.com/chrome/answer/95472?co=GENIE.Platform%3DDesktop\&hl=en](https://support.google.com/chrome/answer/95472?co=GENIE.Platform%3DDesktop\&hl=en).
+  Visit this link [https://support.google.com/chrome/answer/95472?co=GENIE.Platform%3DDesktop\&hl=en](https://support.google.com/chrome/answer/95472?co=GENIE.Platform%3DDesktop\&hl=en).
 
 {% hint style="info" %}
 Not getting access to the application? Go to [Gebruikersbeheer Vlaanderen](../toegankelijk-vlaanderen.md) for more information.

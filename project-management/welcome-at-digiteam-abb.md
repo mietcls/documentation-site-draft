@@ -1,4 +1,16 @@
-# Hybrid work/ collaboration at Digiteam ABB
+# Welcome at Digiteam ABB
+
+## About us and our vision on the semantic ecosystem between governments and civilians
+
+Consult this document describing our vision and mission, about our values as an organization:
+
+{% file src="../.gitbook/assets/VisieDigiteam_20230608.pdf" %}
+
+Listen to Veronique and Pieter talk about our vision and mission as a team:
+
+{% embed url="https://drive.google.com/file/d/1k7lkt3fzEnh_SIc9TaQ04orz1pc06uou/view?usp=drive_link" %}
+
+## Hybrid work/ collaboration at Digiteam ABB
 
 At Digiteam ABB - even more than before the pandemic - we work very efficiently and effectively (together) remotely. All Agile sprint and spurt rituals associated with our result-oriented SAFE operation remain digital. Inside and outside meetings, there is plenty of room and trust for social interaction. Working time/ Availability has never been an issue: everyone is there when needed or has made agreements to cover any absence.
 
