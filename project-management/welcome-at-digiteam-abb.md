@@ -2,11 +2,13 @@
 
 ## About us and our vision on the semantic ecosystem between governments and civilians
 
-Consult this document describing our vision and mission, about our values as an organization:
+As a team we work day to day to strengthen our democracy by actively informing and involving citizens and business in (local) descision making. Furtermore we strive to simplify digital services through maintaining and reusing information efficiently through a _single digital entry_.&#x20;
+
+Read more about this in the document below describing our vision and mission, about our values as an organization:
 
 {% file src="../.gitbook/assets/VisieDigiteam_20230608.pdf" %}
 
-Listen to Veronique and Pieter talk about our vision and mission as a team:
+or listen to Veronique and Pieter talking about our vision and mission as a team:
 
 {% embed url="https://drive.google.com/file/d/1k7lkt3fzEnh_SIc9TaQ04orz1pc06uou/view?usp=drive_link" %}
 
