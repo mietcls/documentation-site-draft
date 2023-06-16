@@ -10,6 +10,10 @@ Read more about this in the document below describing our vision and mission, ab
 
 or listen to Veronique and Pieter talking about our vision and mission as a team:
 
+[https://youtu.be/hOQVk8PERls](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FhOQVk8PERls\&data=05%7C01%7Cdries.beheydt2%40vlaanderen.be%7C4a48c0ba47154e3fc8ca08db6d9f99c9%7C0c0338a695614ee8b8d64e89cbd520a0%7C0%7C0%7C638224304473791034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C\&sdata=alg7lAFJRqppftZJKiBR3cOsAqoieYNxXNk6JUEWxjA%3D\&reserved=0)
+
+En de embed: \<iframe width="560" height="315" src=[https://www.youtube.com/embed/hOQVk8PERls](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fembed%2FhOQVk8PERls\&data=05%7C01%7Cdries.beheydt2%40vlaanderen.be%7C4a48c0ba47154e3fc8ca08db6d9f99c9%7C0c0338a695614ee8b8d64e89cbd520a0%7C0%7C0%7C638224304473791034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C\&sdata=GxdG79eRCyMOeDlLM133aCX8CoqAn7nbKpoOp0HAf14%3D\&reserved=0) title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>\</iframe>
+
 {% embed url="https://drive.google.com/file/d/1k7lkt3fzEnh_SIc9TaQ04orz1pc06uou/view?usp=drive_link" %}
 
 ## Hybrid work/ collaboration at Digiteam ABB
