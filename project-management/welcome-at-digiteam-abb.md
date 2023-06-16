@@ -12,10 +12,6 @@ or listen to Veronique and Pieter talking about our vision and mission as a team
 
 {% embed url="https://youtu.be/hOQVk8PERls" %}
 
-
-
-{% embed url="https://drive.google.com/file/d/1k7lkt3fzEnh_SIc9TaQ04orz1pc06uou/view?usp=drive_link" %}
-
 ## Hybrid work/ collaboration at Digiteam ABB
 
 At Digiteam ABB - even more than before the pandemic - we work very efficiently and effectively (together) remotely. All Agile sprint and spurt rituals associated with our result-oriented SAFE operation remain digital. Inside and outside meetings, there is plenty of room and trust for social interaction. Working time/ Availability has never been an issue: everyone is there when needed or has made agreements to cover any absence.
