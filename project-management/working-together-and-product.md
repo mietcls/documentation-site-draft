@@ -32,7 +32,9 @@ The prototyping tool Figma is used for [user interface](https://en.wikipedia.org
 
 The prototype tool Figma is used for designing user interfaces and user experiences. It enables the product teams to collaborate on user interfaces in real time: it helps them to design relevant screens for users and it helps describing how the screens should work. Furthermore it helps the testing team to get the relevant information about what to test without having to read long documents describing the user interface and user experience.
 
+## Jira
 
+Jira is widely used within Digiteam ABB as the central tool to operate our sprints and growthspurts. It contains the product backlogs and is used to refine, plan and run a sprint. Furthermore a growing number of product teams are using the releases feature and the roadmap feature to plan and operate the product roadmap.
 
 ## Feature Passports
 

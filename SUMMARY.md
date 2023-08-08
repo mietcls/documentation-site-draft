@@ -3,7 +3,7 @@
 * [Help Build the Semantische Ecosystem of ABB](README.md)
 * [LBLOD – Local Governments & Linked Open Data](lblod-lokale-besturen-and-linked-open-data.md)
 
-## Product management & working together <a href="#project-management" id="project-management"></a>
+## Working together at Digiteam ABB <a href="#project-management" id="project-management"></a>
 
 * [Welcome at Digiteam ABB](project-management/welcome-at-digiteam-abb.md)
 * [Solution life cycle](project-management/solution-life-cycle.md)
