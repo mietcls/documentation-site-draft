@@ -3,6 +3,19 @@
 * [Help Build the Semantische Ecosystem of ABB](README.md)
 * [LBLOD – Local Governments & Linked Open Data](lblod-lokale-besturen-and-linked-open-data.md)
 
+## Product management & working together <a href="#project-management" id="project-management"></a>
+
+* [Welcome at Digiteam ABB](project-management/welcome-at-digiteam-abb.md)
+* [Solution life cycle](project-management/solution-life-cycle.md)
+* [Agile product development at ABB](project-management/agile-product-development-at-abb.md)
+* [Acceptance Criteria](project-management/acceptance-criteria.md)
+* [Roles](project-management/roles.md)
+* [Tools to work together](project-management/working-together-and-product.md)
+* [Jira](project-management/jira.md)
+* [Feature Passports](project-management/feature-passports.md)
+* [Growthspurts calendar](project-management/growthspurts-calendar.md)
+* [List of abbreviations at ABB](project-management/list-of-abbreviations-at-abb.md)
+
 ## Products & Services
 
 * [Gelinkt Notuleren, Embeddable en Plug-ins](products-and-services/gelinkt-notuleren/README.md)
@@ -65,16 +78,3 @@
 
 * [User Interviews & Testing](testing/user-interviews-and-testing.md)
 * [Testing](testing/testing.md)
-
-## Product management & working together <a href="#project-management" id="project-management"></a>
-
-* [Welcome at Digiteam ABB](project-management/welcome-at-digiteam-abb.md)
-* [Solution life cycle](project-management/solution-life-cycle.md)
-* [Agile product development at ABB](project-management/agile-product-development-at-abb.md)
-* [Acceptance Criteria](project-management/acceptance-criteria.md)
-* [Roles](project-management/roles.md)
-* [Tools to work together](project-management/working-together-and-product.md)
-* [Jira](project-management/jira.md)
-* [Feature Passports](project-management/feature-passports.md)
-* [Growthspurts calendar](project-management/growthspurts-calendar.md)
-* [List of abbreviations at ABB](project-management/list-of-abbreviations-at-abb.md)
