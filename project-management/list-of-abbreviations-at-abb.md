@@ -7,6 +7,8 @@ description: >-
 
 # List of abbreviations at ABB
 
+PLEASE, help us to make this list complete. If you bump into an abbreviation or concept we use and you don't find an explanation for it here or if you know one yourself that is not featured on this page then add it to this page to make it more useful and keep it up to date. THANK YOU!
+
 ## A
 
 **ACM/IDM: Access Management/ Identity Management** is the Access Management of the Flemish government (ACM) and the User Management of the Flemish government (IDM). The ACM-part determines the ways a user can log into an application, the IDM-part determines the access roles granted to a user after being logged in.
