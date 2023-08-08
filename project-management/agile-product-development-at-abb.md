@@ -2,10 +2,6 @@
 
 The way we develop our products and collaborate together is based on the [Scaled Agile Framework (SAFe)](https://www.scaledagileframework.com), be it with some adaptations to better match our ABB Digiteam way of doing things and the number of people in our team.
 
-{% hint style="danger" %}
-This page is under construction. Do you read something weird? Please get in touch! [david.suijkerbuijk@vlaanderen.be](mailto:david.suijkerbuijk@vlaanderen.be)
-{% endhint %}
-
 ## Agile product development! Why?
 
 Big challenges are broken down in smaller, manageable parts. In doing so a constant flow emerges and as a team we can see our solutions grow.

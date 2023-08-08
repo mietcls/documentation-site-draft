@@ -84,8 +84,8 @@ In addition, the train conductor supervises the learning and continuous improvem
 
 ## Overview of who is who in the ABB Product teams
 
-[Here](http://localhost:5000/s/-MP9YhmfGLVRY7JjkhY8-887967055/project-management-and-working-together/rollen) is a complete overview of the current members of the product teams.
+[Here](http://127.0.0.1:5000/s/-MP9YhmfGLVRY7JjkhY8-887967055/project-management-and-working-together/rollen) is a complete overview of the current members of the product teams.
 
 ### Solution level ABB
 
-[Here](http://localhost:5000/s/-MP9YhmfGLVRY7JjkhY8-887967055/project-management-and-working-together/rollen#product-teams-abb) is a complete overview of the current members of the Solution level at ABB Digiteam.
+[Here](http://127.0.0.1:5000/s/-MP9YhmfGLVRY7JjkhY8-887967055/project-management-and-working-together/rollen#product-teams-abb) is a complete overview of the current members of the Solution level at ABB Digiteam.
