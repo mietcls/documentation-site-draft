@@ -100,7 +100,7 @@ PLEASE, help us to make this list complete. If you bump into an abbreviation or 
 
 ## K
 
-
+**KALLIOPE**: product name for the case (dossier) management system used by the Agency for Home Affairs for managing files related to its operational activities. In the system - which is based on a generic Case Management product of an external party configured to the needs of ABB - 'dossiers' of certain types are managed. For its operation, Kalliope has integrations with other applications of the agency such as: the Digital Loket for digital communication regarding cases (dossiers) with local authorities, the organization portal for keeping contact information of authorities up to date.
 
 ## L
 
