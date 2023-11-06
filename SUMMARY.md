@@ -51,6 +51,7 @@
 ## Development
 
 * [Architecture](development/architecture/README.md)
+  * [Simple Mental Model of the Architectural Runway](development/architecture/simple-mental-model-of-the-architectural-runway.md)
   * [Semantic Works Application Framework (FKA mu.semte.ch)](development/architecture/semantic-works-application-framework.md)
   * [Docker](development/architecture/docker.md)
   * [Linked Data & SPARQL](development/architecture/linked-data/README.md)
