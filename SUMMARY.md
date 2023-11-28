@@ -34,7 +34,7 @@
   * [Personeelsbeheer](products-and-services/loket-voor-lokale-besturen/personeelsbeheer.md)
   * [Subsidiebeheer](products-and-services/loket-voor-lokale-besturen/subsidiebeheer.md)
   * [Form Builder](products-and-services/loket-voor-lokale-besturen/form-builder.md)
-* [Erediensten](products-and-services/erediensten.md)
+* [Worship Services (Erediensten)](products-and-services/erediensten.md)
 * [Organization Portal](products-and-services/contacthub.md)
 * [Publieke databanken - Public databases](products-and-services/wikis-and-publieke-databanken-public-databases/README.md)
   * [Mandatendatabank](products-and-services/wikis-and-publieke-databanken-public-databases/mandatendatabank.md)
