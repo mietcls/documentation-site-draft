@@ -29,7 +29,7 @@ PLEASE, help us to make this list complete. If you bump into an abbreviation or 
 
 **BNB: Burgernabije Besluitendatabank/ Public descisions database for civilians** is a public decision database of Agentschap Binnenlands Bestuur that aims at making available all public decisions that were reported or submitted by the local authorities and that are related to themes that concern citizens.
 
-**BRM: the Backlog Refinement Meeting** is a get together of the product team (scum team, product owner, scrum master and product manager eventually) to refine the backlog as a preparation for an upcoming sprint. More information on the BRM is to be found [here](http://127.0.0.1:5000/s/-MP9YhmfGLVRY7JjkhY8-887967055/project-management-and-working-together/de-ontwikkelcadans/4-reguliere-sprints/backlog-refinement-meeting).
+**BRM: the Backlog Refinement Meeting** is a get together of the product team (scum team, product owner, scrum master and product manager eventually) to refine the backlog as a preparation for an upcoming sprint. More information on the BRM is to be found [here](https://app.gitbook.com/s/-MP9YhmfGLVRY7JjkhY8-887967055/project-management-and-working-together/de-ontwikkelcadans/4-reguliere-sprints/backlog-refinement-meeting).
 
 **BSBVR: Beleid Steden, Brussel & Vlaamse Rand** is a team of Agentschap Binnenlands Bestuur that has [the following tasks and responsibilities](https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-kanselarij-bestuur-buitenlandse-zaken-en-justitie/agentschap-binnenlands-bestuur/beleid-steden-brussel-en-vlaamse-rand).
 
@@ -106,7 +106,7 @@ PLEASE, help us to make this list complete. If you bump into an abbreviation or 
 
 **LBLOD: Lokale Besluiten als Linked Open Data /** **Local Decisions as Linked Open Data** (LBLOD) is a program. It includes all ABB projects on linked data and local decision making. By publishing the data in local decisions as linked open data, organisations can reuse that data more easily. Linked data is standardised, making it easy for machines to find and process it. Anyone can work with the information in the local acts thanks to LBLOD.
 
-**LDB: Leidinggevenden DataBank/ Executives Database** is a repository that is maintained by the local authorities [through a module in the Loket Lokale Besturen of ABB (leidinggevendenbeheer)](http://127.0.0.1:5000/s/-MUxLEJUEskn-COptDln/modules/leidinggevendenbeheer). It contains (contact)information of persons maintaining executive positions at the local authorities.
+**LDB: Leidinggevenden DataBank/ Executives Database** is a repository that is maintained by the local authorities [through a module in the Loket Lokale Besturen of ABB (leidinggevendenbeheer)](https://app.gitbook.com/s/-MUxLEJUEskn-COptDln/modules/leidinggevendenbeheer). It contains (contact)information of persons maintaining executive positions at the local authorities.
 
 **LDES: A Linked Data Event Stream** is a new data publishing approach which allows you to publish any dataset as a collection of immutable objects. The focus of an LDES is to allow clients to replicate the history of a dataset and efficiently synchronize with its latest changes.
 
@@ -122,7 +122,7 @@ PLEASE, help us to make this list complete. If you bump into an abbreviation or 
 
 ## M
 
-**MDB: Mandatendatabank / Mandates database** is a repository containing contact details of persons who hold leadership positions in Municipalities, Districts, Provinces and OCMW's. Local authorities maintain the data of the mandatees [through a module in the Loket Lokale Besturen of ABB](http://127.0.0.1:5000/s/-MUxLEJUEskn-COptDln/modules/mandatenbeheer).
+**MDB: Mandatendatabank / Mandates database** is a repository containing contact details of persons who hold leadership positions in Municipalities, Districts, Provinces and OCMW's. Local authorities maintain the data of the mandatees [through a module in the Loket Lokale Besturen of ABB](https://app.gitbook.com/s/-MUxLEJUEskn-COptDln/modules/mandatenbeheer).
 
 **METIS:** the front end of the Centrale Vindplaats&#x20;
 

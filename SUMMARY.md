@@ -50,7 +50,13 @@
 
 ## Development
 
-* [General technical overview](development/general-technical-overview.md)
+* [General technical overview](development/general-technical-overview/README.md)
+  * [Introduction](development/general-technical-overview/introduction.md)
+  * [Required knowledge](development/general-technical-overview/required-knowledge.md)
+  * [Mu-semtech](development/general-technical-overview/mu-semtech.md)
+  * [Frontend technology: Ember](development/general-technical-overview/frontend-technology-ember.md)
+  * [ACM/IDM and sessions](development/general-technical-overview/acm-idm-and-sessions.md)
+  * [Synchronization and job mechanism](development/general-technical-overview/synchronization-and-job-mechanism.md)
 * [Architecture](development/architecture/README.md)
   * [Simple Mental Model of the Architectural Runway](development/architecture/simple-mental-model-of-the-architectural-runway.md)
   * [Semantic Works Application Framework (FKA mu.semte.ch)](development/architecture/semantic-works-application-framework.md)
