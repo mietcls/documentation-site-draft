@@ -50,6 +50,7 @@
 
 ## Development
 
+* [General technical overview](development/general-technical-overview.md)
 * [Architecture](development/architecture/README.md)
   * [Simple Mental Model of the Architectural Runway](development/architecture/simple-mental-model-of-the-architectural-runway.md)
   * [Semantic Works Application Framework (FKA mu.semte.ch)](development/architecture/semantic-works-application-framework.md)
