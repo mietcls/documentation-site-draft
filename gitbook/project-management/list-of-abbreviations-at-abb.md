@@ -51,7 +51,7 @@ PLEASE, help us to make this list complete. If you bump into an abbreviation or 
 
 ## D
 
-**DCAT: Data Catalogus**
+**DCAT: Data Catalogus.** DCAT is a way to provide context or metadata for your datasets. By using DCAT, others can easily find and search across all the datasets in a unified way. DCAT Belgium is an Application Profile of the [W3C standard](http://www.w3.org/TR/vocab-dcat/) to describe open datasets ([DCAT-BE](http://dcat.be/)).
 
 **DECIDe:** Data driven Exploration in Contextual Information on Decisions
 
@@ -65,7 +65,7 @@ PLEASE, help us to make this list complete. If you bump into an abbreviation or 
 
 ## E
 
-**ELI: European Legislation Identifier**
+**ELI: European Legislation Identifier.** The European Legislation Identifier ([ELI](https://eur-lex.europa.eu/legal-content/AUTO/?uri=CELEX:52017XG1222\(02\))) is a system to make legislation available online in a standardised format, so that it can be accessed, exchanged and reused across borders.
 
 **Embeddable** is a 'stripped' version of the application GN/ Linked Minutes that helps local authorities create, annotate and publish agendas, decisions and minutes according to the linked open data principle. This embeddable version is aimed at software suppliers of local governments. The goal of this tool is that they can easily integrate it into the software they have supplied to their customers (local authorities). In this way they do not have to invest time in developing and maintaining core components. The benefit for us as supervising agency is that the quality of the annotated data in the decisions made with this embeddable is up to our standards guaranteeing the reusability of the data.
 
