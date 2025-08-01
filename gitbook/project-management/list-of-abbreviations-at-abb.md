@@ -19,6 +19,8 @@ PLEASE, help us to make this list complete. If you bump into an abbreviation or 
 
 **AVG: Algemene Verordening Gegevensbescherming/ General Data Protection Regulation:** The GDPR stipulates that member states consult the supervisory authority when drawing up draft regulations relating to the processing of personal data. At Flemish level, the VTC is the competent authority from whom such advice should be sought. Every organisation should perform a risk assessment and implement fitting technical and organisation measures for every data processing activity. Refer to DPO and DPIA.
 
+**AU: AppUniversum**: Design system of ABB (based on WU)
+
 ## B
 
 **BBC-DR: Beleids-en Beheerscyclus - Digitale Rapportering** is a module in Loket Lokale Besturen helping local authorities to comply to / fulfill legal requirements with respect to (financial?) reporting over past periods.&#x20;
@@ -29,7 +31,7 @@ PLEASE, help us to make this list complete. If you bump into an abbreviation or 
 
 **BNB: Burgernabije Besluitendatabank/ Public descisions database for civilians** is a public decision database of Agentschap Binnenlands Bestuur that aims at making available all public decisions that were reported or submitted by the local authorities and that are related to themes that concern citizens.
 
-**BRM: the Backlog Refinement Meeting** is a get together of the product team (scum team, product owner, scrum master and product manager eventually) to refine the backlog as a preparation for an upcoming sprint. More information on the BRM is to be found [here](https://app.gitbook.com/s/-MP9YhmfGLVRY7JjkhY8-887967055/project-management-and-working-together/de-ontwikkelcadans/4-reguliere-sprints/backlog-refinement-meeting).
+**BRM: the Backlog Refinement Meeting** is a get together of the product team (scum team, product owner, scrum master and product manager eventually) to refine the backlog as a preparation for an upcoming sprint. More information on the BRM is to be found [here](https://app.gitbook.com/s/-MP9YhmfGLVRY7JjkhY8-887967055/project-management-and-working-together/de-ontwikkelcadans/sprints-en-sprintplanning/de-sprint-ceremonies/backlog-refinement-meeting).
 
 **BSBVR: Beleid Steden, Brussel & Vlaamse Rand** is a team of Agentschap Binnenlands Bestuur that has [the following tasks and responsibilities](https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-kanselarij-bestuur-buitenlandse-zaken-en-justitie/agentschap-binnenlands-bestuur/beleid-steden-brussel-en-vlaamse-rand).
 
@@ -39,6 +41,8 @@ PLEASE, help us to make this list complete. If you bump into an abbreviation or 
 
 **CEB: Centraal Bestuur van de Eredienst / The central boards of the worship service** mainly have financial tasks. In certain cases, they also stimulate communication and coordination at municipal and provincial level.​​​​​​
 
+**CLBV: Contactgegevens Lokale Besturen en Verenigingen**
+
 **CPD: Centrale PlanningsDag / Central Planning Day**, the core planning and demo event of every growthspurt that takes place every second Thursday of the IPI - Innovation and Planning Iteration. During this event the product teams demo what value has been delivered to the users or ABB as an organization. The demo is being watched by a large number of stakeholders and the various team members. After the demo's the teams gather in breakout sessions to plan the upcoming growthspurt. The CPD is concluded with a plenary session where the results of the planning sessions are being presented. Main focus during this final part of the CPD is on the spurtgoals for every product(team).
 
 **COP: A community of practice** takes place around a certain role in the operation or specific competencies. During these meetings, examples are shared, new techniques are taught or even new practices are developed.
@@ -47,17 +51,27 @@ PLEASE, help us to make this list complete. If you bump into an abbreviation or 
 
 ## D
 
+**DCAT: Data Catalogus**
+
+**DECIDe:** Data driven Exploration in Contextual Information on Decisions
+
 **DPIA: Data Protection Impact Assessment**, is an assessment which documents the technical and organizational measures (how we build controls into techology or how we organize people against risks) the agency implements to protect personal data processed by the agency. Every application should have a personal data processing risk assessment documenten. If there are significant risks to the protection of personal data, we perform a DPIA, which the DPO must advize on. Management must accept residual risks.
 
-**DPO: Data protection officer**, ensures, in an independent manner, that an organization applies the laws protecting individuals' [personal data](https://en.wikipedia.org/wiki/Personal\_data). (Ref Wikipedia [https://en.wikipedia.org/wiki/Data\_protection\_officer](https://en.wikipedia.org/wiki/Data\_protection\_officer)) In Europe, this is the GDPR [https://en.wikipedia.org/wiki/General\_Data\_Protection\_Regulation](https://en.wikipedia.org/wiki/General\_Data\_Protection\_Regulation) aka AVG, Algemene Verordening Gegevensbescherming.
+**DPO: Data protection officer**, ensures, in an independent manner, that an organization applies the laws protecting individuals' [personal data](https://en.wikipedia.org/wiki/Personal_data). (Ref Wikipedia [https://en.wikipedia.org/wiki/Data\_protection\_officer](https://en.wikipedia.org/wiki/Data_protection_officer)) In Europe, this is the GDPR [https://en.wikipedia.org/wiki/General\_Data\_Protection\_Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) aka AVG, Algemene Verordening Gegevensbescherming.
 
+**DS4SSCC: Data Space for Smart and Sustainable Cities and Communities** [https://www.ds4sscc.eu/](https://www.ds4sscc.eu/)
 
+**DSSC: Data Space for Smart Communities**
 
 ## E
+
+**ELI: European Legislation Identifier**
 
 **Embeddable** is a 'stripped' version of the application GN/ Linked Minutes that helps local authorities create, annotate and publish agendas, decisions and minutes according to the linked open data principle. This embeddable version is aimed at software suppliers of local governments. The goal of this tool is that they can easily integrate it into the software they have supplied to their customers (local authorities). In this way they do not have to invest time in developing and maintaining core components. The benefit for us as supervising agency is that the quality of the annotated data in the decisions made with this embeddable is up to our standards guaranteeing the reusability of the data.
 
 **EVA:** Extern Verzelfstandigd Agentschap/ Municipal externally autonomous agency is a services with it's own legal personality. It may take a public or private form.
+
+**ERE: Erediensten**
 
 ## F
 
@@ -73,6 +87,8 @@ PLEASE, help us to make this list complete. If you bump into an abbreviation or 
 
 **GSM: Gemeente-stadsmonitor** is is a [digital 'environmental scanning tool'](https://gemeente-stadsmonitor.vlaanderen.be/over-de-gemeente-stadsmonitor) that maps the broad environment of every Flemish municipality and city. The monitor contains more than 300 environmental indicators or series of figures, of which more than 100 are collected by means of a three-yearly citizen survey.
 
+**GVDT: Gemeentehuis Van De Toekomst.** Previously known as GZG
+
 **GZG: Gemeenten Zonder Gemeentehuis/ Municipalities without a town hall** is subsidy program that supports local authorities in Flanders to jointly develop innovative, digital solutions to make their services more efficient and customer-oriented. The first call was opened in September 2021, the last call ran until September 30, 2022. Agentschap Binnenlands Bestuur is closely involved in the management of this program.
 
 ## H
@@ -85,7 +101,7 @@ PLEASE, help us to make this list complete. If you bump into an abbreviation or 
 
 **IGS: InterGemeentelijk Samenwerkingsverband/ Intermunicipal partnership** is a generic term for the joint provision of public services by several municipalities. The cooperating municipalities are usually (but not always) neighboring municipalities.
 
-**IPDC: the Intergovernmental Products and Services Catalog (IPDC)** provides an overview of the various services provided by the local, Flemish and federal government. The IPDC is integrated into the 'Single Digital Gateway' of the European Union making sure that (selected) local, Flemish and Federal services are visible on [https://europa.eu/youreurope/](https://europa.eu/youreurope/)
+**IPDC: Interbestuurlijke Producten en Diensten Catalogus - Intergovernmental Products and Services Catalog** provides an overview of the various services provided by the local, Flemish and federal government. The IPDC is integrated into the 'Single Digital Gateway' of the European Union making sure that (selected) local, Flemish and Federal services are visible on [https://europa.eu/youreurope/](https://europa.eu/youreurope/)
 
 **IPI: Innovation and Planning Iteration**, the fifth and final sprint of a (growth)spurt in which the team makes time for planning and innovation. The idea is to create a break from delivering product features and deliberatly creating room to plan carefully and try out/ experiment things that might come in handy in the future.
 
@@ -106,7 +122,11 @@ PLEASE, help us to make this list complete. If you bump into an abbreviation or 
 
 **LBLOD: Lokale Besluiten als Linked Open Data /** **Local Decisions as Linked Open Data** (LBLOD) is a program. It includes all ABB projects on linked data and local decision making. By publishing the data in local decisions as linked open data, organisations can reuse that data more easily. Linked data is standardised, making it easy for machines to find and process it. Anyone can work with the information in the local acts thanks to LBLOD.
 
+**LBRON**: Lokale Bronnen
+
 **LDB: Leidinggevenden DataBank/ Executives Database** is a repository that is maintained by the local authorities [through a module in the Loket Lokale Besturen of ABB (leidinggevendenbeheer)](https://app.gitbook.com/s/-MUxLEJUEskn-COptDln/modules/leidinggevendenbeheer). It contains (contact)information of persons maintaining executive positions at the local authorities.
+
+**LD\&L: Local Decisions & Legislation**
 
 **LDES: A Linked Data Event Stream** is a new data publishing approach which allows you to publish any dataset as a collection of immutable objects. The focus of an LDES is to allow clients to replicate the history of a dataset and efficiently synchronize with its latest changes.
 
@@ -114,9 +134,11 @@ PLEASE, help us to make this list complete. If you bump into an abbreviation or 
 
 **LLB: Loket Lokale Besturen/ Counter for Local Authorities** is an online application of Agentschap Binnenlands Bestuur for data sharing between local authorities and the agency. It consists of different modules used for different communication topics or purposes.
 
+**LMB: Lokaal Mandatenbeheer**
+
 **LOW: Lokale Organisatie & Werking** is a team of Agentschap Binnenlands Bestuur that has [the following tasks and responsibilities](https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-kanselarij-bestuur-buitenlandse-zaken-en-justitie/agentschap-binnenlands-bestuur/lokale-organisatie-en-werking).
 
-**LPDC: Lokale Producten en DienstenCatalogus/ local products and services catalog** is a digital repository that provides an overview of the various services provided by the local governments. The repository is managed by the local authorities through a webapplication built and maintained by ABB. The creation, the update or deletion of services is synced with the IPDC.
+**LPDC: Lokale Producten en DienstenCatalogus/ Local products and services catalog** is a digital repository that provides an overview of the various services provided by the local governments. The repository is managed by the local authorities through a webapplication built and maintained by ABB. The creation, the update or deletion of services is synced with the IPDC.
 
 **LSVP: Lokale Samenwerking, Verzelfstandiging & Personeel** is a team of Agentschap Binnenlands Bestuur that has [the following tasks and responsibilities](https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-kanselarij-bestuur-buitenlandse-zaken-en-justitie/agentschap-binnenlands-bestuur/lokale-samenwerking-verzelfstandiging-en-personeel).
 
@@ -136,6 +158,8 @@ PLEASE, help us to make this list complete. If you bump into an abbreviation or 
 
 **OP: Organisatieportaal / Organization Portal** is a web application used by people at Agentschap Binnenlands Bestuur to visualize and edit data about governing public organizations of local authorities and worship services and people linked to these organizations.
 
+**OPH: Open Proces Huis**
+
 **OSLO: Open Standards for Linking Organizations** is an unambiguous standard for the exchange of information brought to life by the Government of Flanders. The intention is to ensure more cohesion, better comprehensibility and better findability of information and services. In this way, everyone can use the data more easily.
 
 ## P
@@ -154,7 +178,7 @@ PLEASE, help us to make this list complete. If you bump into an abbreviation or 
 
 ## R
 
-**RDFA: Resource Description Framework in Attributes** is a [W3C](https://en.wikipedia.org/wiki/W3C) Recommendation that adds a set of [attribute-level](https://en.wikipedia.org/wiki/HTML\_attribute) extensions to [HTML](https://en.wikipedia.org/wiki/HTML5), [XHTML](https://en.wikipedia.org/wiki/XHTML) and various XML-based document types for embedding rich [metadata](https://en.wikipedia.org/wiki/Metadata) within Web documents. The [Resource Description Framework](https://en.wikipedia.org/wiki/Resource\_Description\_Framework) (RDF) data-model mapping enables its use for embedding RDF [subject-predicate-object expressions](https://en.wikipedia.org/wiki/Resource\_Description\_Framework#Overview) within XHTML documents. It also enables the extraction of RDF model triples by compliant [user agents](https://en.wikipedia.org/wiki/User\_agent). Ultimately, this recommendation is followed by organizations that want to make their data/ content machine readable.
+**RDFA: Resource Description Framework in Attributes** is a [W3C](https://en.wikipedia.org/wiki/W3C) Recommendation that adds a set of [attribute-level](https://en.wikipedia.org/wiki/HTML_attribute) extensions to [HTML](https://en.wikipedia.org/wiki/HTML5), [XHTML](https://en.wikipedia.org/wiki/XHTML) and various XML-based document types for embedding rich [metadata](https://en.wikipedia.org/wiki/Metadata) within Web documents. The [Resource Description Framework](https://en.wikipedia.org/wiki/Resource_Description_Framework) (RDF) data-model mapping enables its use for embedding RDF [subject-predicate-object expressions](https://en.wikipedia.org/wiki/Resource_Description_Framework#Overview) within XHTML documents. It also enables the extraction of RDF model triples by compliant [user agents](https://en.wikipedia.org/wiki/User_agent). Ultimately, this recommendation is followed by organizations that want to make their data/ content machine readable.
 
 **RVM: Register van Maatregelen/ Register of measures** is a central digital register for all kinds of measures. Agentschap Binnenlands Bestuur is creating this central repository together with other agencies of the Goverment of Flanders. The register features traffic signs and traffic roadmarks, ...
 
@@ -172,7 +196,7 @@ PLEASE, help us to make this list complete. If you bump into an abbreviation or 
 
 ## T
 
-
+**TLA**: Three letter acronym :)&#x20;
 
 ## U
 
@@ -184,11 +208,19 @@ PLEASE, help us to make this list complete. If you bump into an abbreviation or 
 
 **VIP: Vastgoed Informatie Platform or The Property Information Platform** is an initiative of the municipalities, in collaboration with VVSG, the real estate sector (CIB & FedNot) and the Flemish Government. Digital Flanders is responsible for the development of the platform and operational management. The aim of VIP is to become a digital portal where the applicant for real estate information can request the necessary data in the context of a sale or long-term rental in one simple way. The platform then collects all data from the available, connected sources (central registers & municipalities).
 
+**VLAG: Volgen van Linkende Asset Gegevens**
+
 **VLOCA: Vlaamse Open City Architectuur/ Flemish Open City Architecture** is a trajectory that offers an initiator of a city project a standardized approach in establishing the architectural elements of an open city project. VLOCA's standardized approach and deliverables ensure that every open city project is formed in the same way, can benefit from each other's achievements and ultimately results in an optimally interoperable solution throughout Flanders.
+
+**VMM: Vlaamse Milieu Maatschappij**
 
 ## W
 
+**W3C: World Wide Web Consortium**
 
+**Web3.0: Semantic Web.** The goal of the Semantic Web is to make Internet data machine-readable.
+
+**WU: WebUniversum.** Design system of Vlaamse Overheid
 
 ## X
 
