@@ -23,7 +23,7 @@ PLEASE, help us to make this list complete. If you bump into an abbreviation or 
 
 ## B
 
-**BBC-DR: Beleids-en Beheerscyclus - Digitale Rapportering** is a module in Loket Lokale Besturen helping local authorities to comply to / fulfill legal requirements with respect to (financial?) reporting over past periods.&#x20;
+**BBC-DR: Beleids-en Beheerscyclus - Digitale Rapportering = Policy and Management Cycle** is a module in Loket Lokale Besturen helping local authorities to comply to / fulfill legal requirements with respect to (financial?) reporting over past periods.&#x20;
 
 **BC\&K: Beleidscoördinatie en Kennisorgansiatie** is a team of Agentschap Binnenlands Bestuur that has [the following tasks and responsibilities](https://www.vlaanderen.be/organisaties/administratieve-diensten-van-de-vlaamse-overheid/beleidsdomein-kanselarij-bestuur-buitenlandse-zaken-en-justitie/agentschap-binnenlands-bestuur/beleidscoordinatie-en-kennisorganisatie).&#x20;
 
