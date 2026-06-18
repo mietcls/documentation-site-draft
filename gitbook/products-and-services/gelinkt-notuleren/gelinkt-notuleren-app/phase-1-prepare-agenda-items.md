@@ -40,7 +40,7 @@ The agenda items are prepared for various governing bodies. In the application y
 | **Article number**                                   | Sequential numbers.                                                                                                                                         | Yes                          | Minutes, excerpts                    |
 | **Article content**                                  | Content                                                                                                                                                     | Yes                          | Minutes, excerpts                    |
 
-![Dutch visualisation of agendapoint](https://gblobscdn.gitbook.com/assets%2F-MP9YhmfGLVRY7JjkhY8%2F-Ma-jd-wkPTQmwsOzO25%2F-Ma-lL9\_BrLdG3O8HxIH%2FAgendapunt.png?alt=media\&token=97973568-6102-4d60-a7f6-97712cc35238)
+![Dutch visualisation of agendapoint](https://gblobscdn.gitbook.com/assets%2F-MP9YhmfGLVRY7JjkhY8%2F-Ma-jd-wkPTQmwsOzO25%2F-Ma-lL9_BrLdG3O8HxIH%2FAgendapunt.png?alt=media\&token=97973568-6102-4d60-a7f6-97712cc35238)
 
 
 
@@ -61,11 +61,11 @@ Roles It is important that each department and all secretarial staff have the ro
 
 In Gelinkt Notuleren, files can be prepared in the **Agendapunten (Agenda Items)** tab. It is also possible to create a session directly and add agenda items there - but that is less flexible.
 
-![Example of overview of agenda items](<../../../.gitbook/assets/Screenshot 2021-05-10 at 19.37.12.png>)
+![Example of overview of agenda items](<../../../../.gitbook/assets/Screenshot 2021-05-10 at 19.37.12.png>)
 
 Agenda items that were adjourned can be copied so they do not have to be rebuilt.
 
-![Een agendapunt kopiëren](<../../../.gitbook/assets/Screenshot 2021-05-20 at 11.29.38.png>)
+![Een agendapunt kopiëren](<../../../../.gitbook/assets/Screenshot 2021-05-20 at 11.29.38.png>)
 
 ### Status
 
@@ -79,7 +79,7 @@ At this stage only `Concept` is applicable.
 
 ### Templates (Sjablonen)
 
-![Example of templates](<../../../.gitbook/assets/Screenshot 2021-05-18 at 18.51.34 copy-2.png>)
+![Example of templates](<../../../../.gitbook/assets/Screenshot 2021-05-18 at 18.51.34 copy-2.png>)
 
 Whenever you start a new agenda item, you start with one of 2 generic templates: **decisions** (with an optional vote) and **free text**. Examples of agenda items:
 

@@ -4,11 +4,11 @@ The Agency of Home Affairs works closely together with the department Mobiliteit
 
 ## Concept
 
-![](https://gblobscdn.gitbook.com/assets%2F-MVupYAHNVzLJMwHA9lT%2F-MX2Lj1DOAsM5uzFbY-X%2F-MX2VS3QW\_iyx9ZLfKUU%2FvisualisatieRegister\_ENG.png?alt=media\&token=47148b23-01b1-4ec5-b9da-24a5ca92b63e)
+![](https://gblobscdn.gitbook.com/assets%2F-MVupYAHNVzLJMwHA9lT%2F-MX2Lj1DOAsM5uzFbY-X%2F-MX2VS3QW_iyx9ZLfKUU%2FvisualisatieRegister_ENG.png?alt=media\&token=47148b23-01b1-4ec5-b9da-24a5ca92b63e)
 
 ## Architecture
 
-![Click to see architecture in detail](<../.gitbook/assets/app-mow-registry architecture diagram.png>)
+![Click to see architecture in detail](<../../.gitbook/assets/app-mow-registry architecture diagram.png>)
 
 ### Setup
 

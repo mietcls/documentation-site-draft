@@ -17,7 +17,7 @@ The context in which the agenda items are handled can now be provided.
 | **President (or replacement)** | Who assumed the role of chairman of the council.  | Yes                | Minutes, decision list, excerpts |
 | **Secretary (or replacement)** | Who assumed the role of secretary of the council. | Yes                | Minutes, decision list, excerpts |
 
-![Information about a session \[Dutch\]](<../../../.gitbook/assets/Screenshot 2021-05-21 at 17.18.14.png>)
+![Information about a session \[Dutch\]](<../../../../.gitbook/assets/Screenshot 2021-05-21 at 17.18.14.png>)
 
 ## Completing the Session: Treatment of Each Agenda Item
 
@@ -36,7 +36,7 @@ For each agenda item the attendees, the votes and the decision are entered. Mult
 | **Result of a vote**          | What is the consequence of this vote.                                                        | Yes                | Minutes, decision list, excerpts |
 | **Closure of the session**    | When did the chair(wo)man close the session                                                  | Yes                | Minutes                          |
 
-![Information about agenda items and closure of the session \[Dutch\]](<../../../.gitbook/assets/Screenshot 2021-05-21 at 17.19.06.png>)
+![Information about agenda items and closure of the session \[Dutch\]](<../../../../.gitbook/assets/Screenshot 2021-05-21 at 17.19.06.png>)
 
 ## How does it work in Gelinkt Notuleren?
 
@@ -55,7 +55,7 @@ It is important that each department and all secretarial staff have the role Wri
 
 In Gelinkt Notuleren, files can be prepared in the **Agendapunten (Agenda Items)** tab. It is also possible to create a session directly and add agenda items there - but this is less flexible.
 
-![Voorbeeld van overzicht van agendapunten](<../../../.gitbook/assets/Screenshot 2021-05-10 at 19.37.12.png>)
+![Voorbeeld van overzicht van agendapunten](<../../../../.gitbook/assets/Screenshot 2021-05-10 at 19.37.12.png>)
 
 ### Status
 

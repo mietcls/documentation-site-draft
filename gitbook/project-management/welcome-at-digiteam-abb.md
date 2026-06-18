@@ -6,7 +6,7 @@ As a team we work day to day to strengthen our democracy by actively informing a
 
 Read more about this in the document below describing our vision and mission, about our values as an organization:
 
-{% file src="../.gitbook/assets/VisieDigiteam_20230608.pdf" %}
+{% file src="../../.gitbook/assets/VisieDigiteam_20230608.pdf" %}
 
 or listen to Veronique and Pieter talking about our vision and mission as a team:
 

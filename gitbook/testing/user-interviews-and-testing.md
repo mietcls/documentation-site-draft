@@ -10,7 +10,7 @@ Since 2020 we have been conducting remote, online, user tests and interviews. We
 
 ## Template
 
-{% file src="../.gitbook/assets/User Testing Template.xlsx" %}
+{% file src="../../.gitbook/assets/User Testing Template.xlsx" %}
 Remote user interview & testing template \[dutch]
 {% endfile %}
 
@@ -31,7 +31,7 @@ Remote user interview & testing template \[dutch]
 * Why
   * What do you want to do with these answers afterwards? Do you want to make sure you know what new features to develop, or which ones to improve? Or would you want to set up webinars afterwards to get people to use it? Many options.
 
-![Tab one: Scope & Overview](<../.gitbook/assets/Screenshot 2021-04-07 at 13.57.30.png>)
+![Tab one: Scope & Overview](<../../.gitbook/assets/Screenshot 2021-04-07 at 13.57.30.png>)
 
 #### Overview
 
@@ -51,7 +51,7 @@ No clue how to time it? Do an internal pre-test with some colleagues to give you
 
 ### Attendees \[deelnemers-locatie]
 
-![](<../.gitbook/assets/Screenshot 2021-04-07 at 17.04.14.png>)
+![](<../../.gitbook/assets/Screenshot 2021-04-07 at 17.04.14.png>)
 
 #### Interviewees
 
@@ -88,7 +88,7 @@ Consider turning off camera's for people that are not taking the interview, but 
 
 The goal of the introduction is to make people feel at home and set expectations.
 
-![](<../.gitbook/assets/Screenshot 2021-04-07 at 17.13.24.png>)
+![](<../../.gitbook/assets/Screenshot 2021-04-07 at 17.13.24.png>)
 
 #### Introduce everyone
 
@@ -129,7 +129,7 @@ To understand the feedback you're getting from your interviewees, you need some 
   * You'll most likely get an answer
   * It's easier to note down.
 
-![](<../.gitbook/assets/Screenshot 2021-04-07 at 17.27.11.png>)
+![](<../../.gitbook/assets/Screenshot 2021-04-07 at 17.27.11.png>)
 
 #### Questions
 
@@ -198,7 +198,7 @@ If you are testing raw ideas, you'll probably share wireframes (via screen shari
 * Make sure people don't have to see a cluttered background, irrelevant information or irrelevant tabs pass by.
 * Take it easy. Don't make people motion-sick. Give them time to inspect.
 
-![](<../.gitbook/assets/Screenshot 2021-04-07 at 18.05.20.png>)
+![](<../../.gitbook/assets/Screenshot 2021-04-07 at 18.05.20.png>)
 
 **Your testing questions will depend on which type of test it will be. The main setup is giving someone an assignment, see how they complete it, and ask them nudging questions to discover what is going on in their mind.**
 
@@ -218,8 +218,7 @@ Refrain from giving people answers. If they ask you "is it this button?", you ca
 
 * Add as many rows as needed to keep an overview.
 * If you are interviewing multiple people at the same time (depending on your situation this can happen, even if it is not always ideal) add initials or tag of the person that is completing the task/answering a question or to the information you are writing down.
-* If multiple people are editing, make sure you're not overriding what they just wrote down.\
-
+* If multiple people are editing, make sure you're not overriding what they just wrote down.<br>
 * What to fill out
   * `Opdracht gelukt` Did they succeed?
     * Think of a system up front like "yes / no / almost"
@@ -249,7 +248,7 @@ If you decide to do a guided test, and **want to teach people how to work with y
 
 ### Final questions
 
-![](<../.gitbook/assets/Screenshot 2021-04-07 at 18.33.39.png>)
+![](<../../.gitbook/assets/Screenshot 2021-04-07 at 18.33.39.png>)
 
 #### The holy grail
 
@@ -273,9 +272,9 @@ Tell people what is going to happen.
 
 When you're done with _all_ the interviews, you can start drawing conclusions. This is will be different for each set-up. Up front, you can however define which conclusions you know you already want to draw – but you don't know what you don't know, so this will change.
 
-![](<../.gitbook/assets/Screenshot 2021-04-07 at 17.49.31.png>)
+![](<../../.gitbook/assets/Screenshot 2021-04-07 at 17.49.31.png>)
 
-![](<../.gitbook/assets/Screenshot 2021-04-07 at 18.34.15.png>)
+![](<../../.gitbook/assets/Screenshot 2021-04-07 at 18.34.15.png>)
 
 ###
 

@@ -53,11 +53,11 @@ Within Gelinkt Notuleren, you create an agenda within a session - so it must be 
 | **Planned hour**   | When the session was scheduled to begin.   | Yes                | Agenda             |
 | **Location**       | Where will the session take place.         | Not yet            | /                  |
 
-![Information about the session \[Dutch\]](<../../../.gitbook/assets/Screenshot 2021-05-21 at 12.19.35.png>)
+![Information about the session \[Dutch\]](<../../../../.gitbook/assets/Screenshot 2021-05-21 at 12.19.35.png>)
 
 After that, the agenda items that were prepared are added to the session.
 
-![Data for the agenda \[Dutch\]](<../../../.gitbook/assets/Screenshot 2021-05-21 at 14.04.34.png>)
+![Data for the agenda \[Dutch\]](<../../../../.gitbook/assets/Screenshot 2021-05-21 at 14.04.34.png>)
 
 First, the agenda item is linked to the session. Then a title and description (optional) are added to the session for that agenda item. This title and description are used when publishing the agendas.
 

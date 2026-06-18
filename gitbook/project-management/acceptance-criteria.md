@@ -30,6 +30,6 @@ Acceptance criteria for user stories are smaller in size and scoped to the conte
 
 ## Examples of Acceptance criteria
 
-![Acceptance criteria as a checllst on user story level](../.gitbook/assets/1pxeIQSXBInjRf-Lnofdq\_A.jpeg)
+![Acceptance criteria as a checllst on user story level](../../.gitbook/assets/1pxeIQSXBInjRf-Lnofdq_A.jpeg)
 
-![Acceptance criteria on user story writen as Given/ When/ Then](../.gitbook/assets/example-1.png)
+![Acceptance criteria on user story writen as Given/ When/ Then](../../.gitbook/assets/example-1.png)

@@ -6,7 +6,7 @@
 
 Access rights are granted by the **local administrator** who is on each board. Usually this is the secretary/general manager, clerk or someone designated by the organization. So it is best to check with them if you do not know who your local administrator is.
 
-![](<../../.gitbook/assets/gebruikersbeheer-vlaanderen (2).png>)
+![](<../../../.gitbook/assets/gebruikersbeheer-vlaanderen (2).png>)
 
 ## **Log in**
 
@@ -14,29 +14,29 @@ To assign rights to users as a local administrator, visit [**https://vo-gebruike
 
 Sign in using your preferred sign-in system:
 
-![Overview of login options for Gebruikersbeheer Vlaanderen](../../.gitbook/assets/gebruikersbeheer-0-login.png)
+![Overview of login options for Gebruikersbeheer Vlaanderen](../../../.gitbook/assets/gebruikersbeheer-0-login.png)
 
 Next, **choose the appropriate target audience**, and the board you want to apply to.
 
-![Kies type bestuur](../../.gitbook/assets/2-gebruikersbeheer-1%2B2-type%2Bbestuur.png)
+![Kies type bestuur](../../../.gitbook/assets/2-gebruikersbeheer-1%2B2-type%2Bbestuur.png)
 
 Click "**snel rechten toekennen**" to start.
 
-![Beheer rechten](../../.gitbook/assets/3-gebruikersbeheer-4-rechten.png)
+![Beheer rechten](../../../.gitbook/assets/3-gebruikersbeheer-4-rechten.png)
 
 ## Looking for the Right Person
 
 You will see an overview, where you can search for the right person.
 
-![List of people you can give rights to.](../../.gitbook/assets/4-gebruikersbeheer-5-overzicht-personen.png)
+![List of people you can give rights to.](../../../.gitbook/assets/4-gebruikersbeheer-5-overzicht-personen.png)
 
-![Look for a person](../../.gitbook/assets/5-gebruikersbeheer-6-zoeken-b.png)
+![Look for a person](../../../.gitbook/assets/5-gebruikersbeheer-6-zoeken-b.png)
 
 ## Looking for the Correct Rights
 
 Then you can look for the appropriate entitlements for the selected person. Depending on the application you choose, it will be a different right.
 
-![Overview rights](<../../.gitbook/assets/6-gebruikersbeheer-7-overzicht-rechten (1).png>)
+![Overview rights](<../../../.gitbook/assets/6-gebruikersbeheer-7-overzicht-rechten (1).png>)
 
 ### Overview Rights Per Application
 
@@ -46,11 +46,11 @@ Then you can look for the appropriate entitlements for the selected person. Depe
 
 #### Example "Gelinkt Notuleren".
 
-![Example "Gelinkt Notuleren".](../../.gitbook/assets/6-gebruikersbeheer-7-overzicht-rechten.png)
+![Example "Gelinkt Notuleren".](../../../.gitbook/assets/6-gebruikersbeheer-7-overzicht-rechten.png)
 
 #### Example looking for "Loket voor Lokale Besturen"
 
-![Example looking for "Loket voor Lokale Besturen"](../../.gitbook/assets/6-gebruikersbeheer-8-zoeken-rechten-b.png)
+![Example looking for "Loket voor Lokale Besturen"](../../../.gitbook/assets/6-gebruikersbeheer-8-zoeken-rechten-b.png)
 
 ## Assigning Roles or Contexts
 
@@ -79,7 +79,7 @@ You can grant or deny a user access to certain parts of the application using co
 
 Once a user has access to a particular context, this user can perform all actions for the associated components. A user can be granted rights to multiple contexts.
 
-![Choosing example contexts for Loket Lokaal Bestuur](../../.gitbook/assets/7-gebruikersbeheer-10-uitgeklapt.png)
+![Choosing example contexts for Loket Lokaal Bestuur](../../../.gitbook/assets/7-gebruikersbeheer-10-uitgeklapt.png)
 
 Voorbeeld van 7 contexten voor Loket Lokaal Bestuur:
 
@@ -91,20 +91,20 @@ Voorbeeld van 7 contexten voor Loket Lokaal Bestuur:
 * Context Gebruiker Personeelsbeheer: recht op onderdeel personeelsbeheer.
 * Context Gebruiker Subsidies: recht op onderdeel subsidiebeheer.
 
-![Gekozen contexten voor Loket Lokaal Bestuur](../../.gitbook/assets/8-2-gebruikersbeheer-11-2-contexten-b.png)
+![Gekozen contexten voor Loket Lokaal Bestuur](../../../.gitbook/assets/8-2-gebruikersbeheer-11-2-contexten-b.png)
 
 ## Giving a reason
 
 Also provide a reason for granting the right.
 
-![Example reason for Loket Lokaal Bestuur](../../.gitbook/assets/9-gebruikersbeheer-12-reden.png)
+![Example reason for Loket Lokaal Bestuur](../../../.gitbook/assets/9-gebruikersbeheer-12-reden.png)
 
 ## Complete the Process
 
 You will be asked to confirm the assignment of permissions, after which a message will appear if the process was completed successfully.
 
-![Example of Confirmation Local Government](../../.gitbook/assets/10-gebruikersbeheer-13-confirm.png)
+![Example of Confirmation Local Government](../../../.gitbook/assets/10-gebruikersbeheer-13-confirm.png)
 
-![Example successfully granted right](../../.gitbook/assets/12-gebruikersbeheer-14-success.png)
+![Example successfully granted right](../../../.gitbook/assets/12-gebruikersbeheer-14-success.png)
 
 The person can now[ sign in](signing-in.md) with the assigned roles or contexts for the chosen application.
